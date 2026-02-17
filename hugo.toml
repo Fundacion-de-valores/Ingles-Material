@@ -1,0 +1,8 @@
+baseURL = "https://TU_USUARIO.github.io/tu-repo-ingles/"
+languageCode = "es"
+title = "Curso de Inglés"
+theme = "congo"
+
+[params]
+  colorScheme = "blowfish" # Un tema oscuro/claro elegante
+  description = "Material del curso de inglés"
