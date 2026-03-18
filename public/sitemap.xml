@@ -4,25 +4,40 @@
   
     
       <url>
+            <loc>http://localhost:1313/Ingles-Material/a1/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/Ingles-Material/a2/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/Ingles-Material/b1/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/Ingles-Material/b2/</loc>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/Ingles-Material/</loc>
-            <lastmod>2026-02-16T00:00:00+00:00</lastmod>
           </url>
+    
+  
     
   
     
       <url>
-            <loc>http://localhost:1313/Ingles-Material/semana-1/dia-1/</loc>
-            <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+            <loc>http://localhost:1313/Ingles-Material/elementary/</loc>
           </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/Ingles-Material/semana-1/</loc>
-            <lastmod>2026-02-16T00:00:00+00:00</lastmod>
-          </url>
-    
-  
     
   
     
