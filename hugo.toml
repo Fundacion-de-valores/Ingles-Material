@@ -6,3 +6,7 @@ theme = "congo"
 [params]
   colorScheme = "blowfish" # Un tema oscuro/claro elegante
   description = "Material del curso de inglés"
+  showTableOfContents = true
+
+[params.article]
+  showPagination = false
