@@ -1,4 +1,9 @@
-# Day 1 - Week 1
+---
+title: "Day 1 - Week 1"
+description: "Magic Questions and Phrases, Greetings, Articles"
+weight: 1
+showTableOfContents: true
+---
 
 ## Temas del Día
 **Magic Questions and Phrases**

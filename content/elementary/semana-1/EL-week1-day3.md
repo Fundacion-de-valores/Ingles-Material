@@ -1,4 +1,9 @@
-# Day 3 – Week 1
+---
+title: "Day 3 - Week 1"
+description: "Personal Pronouns"
+weight: 3
+showTableOfContents: true
+---
 
 ## Temas del día:
 

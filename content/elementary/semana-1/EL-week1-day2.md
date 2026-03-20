@@ -1,4 +1,9 @@
-# Day 2 - Week 1
+---
+title: "Day 2 - Week 1"
+description: "How to pray in English, The Alphabet, Verbs"
+weight: 2
+showTableOfContents: true
+---
 ## Temas del día
 
  **How to pray in English: FOR vs. TO**

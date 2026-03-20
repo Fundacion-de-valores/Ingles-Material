@@ -1,4 +1,9 @@
-# Day 4 - Week 1
+---
+title: "Day 4 - Week 1"
+description: "Cardinal Numbers, The Time"
+weight: 4
+showTableOfContents: true
+---
 ## Temas del día
 
 * Cardinal Numbers
