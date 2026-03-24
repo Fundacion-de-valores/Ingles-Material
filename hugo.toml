@@ -8,5 +8,14 @@ theme = "congo"
   description = "Material del curso de inglés"
   showTableOfContents = true
 
+[params.footer]
+  showAppearanceSwitcher = false
+
+[[menus.main]]
+  name = ""
+  weight = 10
+  [menus.main.params]
+    action = "appearance"
+
 [params.article]
   showPagination = false

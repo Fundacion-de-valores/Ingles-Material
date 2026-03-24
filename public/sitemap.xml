@@ -10,7 +10,19 @@
   
     
       <url>
+            <loc>http://localhost:1313/Ingles-Material/elementary/semana-1/el-week1-day1/</loc>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/Ingles-Material/a1/semana-2/dia-1/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/Ingles-Material/elementary/semana-2/el-week2-day1/</loc>
           </url>
     
   
@@ -28,7 +40,19 @@
   
     
       <url>
+            <loc>http://localhost:1313/Ingles-Material/elementary/semana-1/</loc>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/Ingles-Material/a1/semana-1/dia-2/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/Ingles-Material/elementary/semana-1/el-week1-day2/</loc>
           </url>
     
   
@@ -52,7 +76,19 @@
   
     
       <url>
+            <loc>http://localhost:1313/Ingles-Material/elementary/semana-2/</loc>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/Ingles-Material/a1/semana-1/dia-3/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/Ingles-Material/elementary/semana-1/el-week1-day3/</loc>
           </url>
     
   
@@ -71,6 +107,12 @@
     
       <url>
             <loc>http://localhost:1313/Ingles-Material/a1/semana-3/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/Ingles-Material/elementary/semana-1/el-week1-day4/</loc>
           </url>
     
   

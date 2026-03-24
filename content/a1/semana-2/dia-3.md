@@ -5,10 +5,6 @@ weight: 3
 showTableOfContents: true
 ---
 
-# Day 3 — Week 2
-
----
-
 ## 🎯 Learning Objectives
 
 > **At the end of the class, you will be able to:**
