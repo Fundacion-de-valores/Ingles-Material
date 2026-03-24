@@ -1,3 +1,10 @@
+---
+title: Day 2 - Week 3"
+description: "Berb Be in Past, Time Expressions, Questions Words, Simple Past Questions Structures"
+weight: 2
+showTableOfContents: true
+---
+
 # Day 2 - Week 3
 ## Topics of the day
 * Verb Be in Past
@@ -26,7 +33,8 @@ By the end of the lesson, you’ll be able to confidently talk about past events
 * Recently
 * A little while ago
 * In the past
-*Question Words:*
+* 
+## Question Words:*
 1. What → asks about a thing 🥗📱🚗
     * What did you have for breakfast?
 2. Where → asks about a place 🏡🏫🏥
@@ -76,7 +84,7 @@ _Examples:_
 #### ❌ I was go to work
 #### ✔️ I was at work
 
-*Time Expressions:*
+## Time Expressions:
 
 _You can use time expressions in your simple past sentences to specify a time. Examples:_
 * I was sad last night.
@@ -86,7 +94,7 @@ _They can also be used with action verbs. Examples:_
 * I had a meeting an hour ago.
 * Recently, we moved to Paris.
 
-*Simple Past Question Structures:*
+## Simple Past Question Structures:
 
 As you learned yesterday, the auxiliary we use with the simple past is “Did”. When asking questions, you will need to use this auxiliary + the base form of a verb to structure a question.
 

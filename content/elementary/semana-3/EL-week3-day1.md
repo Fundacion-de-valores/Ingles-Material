@@ -1,3 +1,10 @@
+---
+title: Day 1 - Week 3"
+description: "Simple Past Rules and Uses, Verbs in Singular Past, Regular Verbs Pronunciation"
+weight: 1
+showTableOfContents: true
+---
+
 # Day 1 - Week 3
 ## Topics of the day
 
@@ -19,7 +26,7 @@ You will also learn common action words in their past form to explain tasks like
 Finally, you will practice how to pronounce regular verb endings correctly, so your speech is clear and professional when speaking with customers.
 Important terms (Vocabulary):
 
-*Simple Past Verbs:*
+## Simple Past Verbs:
 
 * [ Ask – Asked](https://drive.google.com/file/d/1IUyc8cfNtyjVApn2MWUBKpTAxRkxQEo-/view?usp=drive_link)
 * [Begin – Began](https://drive.google.com/file/d/1NuDZyCsiLSZxn0LasA4AU2IiCnmrJqgk/view?usp=drive_link) 
@@ -122,11 +129,11 @@ _Example: The customer was upset, but now they are satisfied._
 **IMPORTANT:**
  When we use an auxiliary, the verb will always be written in its base form, for the simple past, we use the auxiliary “did” and it is used with all of the pronouns (I, you, he, she, it, we, you guys and they).
 
-**Common Mistake:**
+## Common Mistake:
 #### ❌ I didn’t helped the customer.
 #### ✔️ I didn’t help the customer.
 
-*Regular Verbs Pronunciation:*
+## Regular Verbs Pronunciation:
 
 * If the regular past verb ends in: -ped, -ked, -sed, -ched, -shed, -fed, -xed, or -hed, we pronounce the -ED as a "T". Examples:
     * Asked (Pronunciation: Askt)

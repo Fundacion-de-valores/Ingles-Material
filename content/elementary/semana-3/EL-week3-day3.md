@@ -1,3 +1,10 @@
+---
+title: Day 3 - Week 3"
+description: "Parts of an Address, US States and Abbreviations, How to Ask for an Address"
+weight: 3
+showTableOfContents: true
+---
+
 # Day 3 - Week 3
 ## Topics of the Day:
 * Parts of an Address
@@ -19,7 +26,7 @@ Today, you will learn about the different parts of an address in the United Stat
 
 <img src="url_de_la_imagen" alt="Texto" width="300">
 
-*US States and Abbreviations*
+## US States and Abbreviations
 |**NO.**|**COUNTRY**|**ABBREVIATION**|
 |:--:|:--:|:--:|
 |1|ALABAMA|AL|
@@ -76,7 +83,7 @@ Today, you will learn about the different parts of an address in the United Stat
 **NOTE:**
 Use the following link to listen to the right pronunciation of each state: https://www.youtube.com/watch?v=0bgbJGyNeuI 
 
-*Streets Abbreviations:* 
+## Streets Abbreviations:
 * Street – St.
 * Avenue – Ave.
 * Boulevard – Blvd.

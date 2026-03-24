@@ -1,3 +1,10 @@
+---
+title: Day 4 - Week 3"
+description: "Food Vocabulary, Animals, Clothes, Parts of the House"
+weight: 4
+showTableOfContents: true
+---
+
 # Day 4 - Week 3
 ## Topics of the Day:
 * Food Vocabulary
@@ -22,10 +29,10 @@ By the end of the lesson, you will feel more confident understanding and using c
 *Food Vocabulary:*
 Use the following presentation to find the most common vocabulary words and phrases related to food, this topic will be really important for you to start learning how to say or describe procedures. Pay attention to the pictures so that you know what each word means: https://www.canva.com/design/DAFw9yKhh5k/mUZEf9cuKKdf_OWiNq5sYQ/view?utm_content=DAFw9yKhh5k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink 
 
-*Animals:*
+## Animals:
 Watch the following video for the most common animals in English: https://www.youtube.com/watch?v=KQt3jVyME-k . After watching the video, you can also use the list below to memorize the names of the animals and be able to categorize them according to their groups.
 
-*Wild Animals:*
+## Wild Animals:
 * Lion 
 * Tiger 
 * Elephant 
@@ -37,7 +44,7 @@ Watch the following video for the most common animals in English: https://www.yo
 * Bear 
 * Snake 
 
-*Sea Animals:*
+## Sea Animals:
 * Dolphin 
 * Shrimp 
 * Octopus 
@@ -47,7 +54,7 @@ Watch the following video for the most common animals in English: https://www.yo
 * Starfish 
 * Lobster 
 
-*Pets:*
+## Pets:
 * Cat 
 * Dog 
 * Rabbit 
@@ -55,7 +62,7 @@ Watch the following video for the most common animals in English: https://www.yo
 * Fish 
 * Parrot 
 
-*Farm Animals:*
+## Farm Animals:
 * Cow 
 * Chicken
 * Hen 
@@ -67,10 +74,10 @@ Watch the following video for the most common animals in English: https://www.yo
 * Turkey 
 * Donkey
 
-*Clothes:*
+## Clothes:
 Use these flashcards to practice the pronunciation of clothes, you can play the audio to check on the pronunciation, and you can also flip the cards to watch pictures with the meaning: https://quizlet.com/793986233/flashcards?funnelUUID=32534ab6-d069-450c-ae07-29c3ce697f04 
 
-*Parts of the House:*
+## Parts of the House:
 Use the following link to learn and memorize the parts of the house: https://test-english.com/explanation/a1-vocabulary/the-house-rooms-parts-and-things-a1-english-vocabulary/ . After reviewing the link, you can also use the list below to practice the most common parts:
 * Kitchen 
 * Living room 
