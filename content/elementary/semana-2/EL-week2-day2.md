@@ -1,3 +1,10 @@
+---
+title: Day 2 - Week 2"
+description: Frequency adverbs, Daily Routine, Hobbies, Simple Present Iterrogative Structure"
+weight: 1
+showTableOfContents: true
+---
+
 # Day 2 – Week 2
 
 ## Topics of the Day:

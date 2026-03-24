@@ -1,3 +1,10 @@
+---
+title: Day 3 - Week 2"
+description: "The Weather & Temperature, Days of the week, Ordinal Numbers, Months of the Year, How to read, Dates. "
+weight: 1
+showTableOfContents: true
+---
+
 # Day 3 – Week 2
 *Topics of the Day:*
 * The weather & Temperature
