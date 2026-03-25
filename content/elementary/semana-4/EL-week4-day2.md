@@ -1,11 +1,10 @@
 ---
-title: Day 2 - Week 4"
+title: Day 2 
 description: "Demostratie adjectives, There is vs. There are, Singulars and Plurals"
 weight: 2
 showTableOfContents: true
 ---
 
-# Day 2 – Week 4
 ## Topics of the Day:
 * Demonstrative adjectives
 * There is vs. There are

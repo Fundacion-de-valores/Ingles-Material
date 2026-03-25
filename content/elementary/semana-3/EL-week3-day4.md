@@ -1,5 +1,5 @@
 ---
-title: Day 4 - Week 3"
+title: Day 4 
 description: "Food Vocabulary, Animals, Clothes, Parts of the House"
 weight: 4
 showTableOfContents: true
@@ -80,10 +80,16 @@ After watching the video, you can also use the list below to memorize the names 
 * Donkey
 
 ## Clothes:
-Use these flashcards to practice the pronunciation of clothes, you can play the audio to check on the pronunciation, and you can also flip the cards to watch pictures with the meaning: https://quizlet.com/793986233/flashcards?funnelUUID=32534ab6-d069-450c-ae07-29c3ce697f04 
+Use these flashcards to practice the pronunciation of clothes, you can play the audio to check on the pronunciation, and you can also flip the cards to watch pictures with the meaning: 
+
+https://quizlet.com/793986233/flashcards?funnelUUID=32534ab6-d069-450c-ae07-29c3ce697f04 
 
 ## Parts of the House:
-Use the following link to learn and memorize the parts of the house: https://test-english.com/explanation/a1-vocabulary/the-house-rooms-parts-and-things-a1-english-vocabulary/ . After reviewing the link, you can also use the list below to practice the most common parts:
+Use the following link to learn and memorize the parts of the house: 
+
+https://test-english.com/explanation/a1-vocabulary/the-house-rooms-parts-and-things-a1-english-vocabulary/ . 
+
+After reviewing the link, you can also use the list below to practice the most common parts:
 * Kitchen 
 * Living room 
 * Dining room 

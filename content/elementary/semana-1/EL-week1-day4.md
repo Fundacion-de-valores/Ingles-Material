@@ -1,5 +1,5 @@
 ---
-title: "Day 4 - Week 1"
+title: "Day 4 
 description: "Cardinal Numbers, The Time"
 weight: 4
 showTableOfContents: true
@@ -47,7 +47,9 @@ También puedes ver este video para escuchar la pronunciación si utilizas celul
 * _Bucks_ – Dólares (Slang: Es una manera informal de decir la palabra, no se usa como agente en un call center, pero si podrías escucharla de algún cliente)
 * _Cash_ – Dinero en efectivo
 
-Para más detalles sobre cómo leer cantidades monetarias y el vocabulario común para pagos, ve el siguiente video: https://www.youtube.com/watch?v=VGgVNcUXa3A 
+Para más detalles sobre cómo leer cantidades monetarias y el vocabulario común para pagos, ve el siguiente video: 
+
+{{< youtube VGgVNcUXa3A >}}
 
 ## Conceptos Clave (Reglas Gramaticales):
 *Ten vs. Teen numbers:*

@@ -1,5 +1,5 @@
 ---
-title: Day 2 - Week 3"
+title: Day 2 
 description: "Berb Be in Past, Time Expressions, Questions Words, Simple Past Questions Structures"
 weight: 2
 showTableOfContents: true

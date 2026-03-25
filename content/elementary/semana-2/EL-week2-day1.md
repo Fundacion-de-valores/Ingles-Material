@@ -1,5 +1,5 @@
 ---
-title: "Day 1 - Week 2"
+title: "Day 1
 description: "Simple Present Rules and Uses, 3rd Person Singular Rule, Simple Present Time Expressions"
 weight: 1
 showTableOfContents: true

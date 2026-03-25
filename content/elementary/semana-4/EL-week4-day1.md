@@ -1,11 +1,10 @@
 ---
-title: Day 1 - Week 4"
+title: Day 1 
 description: "Simple Future, Time Expressions, Prepositions of Time"
 weight: 1
 showTableOfContents: true
 ---
 
-# Day 1 – Week 4
 ## Topics of the Day:
 * Simple Future
 * Time Expressions
@@ -168,7 +167,8 @@ Use IN for months, years, seasons and parts of the day. Examples:
 👉 Think: IN = a period of time
 
 _You can watch the following video for more examples and some exercises on prepositions:_
- https://www.youtube.com/watch?v=fRrVkXG0-v4
+
+{{< youtube.com/watch?v=fRrVkXG0-v4 >}}
 
 #### ⚠️ Important Exception:
 #### ❌ In the night → ✔️ at night
