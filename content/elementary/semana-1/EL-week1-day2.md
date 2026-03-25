@@ -63,7 +63,7 @@ _Si la pronunciación de algunas palabras o letras es difícil para ti, puedes u
 
 ## Verbs:
 
-{{< reproductor "/audio/ask.mp3 >}}
+{{< audio "/audio/ask.mp3 >}}
 
 ## Conceptos clave (Explicación detallada):
 _How to pray in English:_
