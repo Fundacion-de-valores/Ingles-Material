@@ -1,5 +1,5 @@
 ---
-title: Day 4 
+title: "Day 4"
 description: "A1 Self-Study Practice Guide"
 weight: 4
 showTableOfContents: true

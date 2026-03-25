@@ -1,5 +1,5 @@
 ---
-title: Day 3 
+title: "Day 3"
 description: "Parts of an Address, US States and Abbreviations, How to Ask for an Address"
 weight: 3
 showTableOfContents: true

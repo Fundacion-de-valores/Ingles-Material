@@ -1,5 +1,5 @@
 ---
-title: Day 2
+title: "Day 2"
 description: Frequency adverbs, Daily Routine, Hobbies, Simple Present Iterrogative Structure"
 weight: 1
 showTableOfContents: true

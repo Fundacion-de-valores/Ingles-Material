@@ -1,5 +1,5 @@
 ---
-title: "Day 1
+title: "Day 1"
 description: "Magic Questions and Phrases, Greetings, Articles"
 weight: 1
 showTableOfContents: true

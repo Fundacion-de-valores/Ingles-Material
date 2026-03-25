@@ -1,5 +1,5 @@
 ---
-title: Day 2 
+title: "Day 2"
 description: "Demostratie adjectives, There is vs. There are, Singulars and Plurals"
 weight: 2
 showTableOfContents: true

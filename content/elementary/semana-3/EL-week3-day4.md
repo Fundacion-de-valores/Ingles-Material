@@ -1,5 +1,5 @@
 ---
-title: Day 4 
+title: "Day 4"
 description: "Food Vocabulary, Animals, Clothes, Parts of the House"
 weight: 4
 showTableOfContents: true

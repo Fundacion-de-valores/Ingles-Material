@@ -1,5 +1,5 @@
 ---
-title: Day 3 
+title: "Day 3"
 description: "Parts of the body, Punctuation and Intonation"
 weight: 3
 showTableOfContents: true

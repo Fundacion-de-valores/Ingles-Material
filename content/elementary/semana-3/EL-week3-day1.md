@@ -1,5 +1,5 @@
 ---
-title: Day 1 
+title: "Day 1"
 description: "Simple Past Rules and Uses, Verbs in Singular Past, Regular Verbs Pronunciation"
 weight: 1
 showTableOfContents: true

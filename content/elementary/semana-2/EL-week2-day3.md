@@ -1,5 +1,5 @@
 ---
-title: Day 3 
+title: "Day 3"
 description: "The Weather & Temperature, Days of the week, Ordinal Numbers, Months of the Year, How to read, Dates. "
 weight: 3
 showTableOfContents: true

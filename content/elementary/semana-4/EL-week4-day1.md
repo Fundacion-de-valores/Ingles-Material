@@ -1,5 +1,5 @@
 ---
-title: Day 1 
+title: "Day 1"
 description: "Simple Future, Time Expressions, Prepositions of Time"
 weight: 1
 showTableOfContents: true

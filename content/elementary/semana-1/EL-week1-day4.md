@@ -1,5 +1,5 @@
 ---
-title: "Day 4 
+title: "Day 4"
 description: "Cardinal Numbers, The Time"
 weight: 4
 showTableOfContents: true
