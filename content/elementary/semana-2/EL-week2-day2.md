@@ -5,8 +5,6 @@ weight: 1
 showTableOfContents: true
 ---
 
-# Day 2 – Week 2
-
 ## Topics of the Day:
 * Frequency adverbs
 * Daily Routine

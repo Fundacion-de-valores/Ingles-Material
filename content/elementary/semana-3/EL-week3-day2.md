@@ -5,7 +5,6 @@ weight: 2
 showTableOfContents: true
 ---
 
-# Day 2 - Week 3
 ## Topics of the day
 * Verb Be in Past
 * Time Expressions (Simple Past)

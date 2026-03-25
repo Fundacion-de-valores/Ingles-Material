@@ -5,7 +5,6 @@ weight: 1
 showTableOfContents: true
 ---
 
-# Day 4 – Week 2
 *Topics of the Day:*
 * Prepositions of Time
 * Adjectives (Including Colors)
@@ -26,7 +25,11 @@ Finally, you will learn common vocabulary for family members and practice using 
 
 ## Important terms (Vocabulary):
 *Adjectives:*
-Use the following link to learn some important adjectives to describe people: _https://www.youtube.com/watch?v=x0YQX7gGkQs_ the adjectives below will also help you describing people and places:
+Use the following link to learn some important adjectives to describe people: 
+
+{{< youtube x0YQX7gGkQs >}}
+
+the adjectives below will also help you describing people and places:
 
 * Tall
 * Short

@@ -5,7 +5,6 @@ weight: 1
 showTableOfContents: true
 ---
 
-# Day 1 - Week 3
 ## Topics of the day
 
 * Simple Past Rules and Uses
@@ -19,6 +18,7 @@ _By the end of this lesson, you will be able to:_
 1. Describe past actions or interactions by using affirmative and negative sentences in the simple past.
 2. Use common simple past verbs to explain completed actions during customer service calls (Example: processed requests, handled complaints, updated accounts).
 3. Accurately pronounce regular past tense verb endings (-ed) to ensure clear and professional communication over the phone.
+
 ## Introduction:
 
 Today, you will learn how to talk about past situations in a call center. You will practice how to form sentences to describe what happened during a call, including things you did and things you didn’t do.

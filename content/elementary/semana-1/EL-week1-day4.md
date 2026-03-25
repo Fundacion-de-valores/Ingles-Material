@@ -29,7 +29,9 @@ Finalmente, ampliarás tu vocabulario relacionado con el dinero para entender y 
 
 Utiliza el siguiente link para ver los números del 1 al 100 y la forma en que se escriben con dígitos y letras (Puedes ver como se escribe en letras al poner tu cursor sobre el número, si estás en computadora también podrás escuchar la pronunciación del número): https://www.languageguide.org/english/vocabulary/numbers/ 
 
-También puedes ver este video para escuchar la pronunciación si utilizas celular y el audio del link anterior no funciona: https://www.youtube.com/watch?v=YuXFxvTbviI 
+También puedes ver este video para escuchar la pronunciación si utilizas celular y el audio del link anterior no funciona: 
+
+{{< youtube YuXFxvTbviI >}} 
 
 *The time:*
 * _O’clock_ – En punto 
