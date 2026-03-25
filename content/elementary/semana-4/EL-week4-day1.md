@@ -168,7 +168,7 @@ Use IN for months, years, seasons and parts of the day. Examples:
 
 _You can watch the following video for more examples and some exercises on prepositions:_
 
-{{< youtube.com/watch?v=fRrVkXG0-v4 >}}
+{{< youtube fRrVkXG0-v4 >}}
 
 #### ⚠️ Important Exception:
 #### ❌ In the night → ✔️ at night
