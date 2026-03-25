@@ -45,11 +45,13 @@ Finalmente, trabajarás con los verbos en su forma base, comprendiendo su pronun
 
 ## The Alphabet:
 
-Utiliza el siguiente link para escuchar la pronunciación de cada una de las letras. Solo debes hacer click sobre la letra para escuchar el audio (El audio funciona solamente en computadora y algunos teléfonos Android): https://www.languageguide.org/english/vocabulary/alphabet/ 
+Utiliza el siguiente link para escuchar la pronunciación de cada una de las letras. Solo debes hacer click sobre la letra para escuchar el audio (El audio funciona solamente en computadora y algunos teléfonos Android): 
+
+_https://www.languageguide.org/english/vocabulary/alphabet/_
 
 También puedes ver este video para escuchar la pronunciación si utilizas celular y el audio del link anterior no funciona:
 
-{{< youtube um3YrKRfsr0 >}}    
+{{< youtube um3YrKRfsr0 >}}
 
 ## The Military Alphabet:
 
@@ -61,7 +63,7 @@ _Si la pronunciación de algunas palabras o letras es difícil para ti, puedes u
 
 ## Verbs:
 
-{{<audio src="/test.mp3" caption="Prueba">}}
+{{< reproductor "/audio/ask.mp3 >}}
 
 ## Conceptos clave (Explicación detallada):
 _How to pray in English:_
