@@ -5,7 +5,6 @@ weight: 4
 showTableOfContents: true
 ---
 
-# Day 4 – Week 4
 ## Topics of the Day:
 * A1 Self-Study Practice Guide (Certification Prep)
 
