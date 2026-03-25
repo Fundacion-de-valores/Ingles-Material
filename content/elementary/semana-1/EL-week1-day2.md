@@ -59,11 +59,10 @@ También puedes ver este video para escuchar la pronunciación si utilizas celul
 
 _Si la pronunciación de algunas palabras o letras es difícil para ti, puedes usar el siguiente video para practicar la fonética del inglés:_ 
 
-//Link
 
 ## Verbs:
 
-
+{{< audio "/audio/ask.mp3" >}}
 
 ## Conceptos clave (Explicación detallada):
 _How to pray in English:_
