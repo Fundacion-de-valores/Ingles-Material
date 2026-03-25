@@ -17,6 +17,7 @@ By the end of this lesson, you will be able to:
 3. Apply prepositions of time (in, on, at) correctly when talking about future events and schedules.
 
 ## Introduction:
+
 Today you will learn how to talk about things that haven’t happened yet by forming sentences in different ways, including statements, negatives, and questions. You will also practice adding details about when something will happen using common future time phrases, and review how to choose the correct time prepositions to make your ideas clear and accurate.
 
 **Important terms (Vocabulary):**
