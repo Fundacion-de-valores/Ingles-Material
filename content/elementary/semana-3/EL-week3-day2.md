@@ -62,16 +62,38 @@ _Examples:_
 * She was at work.
 * They were happy.
 
-|**Affirmative**|||**Negative**|||**Closed Questions**|||
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|I|was|sad.|I|wasn't|happy.|Was|I|drunk?|
-|You|were|at home.|You|weren't|at the party.|Were|you|at the mall?|
-|He|was|a doctor.|Tom|wasn't|okay.|Was|he|sad?|
-|Ashley|was|a doctor.|She|wasn't|a lawyer.|Was|she|a dentist?|
-|My doy|was|hungry.|It|wasn't|sleepy.|Was|it|okay?|
-|We|were|in New York.|My sister and I|weren't|singers.|Were|we|in our country?|
-|You guys|were|dancers.|You guys|weren't|singers.|Were|You guys|happy?|
-|They|were|great friends.|Mom and dad|weren't|coworkers|Were|they|a couple?|
+|**Affirmative**|||
+|:--:|:--:|:--:|
+|I|was|sad.|
+|You|were|at home.|
+|He|was|a doctor.|
+|Ashley|was|a doctor.|
+|My doy|was|hungry.|
+|We|were|in New York.|
+|You guys|were|dancers.|
+|They|were|great friends.|
+
+|**Negative**|||
+|:--:|:--:|:--:|
+|I|wasn't|happy.|
+|You|weren't|at the party.|
+|Tom|wasn't|okay.|
+|She|wasn't|a lawyer.|
+|It|wasn't|sleepy.|
+|My sister and I|weren't|singers.|
+|You guys|weren't|singers.|
+|Mom and dad|weren't|coworkers|
+
+**Closed Questions**|||
+|:--:|:--:|:--:|
+|Was|I|drunk?|
+|Were|you|at the mall?|
+|Was|he|sad?|
+|Was|she|a dentist?|
+|Was|it|okay?|
+|Were|we|in our country?|
+|Were|you guys|happy?|
+|Were|they|a couple?|
 
 ## Key Notes for Students:
 
@@ -101,13 +123,22 @@ As you learned yesterday, the auxiliary we use with the simple past is “Did”
 We do NOT use “Did” with the verb to be, we only use it with action verbs.
 
 **Structures:**
-|**Closed Ended Questions(Yes/No)**||||**Open Ended Questions**|||||
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|*Auxiliary*|*Subject*|*Verb*|*Complement*|*Question Word*|*Auxiliary*|*Subject*|*Verb*|*Complement*|
-|Did|You|Study|for the test?|Where|did|you|study|for the test?|
-|Did|he|participate|in class?|Why|did|he|participate|in class?|
-|Did|we|learn|this topic?|When|did|we|learn|this topic?|
-|Did|they|pass|the certification?|How|did|they|pass|the certification?|
+|**Closed Ended Questions(Yes/No)**||||
+|:--:|:--:|:--:|:--:|
+|*Auxiliary*|*Subject*|*Verb*|*Complement*|
+|Did|You|Study|for the test?|
+|Did|he|participate|in class?|
+|Did|we|learn|this topic?|
+|Did|they|pass|the certification?|
+
+**Open Ended Questions**|||||
+|:--:|:--:|:--:|:--:|:--:|
+|*Question Word*|*Auxiliary*|*Subject*|*Verb*|*Complement*|
+|Where|did|you|study|for the test?|
+|Why|did|he|participate|in class?|
+|When|did|we|learn|this topic?|
+|How|did|they|pass|the certification?|
+
 
 ## 📝 Summary:
 **Verb “Be”** _(was/were): Used for past states, situations, and conditions (not actions)._

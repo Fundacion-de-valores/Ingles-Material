@@ -153,7 +153,9 @@ _Example: The customer was upset, but now they are satisfied._
     * Accepted (Pronunciation: Acceptid)
     * Afforded (Pronunciation: Affordid)
 
-Use the following link to find a great amount of regular verbs divided into their 3 pronunciation groups: https://www.thoughtco.com/past-tense-regular-verb-pronunciation-1210045 
+Use the following link to find a great amount of regular verbs divided into their 3 pronunciation groups: 
+
+https://www.thoughtco.com/past-tense-regular-verb-pronunciation-1210045 
 
 ### MASTER TIP: 
 _ONLY when the verb ends in TED or DED use the “ID” sound. For all other verbs, when in doubt, simple pronounce a “T” sound instead of “ed”._
