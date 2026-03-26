@@ -1,5 +1,5 @@
 ---
-title: "Day 2 - Week 1"
+title: "Day 2"
 description: "How to pray in English, The Alphabet, Verbs"
 weight: 2
 showTableOfContents: true
@@ -45,7 +45,9 @@ Finalmente, trabajarás con los verbos en su forma base, comprendiendo su pronun
 
 ## The Alphabet:
 
-Utiliza el siguiente link para escuchar la pronunciación de cada una de las letras. Solo debes hacer click sobre la letra para escuchar el audio (El audio funciona solamente en computadora y algunos teléfonos Android): https://www.languageguide.org/english/vocabulary/alphabet/ 
+Utiliza el siguiente link para escuchar la pronunciación de cada una de las letras. Solo debes hacer click sobre la letra para escuchar el audio (El audio funciona solamente en computadora y algunos teléfonos Android): 
+
+_https://www.languageguide.org/english/vocabulary/alphabet/_
 
 También puedes ver este video para escuchar la pronunciación si utilizas celular y el audio del link anterior no funciona:
 
@@ -53,15 +55,86 @@ También puedes ver este video para escuchar la pronunciación si utilizas celul
 
 ## The Military Alphabet:
 
-<img src=img/military_alphabeth.png alt=Military_Alphabeth height= 400px>
+{{< img src="images/military_alphabet.png" alt="Military Alphabet" >}}
 
 _Si la pronunciación de algunas palabras o letras es difícil para ti, puedes usar el siguiente video para practicar la fonética del inglés:_ 
 
-//Link
+{{< youtube Kc2sU1oe5kg >}}
+
 
 ## Verbs:
 
-{{<audio src="/test.mp3" caption="Prueba">}}
+[ASK] {{< audio src="audio/ask.mp3" >}}
+[BEGIN] {{< audio src="audio/begin.mp3" >}}
+[BELIEVE] {{< audio src="audio/believe.mp3" >}}
+[BRING] {{< audio src="audio/bring.mp3" >}}
+[BUY] {{< audio src="audio/buy.mp3" >}}
+[SELL] {{< audio src="audio/sell.mp3" >}}
+[CALL] {{< audio src="audio/call.mp3" >}}
+[CHANGE] {{< audio src="audio/change.mp3" >}}
+[COME] {{< audio src="audio/come.mp3" >}}
+[GO] {{< audio src="audio/go.mp3" >}}
+[CUT] {{< audio src="audio/cut.mp3" >}}
+[DO] {{< audio src="audio/do.mp3" >}}
+[MAKE] {{< audio src="audio/make.mp3" >}}
+[DOWNLOAD] {{< audio src="audio/download.mp3" >}}
+[UPLOAD] {{< audio src="audio/upload.mp3" >}}
+[DRAW] {{< audio src="audio/draw.mp3" >}}
+[DRINK] {{< audio src="audio/drink.mp3" >}}
+[DRIVE] {{< audio src="audio/drive.mp3" >}}
+[EAT] {{< audio src="audio/eat.mp3" >}}
+[EXPLAIN] {{< audio src="audio/explain.mp3" >}}
+[FEEL] {{< audio src="audio/feel.mp3" >}}
+[FIND] {{< audio src="audio/find.mp3" >}}
+[FIX] {{< audio src="audio/fix.mp3" >}}
+[GET] {{< audio src="audio/get.mp3" >}}
+[GIVE] {{< audio src="audio/give.mp3" >}}
+[GROW] {{< audio src="audio/grow.mp3" >}}
+[HAVE] {{< audio src="audio/have.mp3" >}}
+[HEAR] {{< audio src="audio/hear.mp3" >}}
+[LISTEN] {{< audio src="audio/listen.mp3" >}}
+[HELP] {{< audio src="audio/help.mp3" >}}
+[HOLD] {{< audio src="audio/hold.mp3" >}}
+[KNOW] {{< audio src="audio/know.mp3" >}}
+[LEARN] {{< audio src="audio/learn.mp3" >}}
+[LEAVE] {{< audio src="audio/leave.mp3" >}}
+[LIKE] {{< audio src="audio/like.mp3" >}}
+[LIVE] {{< audio src="audio/live.mp3" >}}
+[LOOK] {{< audio src="audio/look.mp3" >}}
+[WATCH] {{< audio src="audio/watch.mp3" >}}
+[SEE] {{< audio src="audio/see.mp3" >}}
+[LOSE] {{< audio src="audio/lose.mp3" >}}
+[MEET] {{< audio src="audio/meet.mp3" >}}
+[MOVE] {{< audio src="audio/move.mp3" >}}
+[NEED] {{< audio src="audio/need.mp3" >}}
+[PAINT] {{< audio src="audio/paint.mp3" >}}
+[PAY] {{< audio src="audio/pay.mp3" >}}
+[PLAY] {{< audio src="audio/play.mp3" >}}
+[PUT] {{< audio src="audio/put.mp3" >}}
+[REMEMBER] {{< audio src="audio/remember.mp3" >}}
+[RUN] {{< audio src="audio/run.mp3" >}}
+[SAY] {{< audio src="audio/say.mp3" >}}
+[TELL] {{< audio src="audio/tell.mp3" >}}
+[SEND] {{< audio src="audio/send.mp3" >}}
+[SHOW] {{< audio src="audio/show.mp3" >}}
+[SLEEP] {{< audio src="audio/sleep.mp3" >}}
+[SPEAK] {{< audio src="audio/speak.mp3" >}}
+[TALK] {{< audio src="audio/talk.mp3" >}}
+[START] {{< audio src="audio/start.mp3" >}}
+[TAKE] {{< audio src="audio/take.mp3" >}}
+[TEACH] {{< audio src="audio/teach.mp3" >}}
+[THINK] {{< audio src="audio/think.mp3" >}}
+[TRY] {{< audio src="audio/try.mp3" >}}
+[TURN-ON] {{< audio src="audio/turn-on.mp3" >}}
+[TURN-OFF] {{< audio src="audio/turn-off.mp3" >}}
+[TYPE] {{< audio src="audio/type.mp3" >}}
+[WAIT] {{< audio src="audio/wait.mp3" >}}
+[WALK] {{< audio src="audio/walk.mp3" >}}
+[WANT] {{< audio src="audio/want.mp3" >}}
+[WASH] {{< audio src="audio/wash.mp3" >}}
+[WIN] {{< audio src="audio/win.mp3" >}}
+[WORK] {{< audio src="audio/work.mp3" >}}
+[WRITE] {{< audio src="audio/write.mp3" >}}
 
 ## Conceptos clave (Explicación detallada):
 _How to pray in English:_

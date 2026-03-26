@@ -1,11 +1,10 @@
 ---
-title: Day 4 - Week 2"
+title: "Day 4"
 description: "Prepositions fo Time, Adjectives, Possessive Adjectives, Family Members"
-weight: 1
+weight: 4
 showTableOfContents: true
 ---
 
-# Day 4 – Week 2
 *Topics of the Day:*
 * Prepositions of Time
 * Adjectives (Including Colors)
@@ -26,11 +25,11 @@ Finally, you will learn common vocabulary for family members and practice using 
 
 ## Important terms (Vocabulary):
 *Adjectives:*
-Use the following video to learn some important adjectives to describe people:
+Use the following link to learn some important adjectives to describe people: 
 
 {{< youtube x0YQX7gGkQs >}}
 
-The adjectives below will also help you describing people and places:
+the adjectives below will also help you describing people and places:
 
 * Tall
 * Short
@@ -88,7 +87,7 @@ The adjectives below will also help you describing people and places:
 
 *Family Members*
 
-//Imagen
+{{< img src="images/family_memb.png" alt="Family Members" >}}
 
 Here are some additional family members:
 * Daughter: Your child (Girl)
@@ -130,7 +129,7 @@ Use IN for months, years, seasons and parts of the day. Examples:
 * We study in the morning.
 * She works in the afternoon.
 👉 Think: IN = a period of time
-You can watch the following video for more examples and some exercises on prepositions:
+You can watch the following video for more examples and some exercises on prepositions: 
 
 {{< youtube fRrVkXG0-v4 >}}
 

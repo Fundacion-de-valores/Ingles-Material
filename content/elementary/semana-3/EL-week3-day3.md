@@ -1,11 +1,10 @@
 ---
-title: Day 3 - Week 3"
+title: "Day 3"
 description: "Parts of an Address, US States and Abbreviations, How to Ask for an Address"
 weight: 3
 showTableOfContents: true
 ---
 
-# Day 3 - Week 3
 ## Topics of the Day:
 * Parts of an Address
 * US States and Abbreviations
@@ -24,7 +23,7 @@ Today, you will learn about the different parts of an address in the United Stat
 ## Important terms (Vocabulary):
 *Parts of an Address:*
 
-<img src="url_de_la_imagen" alt="Texto" width="300">
+{{< img src="images/parts_of_addr.png" alt="Part of an Address" >}}
 
 ## US States and Abbreviations
 |**NO.**|**COUNTRY**|**ABBREVIATION**|
@@ -81,10 +80,9 @@ Today, you will learn about the different parts of an address in the United Stat
 |50|WYOMING|WY|
 
 **NOTE:**
-Use the following video to listen to the right pronunciation of each state:
+Use the following link to listen to the right pronunciation of each state: 
 
-{{< youtube 0bgbJGyNeuI >}}
-
+{{< youtube 0bgbJGyNeuI >}} 
 
 ## Streets Abbreviations:
 * Street – St.

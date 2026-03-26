@@ -20,12 +20,18 @@ showTableOfContents: true
 **3.** Reconocer y utilizar expresiones de tiempo comunes (como every day, every week, on Sunday, etc.) para describir rutinas en el presente simple.
 
 ## Introducción:
+    El día de hoy, reconocerás y comprenderás las reglas y los principales usos del presente simple,
+    lo que te permitirá describir rutinas diarias, hábitos y hechos generales en inglés.
 
-El día de hoy, reconocerás y comprenderás las reglas y los principales usos del presente simple, lo que te permitirá describir rutinas diarias, hábitos y hechos generales en inglés.
+    Además, identificarás y aplicarás las reglas de escritura utilizadas para los verbos en tercera
+    persona singular (he, she, it), ayudándote a formar oraciones correctas cuando hablas de otras
+    personas y a expresar estas ideas correctamente.
 
-Además, identificarás y aplicarás las reglas de escritura utilizadas para los verbos en tercera persona singular (he, she, it), ayudándote a formar oraciones correctas cuando hablas de otras personas y a expresar estas ideas correctamente.
-
-Finalmente, analizarás y utilizarás expresiones de tiempo comunes para dar más detalle al describir rutinas y actividades regulares. Estos son algunos de los temas más importantes en el nivel Elementary y una gran parte de la evaluación de certificación, por lo que te pedimos que les prestes mucha atención y te asegures de aprenderlos con cuidado y precisión para poder utilizarlos correctamente de ahora en adelante.
+    Finalmente, analizarás y utilizarás expresiones de tiempo comunes para dar más detalle al describir
+    rutinas y actividades regulares. Estos son algunos de los temas más importantes en el nivel
+    Elementary y una gran parte de la evaluación de certificación, por lo que te pedimos que les prestes
+    mucha atención y te asegures de aprenderlos con cuidado y precisión para poder utilizarlos
+    correctamente de ahora en adelante.
 
 ## Términos Importantes (Vocabulario del día):
 _Simple Present Time Expressions_
@@ -39,77 +45,77 @@ _Simple Present Time Expressions_
 
 ## Simple Present Verbs in 3rd Person Singular (He, She, It):
 
-* Ask – Asks {{< gdrive-audio "/audio/elementary/semana-2/ask-asks.mp3" >}}
-* Begin – Begins {{< gdrive-audio "/audio/elementary/semana-2/begin-begins.mp3" >}}
-* Believe – Believes {{< gdrive-audio "/audio/elementary/semana-2/believe-believes.mp3" >}}
-* Bring – Brings {{< gdrive-audio "/audio/elementary/semana-2/bring-brings.mp3" >}}
-* Buy – Buys {{< gdrive-audio "/audio/elementary/semana-2/buy-buys.mp3" >}}
-* Sell – Sells {{< gdrive-audio "/audio/elementary/semana-2/sell-sells.mp3" >}}
-* Call – Calls {{< gdrive-audio "/audio/elementary/semana-2/call-calls.mp3" >}}
-* Change – Changes {{< gdrive-audio "/audio/elementary/semana-2/change-changes.mp3" >}}
-* Come – Comes {{< gdrive-audio "/audio/elementary/semana-2/come-comes.mp3" >}}
-* Go – Goes {{< gdrive-audio "/audio/elementary/semana-2/go-goes.mp3" >}}
-* Cut – Cuts {{< gdrive-audio "/audio/elementary/semana-2/cut-cuts.mp3" >}}
-* Do – Does {{< gdrive-audio "/audio/elementary/semana-2/do-does.mp3" >}}
-* Make – Makes {{< gdrive-audio "/audio/elementary/semana-2/make-makes.mp3" >}}
-* Download – Downloads {{< gdrive-audio "/audio/elementary/semana-2/download-downloads.mp3" >}}
-* Upload – Uploads {{< gdrive-audio "/audio/elementary/semana-2/upload-uploads.mp3" >}}
-* Draw – Draws {{< gdrive-audio "/audio/elementary/semana-2/draw-draws.mp3" >}}
-* Drink – Drinks {{< gdrive-audio "/audio/elementary/semana-2/drink-drinks.mp3" >}}
-* Drive – Drives {{< gdrive-audio "/audio/elementary/semana-2/drive-drives.mp3" >}}
-* Eat – Eats {{< gdrive-audio "/audio/elementary/semana-2/eat-eats.mp3" >}}
-* Explain – Explains {{< gdrive-audio "/audio/elementary/semana-2/explain-explains.mp3" >}}
-* Feel – Feels {{< gdrive-audio "/audio/elementary/semana-2/feel-feels.mp3" >}}
-* Find – Finds {{< gdrive-audio "/audio/elementary/semana-2/find-finds.mp3" >}}
-* Fix – Fixes {{< gdrive-audio "/audio/elementary/semana-2/fix-fixes.mp3" >}}
-* Get – Gets {{< gdrive-audio "/audio/elementary/semana-2/get-gets.mp3" >}}
-* Give – Gives {{< gdrive-audio "/audio/elementary/semana-2/give-gives.mp3" >}}
-* Grow – Grows {{< gdrive-audio "/audio/elementary/semana-2/grow-grows.mp3" >}}
-* Have – Has {{< gdrive-audio "/audio/elementary/semana-2/have-has.mp3" >}}
-* Hear – Hears {{< gdrive-audio "/audio/elementary/semana-2/hear-hears.mp3" >}}
-* Listen – Listens {{< gdrive-audio "/audio/elementary/semana-2/listen-listens.mp3" >}}
-* Help – Helps {{< gdrive-audio "/audio/elementary/semana-2/help-helps.mp3" >}}
-* Hold – Holds {{< gdrive-audio "/audio/elementary/semana-2/hold-holds.mp3" >}}
-* Know – Knows {{< gdrive-audio "/audio/elementary/semana-2/know-knows.mp3" >}}
-* Learn – Learns {{< gdrive-audio "/audio/elementary/semana-2/learn-learns.mp3" >}}
-* Leave – Leaves {{< gdrive-audio "/audio/elementary/semana-2/leave-leaves.mp3" >}}
-* Like – Likes {{< gdrive-audio "/audio/elementary/semana-2/like-likes.mp3" >}}
-* Live – Lives {{< gdrive-audio "/audio/elementary/semana-2/live-lives.mp3" >}}
-* Look – Looks {{< gdrive-audio "/audio/elementary/semana-2/look-looks.mp3" >}}
-* Watch – Watches {{< gdrive-audio "/audio/elementary/semana-2/watch-watches.mp3" >}}
-* See – Sees {{< gdrive-audio "/audio/elementary/semana-2/see-sees.mp3" >}}
-* Lose – Loses {{< gdrive-audio "/audio/elementary/semana-2/lose-loses.mp3" >}}
-* Meet – Meets {{< gdrive-audio "/audio/elementary/semana-2/meet-meets.mp3" >}}
-* Move – Moves {{< gdrive-audio "/audio/elementary/semana-2/move-moves.mp3" >}}
-* Need – Needs {{< gdrive-audio "/audio/elementary/semana-2/need-needs.mp3" >}}
-* Paint – Paints {{< gdrive-audio "/audio/elementary/semana-2/paint-paints.mp3" >}}
-* Pay – Pays {{< gdrive-audio "/audio/elementary/semana-2/pay-pays.mp3" >}}
-* Play – Plays {{< gdrive-audio "/audio/elementary/semana-2/play-plays.mp3" >}}
-* Put – Puts {{< gdrive-audio "/audio/elementary/semana-2/put-puts.mp3" >}}
-* Remember – Remembers {{< gdrive-audio "/audio/elementary/semana-2/remember-remembers.mp3" >}}
-* Run – Runs {{< gdrive-audio "/audio/elementary/semana-2/run-runs.mp3" >}}
-* Say – Says {{< gdrive-audio "/audio/elementary/semana-2/say-says.mp3" >}}
-* Tell – Tells {{< gdrive-audio "/audio/elementary/semana-2/tell-tells.mp3" >}}
-* Send – Sends {{< gdrive-audio "/audio/elementary/semana-2/send-sends.mp3" >}}
-* Show – Shows {{< gdrive-audio "/audio/elementary/semana-2/show-shows.mp3" >}}
-* Sleep – Sleeps {{< gdrive-audio "/audio/elementary/semana-2/sleep-sleeps.mp3" >}}
-* Speak – Speaks {{< gdrive-audio "/audio/elementary/semana-2/speak-speaks.mp3" >}}
-* Talk – Talks {{< gdrive-audio "/audio/elementary/semana-2/talk-talks.mp3" >}}
-* Start – Starts {{< gdrive-audio "/audio/elementary/semana-2/start-starts.mp3" >}}
-* Take – Takes {{< gdrive-audio "/audio/elementary/semana-2/take-takes.mp3" >}}
-* Teach – Teaches {{< gdrive-audio "/audio/elementary/semana-2/teach-teaches.mp3" >}}
-* Think – Thinks {{< gdrive-audio "/audio/elementary/semana-2/think-thinks.mp3" >}}
-* Try – Tries {{< gdrive-audio "/audio/elementary/semana-2/try-tries.mp3" >}}
-* Turn on – Turns on {{< gdrive-audio "/audio/elementary/semana-2/turn-on-turns-on.mp3" >}}
-* Turn off – Turns off {{< gdrive-audio "/audio/elementary/semana-2/turn-off-turns-off.mp3" >}}
-* Type – Types {{< gdrive-audio "/audio/elementary/semana-2/type-types.mp3" >}}
-* Wait – Waits {{< gdrive-audio "/audio/elementary/semana-2/wait-waits.mp3" >}}
-* Walk – Walks {{< gdrive-audio "/audio/elementary/semana-2/walk-walks.mp3" >}}
-* Want – Wants {{< gdrive-audio "/audio/elementary/semana-2/want-wants.mp3" >}}
-* Wash – Washes {{< gdrive-audio "/audio/elementary/semana-2/wash-washes.mp3" >}}
-* Win – Wins {{< gdrive-audio "/audio/elementary/semana-2/win-wins.mp3" >}}
-* Work – Works {{< gdrive-audio "/audio/elementary/semana-2/work-works.mp3" >}}
-* Write – Writes {{< gdrive-audio "/audio/elementary/semana-2/write-writes.mp3" >}}
+* [Ask – Asks](https://drive.google.com/file/d/1tm5SraNjIr-94rLEHuI6SsP0IscrTpbY/view?usp=drive_link)
+* [Begin – Begins](https://drive.google.com/file/d/1CjjPBfoK-tLTYJjQ2ge_RuO0xZym9GBQ/view?usp=drive_link)
+* [Believe – Believes](https://drive.google.com/file/d/1h5GGA9giTS_9IJbzVjtXBW1JdwW3O1iA/view?usp=drive_link)
+* [Bring – Brings](https://drive.google.com/file/d/1Jwg5BivIVIf0OoxsVJEqxlR9UBiDUSGA/view?usp=drive_link)
+* [Buy – Buys](https://drive.google.com/file/d/1z6OLvjm4m8w7CjCvDKRX6-FZdkPsOkSi/view?usp=drive_link)
+* [Sell – Sells](https://drive.google.com/file/d/1p0lxqlWKWvwTUkXKQup97MdVlOePXmMg/view?usp=drive_link)
+* [Call – Calls](https://drive.google.com/file/d/1reOQMJwxfeLA5dESHCR0jBg5rEhEPJJv/view?usp=drive_link)
+* [Change – Changes](https://drive.google.com/file/d/1C-OBPT7X8WzoPmhO15Lb7zCits6pdl4W/view?usp=drive_link)
+* [Come – Comes](https://drive.google.com/file/d/1mjLZgdRG4QmoccyG-mkheMY8eWnavIdg/view?usp=drive_link)
+* [Go – Goes](https://drive.google.com/file/d/1g8W5BcUEJ0-7Olxr7UrpltFFG1BjkGXt/view?usp=drive_link)
+* [Cut – Cuts](https://drive.google.com/file/d/13Se6ooV6CgLbwP3FkbL7x1uI7nMNBv4y/view?usp=drive_link)
+* [Do – Does](https://drive.google.com/file/d/1FLYdWynmUugbetnUv6LFqr3XHf6bNx9w/view?usp=drive_link)
+* [Make – Makes](https://drive.google.com/file/d/1xwSkqGdStt3HcpeAiybUqWHEA6MSAsYJ/view?usp=drive_link)
+* [Download – Downloads](https://drive.google.com/file/d/1jm8Jr8weKToLtubn_Pe1mRhmBG3wBv8O/view?usp=drive_link)
+* [Upload – Uploads](https://drive.google.com/file/d/1r9Jdfhccs6aKb7Yqu6TafrVszoyBYhMN/view?usp=drive_link)
+* [Draw – Draws](https://drive.google.com/file/d/1PltCPZO2ADe_ungonjzWDvvfN28Clts8/view?usp=drive_link)
+* [Drink – Drinks](https://drive.google.com/file/d/1KeCEDemeoUgrFpxrNYWZUnL2NA-4ZgOu/view?usp=drive_link)
+* [Drive – Drives](https://drive.google.com/file/d/14-KERnxSI0gaHorVUaGAlXo3CsNPsMLW/view?usp=drive_link)
+* [Eat – Eats](https://drive.google.com/file/d/1iQAWyCJFFweIj2w0lxCHOKXHJug4lgkD/view?usp=drive_link)
+* [Explain – Explains](https://drive.google.com/file/d/1ez9CC0vlDm3RHK6e_Hq664Sczos7uiut/view?usp=drive_link)
+* [Feel – Feels](https://drive.google.com/file/d/1xkVJbuBahVlRsn1c50m_vXt_T65__uUp/view?usp=drive_link)
+* [Find – Finds](https://drive.google.com/file/d/1PMcPMoy5qZTTmBpyW543FYzGzYEgXav4/view?usp=drive_link)
+* [Fix – Fixes](https://drive.google.com/file/d/1XFMIpvmynTy-CapIvnto7tWB_-nm4N4I/view?usp=drive_link)
+* [Get – Gets](https://drive.google.com/file/d/1rm-SEygtgTIcNn7MMwgcZixGLspR5XsM/view?usp=drive_link)
+* [Give – Gives](https://drive.google.com/file/d/1gzQhLukjLEcamr1jadBBGMBqxRpGjgqc/view?usp=drive_link)
+* [Grow – Grows](https://drive.google.com/file/d/1BqP-GVAPK0OFVv9ubKQ5jP0I9xQ0m0Nc/view?usp=drive_link)
+* [Have – Has](https://drive.google.com/file/d/1M4mI71wunMCqYrkxOU9tVko6BuFHxc7z/view?usp=drive_link)
+* [Hear – Hears](https://drive.google.com/file/d/167Btg4V4sO3QELs8M9cK150J7TFXBFyx/view?usp=drive_link)
+* [Listen – Listens](https://drive.google.com/file/d/1RCAxg5K44uYXKG01lUYEQJT3Oeidil7R/view?usp=drive_link)
+* [Help – Helps](https://drive.google.com/file/d/1ac83ZN1lZZwnvcstKuADqbJLzRx5R22B/view?usp=drive_link)
+* [Hold – Holds](https://drive.google.com/file/d/1hBRQTWmOeXijRCmcfn8cPF0DyCByXnTA/view?usp=drive_link)
+* [Know – Knows](https://drive.google.com/file/d/17GUCby4v_G8gPUdLPKF5_r-QoAUiy9sW/view?usp=drive_link)
+* [Learn – Learns](https://drive.google.com/file/d/1DO2Z1fDN3T0G-uLuL5TVNtAIsE9Foz9B/view?usp=drive_link)
+* [Leave – Leaves](https://drive.google.com/file/d/1R61WHNmqsbx9pPXJ2vSBM9wHCPLgRFn7/view?usp=drive_link)
+* [Like – Likes](https://drive.google.com/file/d/1u1Y-UOhoM0NTQzec4URlVxu8KdZBbpln/view?usp=drive_link)
+* [Live – Lives](https://drive.google.com/file/d/1g8elj6_dJgFBY3PChpfTmqoApO5vDFsH/view?usp=drive_link)
+* [Look – Looks](https://drive.google.com/file/d/1Ophqugt3l23cLe282A2yZ2BTK6NljgBM/view?usp=drive_link)
+* [Watch – Watches](https://drive.google.com/file/d/12jHpKjclS-ih67qOHgfVTJpz_6N8xfA4/view?usp=drive_link)
+* [See – Sees](https://drive.google.com/file/d/1Gcn-MKlDGKPUlR-Pj15WwzKKDViYhuol/view?usp=drive_link)
+* [Lose – Loses](https://drive.google.com/file/d/1ZkVTBaX3kooyxfwJFvRHS1UGY5YqVh1c/view?usp=drive_link)
+* [Meet – Meets](https://drive.google.com/file/d/1IFjzJ1elc7aGrvmoNZgAj2BVl2H-9iPl/view?usp=drive_link)
+* [Move – Moves](https://drive.google.com/file/d/1rn6Tb6-UlxQaxLJIe4fuAho1LUXQaA_2/view?usp=drive_link)
+* [Need – Needs](https://drive.google.com/file/d/10sRp3ez9v5nx-UrztABPCTX7UqlowMgt/view?usp=drive_link)
+* [Paint – Paints](https://drive.google.com/file/d/1UE00g2C99iZ7AlgdCp38I28Uhui-jk3k/view?usp=drive_link)
+* [Pay – Pays](https://drive.google.com/file/d/1bdoYgX8fqXc0vD5hxLBOp0ASxt0vPLUt/view?usp=drive_link)
+* [Play – Plays](https://drive.google.com/file/d/1qNTSMr7KRCCXUCoEIOCWmx3Zatkregip/view?usp=drive_link)
+* [Put – Puts](https://drive.google.com/file/d/173LMlo5zq7kkT1w_Y53yyED5XQaMevI7/view?usp=drive_link)
+* [Remember – Remembers](https://drive.google.com/file/d/1LdFLQnlK29wyfnUxyjxkM9HvqXrl_yOB/view?usp=drive_link)
+* [Run – Runs](https://drive.google.com/file/d/1KUX4mNoahJsQkOrv5es31bGDbFC2gaUC/view?usp=drive_link)
+* [Say – Says](https://drive.google.com/file/d/1r1Zms1TACFMeb0_tJE-WzXRA6lRKI_D3/view?usp=drive_link)
+* [Tell – Tells](https://drive.google.com/file/d/12Zuq-cmisDUYj4yDEhBYy1e0Wt9deDk7/view?usp=drive_link)
+* [Send – Sends](https://drive.google.com/file/d/1dceBybDiOg9_zAHJDH7ucyd51vsh9iqU/view?usp=drive_link)
+* [Show – Shows](https://drive.google.com/file/d/1RqSc8kpBMnzbb995V9uEBXpfy4rb35wu/view?usp=drive_link)
+* [Sleep – Sleeps](https://drive.google.com/file/d/15sq8ueXrXwePP9B5niiFOTkKwimB6uKo/view?usp=drive_link)
+* [Speak – Speaks](https://drive.google.com/file/d/1TgoVnyR8jZvJGYxlyYJkzF1NT2tVUZqH/view?usp=drive_link)
+* [Talk – Talks](https://drive.google.com/file/d/1zTOXSR-Vd9-Xh8LSBL2t_ptuhUjKQDQQ/view?usp=drive_link)
+* [Start – Starts](https://drive.google.com/file/d/175260x4YD-koeBforFfAY1gtpim8lcAx/view?usp=drive_link)
+* [Take – Takes](https://drive.google.com/file/d/1q2dqXc4zjNo9eQTp37L5nnHeS304oWoH/view?usp=drive_link)
+* [Teach – Teaches](https://drive.google.com/file/d/1LQgjWHbW_psLua2lw6TjJosMq3r97nGv/view?usp=drive_link)
+* [Think – Thinks](https://drive.google.com/file/d/1uMvd3PJZ-AKW0sLw_szEZdX3EOdsVmnV/view?usp=drive_link)
+* [Try – Tries](https://drive.google.com/file/d/1oUx8Xyt0IpU4RdTlxu-mTFB1GMlA5Pac/view?usp=drive_link)
+* [Turn on – Turns on](https://drive.google.com/file/d/1r7_TDo_yeq50DcSkdkYUqlzB8Jw_Sgcl/view?usp=drive_link)
+* [Turn off – Turns off](https://drive.google.com/file/d/1t857YRu22J7U8oDd6EmvTU9SO7yOjfag/view?usp=drive_link)
+* [Type – Types](https://drive.google.com/file/d/1Jg-VcYo9HePM1B-mR661bBuEXuKTSXk5/view?usp=drive_link)
+* [Wait – Waits](https://drive.google.com/file/d/1mf9II9ocl6wgUkSWzD43kwnWq0xXQNxo/view?usp=drive_link)
+* [Walk – Walks](https://drive.google.com/file/d/1l4WlHnqtStXXC88yxiYLQ1vuKzQ2icKs/view?usp=drive_link)
+* [Want – Wants](https://drive.google.com/file/d/1yhPXWxCQ-zvhn2uroGzysD05UoK8Ea0e/view?usp=drive_link)
+* [Wash – Washes](https://drive.google.com/file/d/1sfETq237T2aKFOz90R73ZxLQyXhnScu4/view?usp=drive_link)
+* [Win – Wins](https://drive.google.com/file/d/1J8eU8XgpSykMVPmhYVv5KaUWSymC4DE7/view?usp=drive_link)
+* [Work – Works](https://drive.google.com/file/d/1RBr_lRIKylUOifePPJpPe1tlpHymgwQE/view?usp=drive_link)
+* [Write – Writes](https://drive.google.com/file/d/1yQYXVj6d6wQ2dMqCbCLYXmPBsLy_S8w_/view?usp=drive_link)
 
 ## 🔑 Conceptos Clave (Reglas Gramaticales):
 _Simple Present – Reglas y Usos_
