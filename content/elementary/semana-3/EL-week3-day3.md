@@ -23,7 +23,7 @@ Today, you will learn about the different parts of an address in the United Stat
 ## Important terms (Vocabulary):
 *Parts of an Address:*
 
-<img src="url_de_la_imagen" alt="Texto" width="300">
+{{< img src="images/parts_of_addr.png" alt="Part of an Address" >}}
 
 ## US States and Abbreviations
 |**NO.**|**COUNTRY**|**ABBREVIATION**|

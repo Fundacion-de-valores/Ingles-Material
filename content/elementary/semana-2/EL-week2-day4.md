@@ -87,7 +87,7 @@ the adjectives below will also help you describing people and places:
 
 *Family Members*
 
-//Imagen
+{{< img src="images/family_memb.png" alt="Family Members" >}}
 
 Here are some additional family members:
 * Daughter: Your child (Girl)

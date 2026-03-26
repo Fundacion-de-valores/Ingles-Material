@@ -44,7 +44,7 @@ Finally, you will use what you learned to structure questions in the simple pres
 
 *Frequency Adverbs:*
 
-<img src="">
+{{< img src="images/frequency_adv.png" alt="Frequency Adverbs" >}}
 
 **NOTE:**
 These are the most common frequency adverbs, but there are others like “hardly ever” (similar to “rarely”) and “often” (similar to “usually”). We also use them to talk about how often we do something.

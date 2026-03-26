@@ -29,7 +29,7 @@ Finally, you will work on recognizing the difference between one item and more t
 * These: For plural things near you.
 * Those: For plural things far from you.
 
-{img}
+{{< img src="images/demostratives.png" alt="Demostratives" >}}
 
 ## Singulas and Plurals
 
