@@ -42,14 +42,14 @@ Finally, you will use what you learned to structure questions in the simple pres
 7. How often → asks about frequency 📆
     * How often do you exercise?
 
-*Frequency Adverbs:*
+## *Frequency Adverbs:*
 
 {{< img src="images/frequency_adv.png" alt="Frequency Adverbs" >}}
 
 **NOTE:**
 These are the most common frequency adverbs, but there are others like “hardly ever” (similar to “rarely”) and “often” (similar to “usually”). We also use them to talk about how often we do something.
 
-*Daily Routine Vocabulary*
+## *Daily Routine Vocabulary*
 * Wake up ⏰👁️👁️
 * Get up 🧍🏻🧍🏻‍♀️
 * Turn the lights on 💡
@@ -107,7 +107,7 @@ _Position in the sentence:_
     * I am **always** on time.
     * They are **usually** very busy.
 
-*Hobbies:*
+## *Hobbies:*
 
 When we talk about the things we or other people like to do in their free time (hobbies), we often use gerunds and infinitives. These are verb forms that can function like nouns in a sentence. We usually use them after a main verb when we want to talk about another action. 
 
@@ -127,7 +127,7 @@ In English, we cannot use two verbs together in a sentence. When a verb is follo
 
 This is why we use gerunds and infinitives when talking about hobbies and activities.
 
-*Interrogative Sentences in Simple Present:*
+## Interrogative Sentences in Simple Present:*
 
 We use interrogative sentences to ask questions. As you learned yesterday, in English, we usually need an auxiliary verb to make questions.
 
@@ -135,16 +135,23 @@ Remember that in the Simple Present, the auxiliaries are:
 * Do (I, you, we, you guys, they)
 * Does (he / she / it)
 
-*Basic Question Structures:*
+## Basic Question Structures:*
 
-|**Close Ended Questions**||||**Open Ended Questions**|||||
-|:---:|:---:|:----:|:----:|:--:|:--:|:--:|:--:|:---|
-|Aux|Subject|Verb|Complement?|Question Word|Aux|Verb|Complement?|
-|Do|you|need|help?|why|do|you|need|help?|
-|Does|she|listen|to music?|where|does|listen|to music?|
+|**Close Ended Questions**||||
+|:---:|:---:|:----:|:----:|
+|**Aux**|**Subject**|**Verb**|**Complement?**|
+|Do|you|need|help?|
+|Does|she|listen|to music?|
+
+|**Open Ended Questions**|||||
+|:--:|:--:|:--:|:--:|:---:|
+|**Question Word**|**Aux**|**Verb**|**Complement?**|
+|why|do|you|need|help?|
+|where|does|listen|to music?|
 
 ##### Important Note:
  Unlike the affirmative and negative sentence structures, the questions do NOT start with the subject, in this case, the auxiliary will always go before the subject.
+
 
 ## 📝 Summary:
 Frequency Adverbs come **before the main verb** if it’s an action verb, but they come **after the verb “be”.**
