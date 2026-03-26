@@ -1,5 +1,5 @@
 ---
-title: "Day 4"
+title: "Day 4 - Week 1"
 description: "Cardinal Numbers, The Time"
 weight: 4
 showTableOfContents: true
@@ -29,9 +29,10 @@ Finalmente, ampliarás tu vocabulario relacionado con el dinero para entender y 
 
 Utiliza el siguiente link para ver los números del 1 al 100 y la forma en que se escriben con dígitos y letras (Puedes ver como se escribe en letras al poner tu cursor sobre el número, si estás en computadora también podrás escuchar la pronunciación del número): https://www.languageguide.org/english/vocabulary/numbers/ 
 
-También puedes ver este video para escuchar la pronunciación si utilizas celular y el audio del link anterior no funciona: 
+También puedes ver este video para escuchar la pronunciación si utilizas celular y el audio del link anterior no funciona:
 
-{{< youtube YuXFxvTbviI >}} 
+{{< youtube YuXFxvTbviI >}}
+
 
 *The time:*
 * _O’clock_ – En punto 
@@ -47,9 +48,10 @@ También puedes ver este video para escuchar la pronunciación si utilizas celul
 * _Bucks_ – Dólares (Slang: Es una manera informal de decir la palabra, no se usa como agente en un call center, pero si podrías escucharla de algún cliente)
 * _Cash_ – Dinero en efectivo
 
-Para más detalles sobre cómo leer cantidades monetarias y el vocabulario común para pagos, ve el siguiente video: 
+Para más detalles sobre cómo leer cantidades monetarias y el vocabulario común para pagos, ve el siguiente video:
 
 {{< youtube VGgVNcUXa3A >}}
+
 
 ## Conceptos Clave (Reglas Gramaticales):
 *Ten vs. Teen numbers:*

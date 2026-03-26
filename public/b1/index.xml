@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>B1 - Intermedio on Curso de Inglés</title>
-    <link>http://localhost:1313/Ingles-Material/b1/</link>
+    <link>https://Fundacion-de-valores.github.io/Ingles-Material/b1/</link>
     <description>Recent content in B1 - Intermedio on Curso de Inglés</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <atom:link href="http://localhost:1313/Ingles-Material/b1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Fundacion-de-valores.github.io/Ingles-Material/b1/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
