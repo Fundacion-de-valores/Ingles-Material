@@ -33,7 +33,7 @@ También puedes ver este video para escuchar la pronunciación si utilizas celul
 
 {{< youtube YuXFxvTbviI >}} 
 
-*The time:*
+## *The time:*
 * _O’clock_ – En punto 
 * _Noon_ – Mediodía 
 * _Midnight_ – Media noche
@@ -41,7 +41,7 @@ También puedes ver este video para escuchar la pronunciación si utilizas celul
 * _P.M._ (post meridiem) – Después del mediodía
 * _What time is it?_ – ¿Qué hora es?
 
-*Money Vocabulary*
+## *Money Vocabulary*
 * _Dollars_ – Dólares
 * _Cents_ – Centavos 
 * _Bucks_ – Dólares (Slang: Es una manera informal de decir la palabra, no se usa como agente en un call center, pero si podrías escucharla de algún cliente)
@@ -79,7 +79,7 @@ Estos números terminan en -ty y normalmente se pronuncian con más énfasis en 
 
 Estos números terminan en -teen y normalmente se pronuncian con más énfasis en la segunda sílaba. No olvides pronunciar la N en los teen numbers, esta letra hace una gran diferencia entre el primer grupo y este.
 
-*Telling the time(American Way)*
+## *Telling the time(American Way)*
 
 Para responder a la pregunta: What time is it? en inglés, normalmente decimos primero la hora y luego los minutos. La estructura básica es:
 

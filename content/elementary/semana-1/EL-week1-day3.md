@@ -41,12 +41,12 @@ Finalmente, utilizarás todo este conocimiento para poder presentarte a ti mismo
 * _You_ guys – Ustedes 
 * _They_ – Ellos/Ellas
 
-*Verb “Be” (Presente):*
+## *Verb “Be” (Presente):*
 * _Am_ (Primera persona del singular)
 * _Are_ (2ª persona y plurales)
 * _Is_ (3ª persona del singular)
 
-*Professions:*
+## *Professions:*
 * _Doctor_ – Doctor(a)
 * _Teacher_ – Maestro(a)
 * _Student_ – Estudiante/Alumno(a) 
@@ -66,7 +66,7 @@ Finalmente, utilizarás todo este conocimiento para poder presentarte a ti mismo
 * _Accountant_ – Contador 
 * _Human Resources Specialist (HR)_ – Especialista de Recursos Humanos
 
-*Expressing Feelings:*
+## *Expressing Feelings:*
 * _Doing good_ – Bien 🙂
 * _Doing great_ – Muy bien 🤩
 * _Happy – Feliz_ 😁
@@ -79,7 +79,7 @@ Finalmente, utilizarás todo este conocimiento para poder presentarte a ti mismo
 * _Stressed out_ – Estresado(a) 😵
 * _Scared_ – Asustado(a) 😨
 
-*Countries and Nationalities:*
+## *Countries and Nationalities:*
 * _Guatemala_ – Guatemalan 🇬🇹 
 * _El Salvador_ – Salvadorian 🇸🇻
 * _Honduras_ – Honduran 🇭🇳
@@ -106,14 +106,14 @@ Puedes utilizar el siguiente link para escuchar la pronunciación de los diferen
 
 https://quizlet.com/830046652/flashcards?funnelUUID=f9864622-10be-474a-8c09-e4da8b0208db
 
-*Introduce Yourself:*
+## *Introduce Yourself:*
 * My name is… – Mi nombre es…
 * I am from… – Yo soy de… (país)
 * I am… – Yo soy… (Nacionalidad)
 * I live in… – Yo vivo en… (Estado/Provincia)
 * I am a/an… – Yo soy un/una… (profesión)
 
-*Questions*
+## *Questions*
 * _What’s your name?_ – ¿Cuál es tu nombre?
 * _Where are you from?_ – ¿De dónde eres? 
 * Where do you live? – ¿Dónde vives?

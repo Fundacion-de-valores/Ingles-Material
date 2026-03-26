@@ -6,9 +6,9 @@ showTableOfContents: true
 ---
 
 ## Temas del Día
-**Magic Questions and Phrases**
-**Greetings**
-**Definite and Infinite Articles**
+* Magic Questions and Phrases**
+* Greetings**
+* Definite and Infinite Articles**
 
 ## Objetivos del aprendizaje
 #### _Al finalizar esta clase, serás capaz de:_

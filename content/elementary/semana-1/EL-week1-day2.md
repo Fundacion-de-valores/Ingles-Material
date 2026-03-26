@@ -6,9 +6,9 @@ showTableOfContents: true
 ---
 ## Temas del día
 
- **How to pray in English: FOR vs. TO**
- **The Alphabet**
- **Verb**
+* How to pray in English: FOR vs. TO
+* The Alphabet
+* Verb
 
 ## Objetivos del aprendizaje:
 
