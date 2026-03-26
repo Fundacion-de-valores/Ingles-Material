@@ -55,7 +55,7 @@ También puedes ver este video para escuchar la pronunciación si utilizas celul
 
 ## The Military Alphabet:
 
-![Military_Alphabet](/images/military_alphabet.png)
+{{< img src="images/military_alphabet.png" alt="Military Alphabet" >}}
 
 _Si la pronunciación de algunas palabras o letras es difícil para ti, puedes usar el siguiente video para practicar la fonética del inglés:_ 
 
