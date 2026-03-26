@@ -1,5 +1,5 @@
 ---
-title: "Day 1 - Week 1"
+title: "Day 1"
 description: "Magic Questions and Phrases, Greetings, Articles"
 weight: 1
 showTableOfContents: true
@@ -20,18 +20,19 @@ showTableOfContents: true
 **3.** Describir objetos cotidianos utilizando artículos definidos e indefinidos (a, an, the) de manera adecuada.
 
 ## Introducción:
-    El día de hoy, desarrollarás las bases esenciales para comunicarte en inglés dentro y fuera de clase. 
-    A través del aprendizaje de saludos básicos como “Good morning” y “Good afternoon”, 
-    podrás iniciar y cerrar interacciones de manera adecuada según el contexto.
 
-    Además, incorporarás frases funcionales clave para la dinámica de clase, como “How do you say…?”,
-     “What’s the meaning of…?”, “May I go to the bathroom?” y “My connection is unstable”, 
-     lo que te permitirá desenvolverte con mayor autonomía en el entorno virtual. Estas frases 
-     y preguntas son la base para eliminar el uso de español/portugués en clase, por lo que te pedimos 
-     que te enfoques mucho en utilizar estas frases A DIARIO.
+El día de hoy, desarrollarás las bases esenciales para comunicarte en inglés dentro y fuera de clase. 
+A través del aprendizaje de saludos básicos como “Good morning” y “Good afternoon”, 
+podrás iniciar y cerrar interacciones de manera adecuada según el contexto.
 
-     Finalmente, aprenderás a utilizar correctamente los artículos definidos e indefinidos (a, an, the), 
-     fortaleciendo la precisión gramatical en la construcción de oraciones simples.
+Además, incorporarás frases funcionales clave para la dinámica de clase, como “How do you say…?”,
+“What’s the meaning of…?”, “May I go to the bathroom?” y “My connection is unstable”, 
+lo que te permitirá desenvolverte con mayor autonomía en el entorno virtual. Estas frases 
+y preguntas son la base para eliminar el uso de español/portugués en clase, por lo que te pedimos 
+que te enfoques mucho en utilizar estas frases A DIARIO.
+
+Finalmente, aprenderás a utilizar correctamente los artículos definidos e indefinidos (a, an, the), 
+fortaleciendo la precisión gramatical en la construcción de oraciones simples.
 
 ## Términos Importantes (Vocabulario del día):
 _Magic Questions and Phrases_

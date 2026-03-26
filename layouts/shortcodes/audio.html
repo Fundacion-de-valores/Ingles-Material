@@ -1,9 +1,4 @@
-{{ $src := .Get "src" }}
-{{ $caption := .Get "caption" }}
-<figure>
-  <audio controls style="width: 100%;">
-    <source src="{{ $src }}" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-  {{ if $caption }}<figcaption>{{ $caption }}</figcaption>{{ end }}
-</figure>
+<audio controls style="width: 100%;">
+  <source src="{{ .Get "src" | relURL }}" type="audio/mpeg">
+  Tu navegador no soporta el elemento de audio.
+</audio>

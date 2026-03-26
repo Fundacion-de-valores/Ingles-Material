@@ -1,5 +1,5 @@
 ---
-title: "Day 3 - Week 1"
+title: "Day 3"
 description: "Personal Pronouns"
 weight: 3
 showTableOfContents: true
@@ -102,7 +102,9 @@ Finalmente, utilizarás todo este conocimiento para poder presentarte a ti mismo
 * _North/South Korea_ – Korean 🇰🇷
 
 **Nota:**
-Puedes utilizar el siguiente link para escuchar la pronunciación de los diferentes países y nacionalidades, así como preguntas que puedes hacer con este vocabulario: https://quizlet.com/830046652/flashcards?funnelUUID=f9864622-10be-474a-8c09-e4da8b0208db
+Puedes utilizar el siguiente link para escuchar la pronunciación de los diferentes países y nacionalidades, así como preguntas que puedes hacer con este vocabulario: 
+
+https://quizlet.com/830046652/flashcards?funnelUUID=f9864622-10be-474a-8c09-e4da8b0208db
 
 *Introduce Yourself:*
 * My name is… – Mi nombre es…
