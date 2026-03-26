@@ -19,3 +19,6 @@ theme = "congo"
 
 [params.article]
   showPagination = false
+
+  [markup.goldmark.renderer]
+  unsafe = true

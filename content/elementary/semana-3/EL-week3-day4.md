@@ -28,8 +28,6 @@ By the end of the lesson, you will feel more confident understanding and using c
 *Food Vocabulary:*
 Use the following presentation to find the most common vocabulary words and phrases related to food, this topic will be really important for you to start learning how to say or describe procedures. Pay attention to the pictures so that you know what each word means: 
 
-https://www.canva.com/design/DAFw9yKhh5k/mUZEf9cuKKdf_OWiNq5sYQ/view?utm_content=DAFw9yKhh5k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink 
-
 {{< canva id="DAFw9yKhh5k" >}}
 
 ## Animals:
