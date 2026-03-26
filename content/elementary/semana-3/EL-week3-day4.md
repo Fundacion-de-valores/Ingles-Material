@@ -30,7 +30,11 @@ By the end of the lesson, you will feel more confident understanding and using c
 Use the following presentation to find the most common vocabulary words and phrases related to food, this topic will be really important for you to start learning how to say or describe procedures. Pay attention to the pictures so that you know what each word means: https://www.canva.com/design/DAFw9yKhh5k/mUZEf9cuKKdf_OWiNq5sYQ/view?utm_content=DAFw9yKhh5k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink 
 
 ## Animals:
-Watch the following video for the most common animals in English: https://www.youtube.com/watch?v=KQt3jVyME-k . After watching the video, you can also use the list below to memorize the names of the animals and be able to categorize them according to their groups.
+Watch the following video for the most common animals in English:
+
+{{< youtube KQt3jVyME-k >}}
+
+After watching the video, you can also use the list below to memorize the names of the animals and be able to categorize them according to their groups.
 
 ## Wild Animals:
 * Lion 

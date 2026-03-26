@@ -81,7 +81,10 @@ Today, you will learn about the different parts of an address in the United Stat
 |50|WYOMING|WY|
 
 **NOTE:**
-Use the following link to listen to the right pronunciation of each state: https://www.youtube.com/watch?v=0bgbJGyNeuI 
+Use the following video to listen to the right pronunciation of each state:
+
+{{< youtube 0bgbJGyNeuI >}}
+
 
 ## Streets Abbreviations:
 * Street – St.

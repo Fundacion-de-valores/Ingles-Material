@@ -56,7 +56,9 @@ By the end of the lesson, you will be able to communicate dates, schedules, and 
 Use the following link to learn the ordinal numbers from 1st to 31st. You can place the pointer over each number to see how it is written in letters. If you are using a computer, you will also be able to listen to the pronunciation of the number:
 _https://www.languageguide.org/english/vocabulary/ordinal-numbers/_
 
-You can also watch this video to listen to the pronunciation of the numbers if you use a cellphone and the link above doesn't work properly: _https://www.youtube.com/watch?v=VKzaVEG5b9k_
+You can also watch this video to listen to the pronunciation of the numbers if you use a cellphone and the link above doesn't work properly:
+
+{{< youtube VKzaVEG5b9k >}}
 
 *Months of the Year*
 1. January

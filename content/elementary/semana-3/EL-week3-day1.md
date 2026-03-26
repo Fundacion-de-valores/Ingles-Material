@@ -28,77 +28,77 @@ Important terms (Vocabulary):
 
 ## Simple Past Verbs:
 
-* [ Ask – Asked](https://drive.google.com/file/d/1IUyc8cfNtyjVApn2MWUBKpTAxRkxQEo-/view?usp=drive_link)
-* [Begin – Began](https://drive.google.com/file/d/1NuDZyCsiLSZxn0LasA4AU2IiCnmrJqgk/view?usp=drive_link) 
-* [Believe – Believed](https://drive.google.com/file/d/1GCetcoacElbRfYCFu2V_sWsWckwjMOHT/view?usp=drive_link) 
-* [Bring – Brought](https://drive.google.com/file/d/1KSrWIhfwKL5Qidwn07QDHi1yqc3PYBA4/view?usp=drive_link) 
-* [Buy – Bought](https://drive.google.com/file/d/12SFILON0FJF0--QSJZMD2WJ3oMM0US8U/view?usp=drive_link) 
-* [Sell – Sold](https://drive.google.com/file/d/1Tytk5_SPBmYngUrkI0poo0z_tdNzCkkR/view?usp=drive_link) 
-* [Call – Called](https://drive.google.com/file/d/1vvgYMMOIdqzEjtKK9giR1TZJDH7L3KHx/view?usp=drive_link) 
-* [Change – Changed](https://drive.google.com/file/d/1xom4w1zeDfOVRo5CbmOKyBEJH8zLQxgh/view?usp=drive_link)
-* [Come – Came](https://drive.google.com/file/d/1P1FamHtVKkq526TxkeKcZebtRXJYFdTD/view?usp=drive_link)
-* [Go – Went](https://drive.google.com/file/d/1abgtxJJ5EkVxaAbYZkdy6Eunayya19hM/view?usp=drive_link)
-* [Cut – Cut](https://drive.google.com/file/d/1mObkgaOxxNijOJW_lHYIt6Mt_EvkQubS/view?usp=drive_link)
-* [Do – Did](https://drive.google.com/file/d/1qKUZTYA7l9l_xO03BrIXUJH7Lk9DIIUy/view?usp=drive_link)
-* [Make – Made](https://drive.google.com/file/d/1d4Sghj4pJ-0BmEEE368VA2eWzjBsbCdN/view?usp=drive_link)
-* [Download – Downloaded](https://drive.google.com/file/d/1wPTD6RwjA2r7OsIVNTOBpuDYsFqrtSMC/view?usp=drive_link)
-* [Upload – Uploaded](https://drive.google.com/file/d/1BOixxBGp8GBTxf9UbTd2yZ421qRneLCw/view?usp=drive_link)
-* [Draw – Drew](https://drive.google.com/file/d/1o0JseWKokWGNu8VVbevCdt4LNBdJD8Zy/view?usp=drive_link) 
-* [Drink – Drank](https://drive.google.com/file/d/1YMriPyjtZpO_NXO5taEn60sXlDVxQpac/view?usp=drive_link)
-* [Drive – Drove](https://drive.google.com/file/d/1s4jeB0b8DOS5e7xwkPhEKtkS6VIzmxz3/view?usp=drive_link) 
-* [Eat – Ate](https://drive.google.com/file/d/1WnYLNBVWyitCw0M4W9LdZt4q_nCRACTY/view?usp=drive_link)
-* [Explain – Explained](https://drive.google.com/file/d/1Ty1NtSiH9LD1jnCHW_R-bgd1z61HCjOL/view?usp=drive_link)
-* [Feel – Felt](https://drive.google.com/file/d/17r1H2Pcc4rXrkYxS-Yh8TBRfWnv6c36N/view?usp=drive_link) 
-* [Find – Found](https://drive.google.com/file/d/1MIESsR1TdgkV-0wNlMhj3nwW9mR4Lvtg/view?usp=drive_link)
-* [Fix – Fixed](https://drive.google.com/file/d/1frcdEmgZ_JxWAQDgobdSL0pKvSSRKv0c/view?usp=drive_link)
-* [Get – Got](https://drive.google.com/file/d/1P3CkuO6hPaYGXo6B4K6MyiUMH4Py0TJO/view?usp=drive_link) 
-* [Give – Gave](https://drive.google.com/file/d/1N2Wg3pR7jI1G1pc9eMxcPY3gci1sSew4/view?usp=drive_link) 
-* [Grow – Grew](https://drive.google.com/file/d/1TqLu1nCz7mEQzrvCEtA7u1ibkmz6vQvH/view?usp=drive_link) 
-* [Have – Had](https://drive.google.com/file/d/1aWMMjfSFfa3BDPC3d-XuaMIoWIbiE1p0/view?usp=drive_link) 
-* [Hear – Heard](https://drive.google.com/file/d/1hHrRmWD0p_LxcDQNUfRpb4cKuvUFMAU1/view?usp=drive_link)
-* [Listen – Listened](https://drive.google.com/file/d/19PMFdnXCJEPQxH0WdHZblzaHaxoj_9HO/view?usp=drive_link) 
-* [Help – Helped](https://drive.google.com/file/d/1OIabS70fb0Y0eVld94egCs23stdE-owy/view?usp=drive_link)
-* [Hold – Held](https://drive.google.com/file/d/1jGNtpCZl9KKI6eQPWS2yJ4LMYRVH-K4o/view?usp=drive_link)
-* [Know – Knew](https://drive.google.com/file/d/1hMIpc8V4Pcz7wXHgHCddQvKfl4qMTBmn/view?usp=drive_link)
-* [Learn – Learned](https://drive.google.com/file/d/1lNQcbP09ehXDWKvz7a2BPDR7Kpgb6cSL/view?usp=drive_link)
-* [Leave – Left](https://drive.google.com/file/d/1Oeqd7qmaWFN8hQitSiPF4s3yqTNJkq5_/view?usp=drive_link)
-* [Like – Liked](https://drive.google.com/file/d/19R5laa4jIFK3Vj05H2LYDHEFKPPYqeu_/view?usp=drive_link)
-* [Live – Lived](https://drive.google.com/file/d/1JUrkZI8aRBhj2IRJFV-gMo2bQxUS4UyF/view?usp=drive_link)
-* [Look – Looked](https://drive.google.com/file/d/1HdypvRFQnQJ80mwuZOMzZNNGS7EKE9RN/view?usp=drive_link) 
-* [Watch – Watched](https://drive.google.com/file/d/1gON-_cI7XzO8UulZkO2RcQ_bPtPT6iIh/view?usp=drive_link) 
-* [See – Saw](https://drive.google.com/file/d/1T_gtXP9QLKaJlauik-Wdn-C6tJB-4vrR/view?usp=drive_link) 
-* [Lose – Lost](https://drive.google.com/file/d/1StXBfoWj7nSO9ZFQQmeE7uJsI-Zf0h7V/view?usp=drive_link)
-* [Meet – Met](https://drive.google.com/file/d/1A_hStsRNLkP4E2PcLjmgu9B07kBHmmBu/view?usp=drive_link) 
-* [Move – Moved](https://drive.google.com/file/d/17XF_z_R0-WYBpjLrKwUpi5BH09PJkrs9/view?usp=drive_link)
-* [Need – Needed](https://drive.google.com/file/d/1X-OgAtFNdUwKLaz1OHJp3aPjOo4F7l93/view?usp=drive_link)
-* [Paint – Painted](https://drive.google.com/file/d/1zlY-wHtPgY2AvbGCNdkuuh2OiBnyx2LM/view?usp=drive_link)
-* [Pay – Paid](https://drive.google.com/file/d/1kbTKjg_2aqFF2DHEK0-K7JkypNf9t8hA/view?usp=drive_link)
-* [Play – Played](https://drive.google.com/file/d/1Nqtk1NXUjTgkUYbi-sEc38d_dRZoYQWZ/view?usp=drive_link)
-* [Put – Put](https://drive.google.com/file/d/1XYYEGYJe1rKWzJkvbwECcG-6lism-nai/view?usp=drive_link)
-* [Remember – Remembered](https://drive.google.com/file/d/15gC5vfwxFssw1fMg8YqCXbMKZC63Shxd/view?usp=drive_link)
-* [Run – Ran](https://drive.google.com/file/d/1ltOUbG6J0Z-zWQ8AhfWpcqg8KKQgs2xE/view?usp=drive_link)
-* [Say – Said](https://drive.google.com/file/d/1q9ZRj-ehhogp0m5KBQ0L175Wftv5cGIb/view?usp=drive_link)
-* [Tell – Told](https://drive.google.com/file/d/14ff-vJfPWTCUkTnYcwNBREMLe7j5ItJ6/view?usp=drive_link)
-* [Send – Sent](https://drive.google.com/file/d/1LW01fEdbsCQosEFKQ48KIxusOvu1hMRO/view?usp=drive_link) 
-* [Show – Showed](https://drive.google.com/file/d/1idiN6nwJpJc34mEw6zQdsGHTA5n0xg2Z/view?usp=drive_link)
-* [Sleep – Slept](https://drive.google.com/file/d/1C4S8t8GBG8M5ylTFchLm98wm2NnzbhVH/view?usp=drive_link)
-* [Speak – Spoke](https://drive.google.com/file/d/1sPr2hrcAelkCeI1oPzCL3I-f6ykiYtas/view?usp=drive_link)
-* [Talk – Talked](https://drive.google.com/file/d/1mdbjPhIje7ITb-lSzkZ5FhFxAVZvI8lV/view?usp=drive_link)
-* [Start – Started](https://drive.google.com/file/d/1fv67vSi-5W5u0NBjYcrZuZB7C_xd-SYW/view?usp=drive_link)
-* [Take – Took](https://drive.google.com/file/d/10Xaha4M5cer_sCnSkSnWUgYkVLdErUAJ/view?usp=drive_link)
-* [Teach – Taught](https://drive.google.com/file/d/1i0AKMahMQsZiv6-2rYBjP2sE7svsbdeO/view?usp=drive_link) 
-* [Think – Thought](https://drive.google.com/file/d/1qRXMwRANAeGmaFQPm-1-ctkAkzurIfSF/view?usp=drive_link)
-* [Try – Tried](https://drive.google.com/file/d/1GMhRvFJ5tH-FDt-fz50jQPeMgZLNbDiZ/view?usp=drive_link)
-* [Turn on – Turned on](https://drive.google.com/file/d/1bvYDZ1Oo4FlqjVSQVxRCqah5r1W7LARb/view?usp=drive_link)
-* [Turn off – Turned off](https://drive.google.com/file/d/1ceqGkEtXNgStr-tSTu8-im6c89uRHM-4/view?usp=drive_link)
-* [Type – Typed](https://drive.google.com/file/d/1FGKG5Tz3LitoxnzQbtWp8c54L5M8sgDn/view?usp=drive_link) 
-* [Wait – Waited](https://drive.google.com/file/d/1IBH2QumdX9hcsOvrgAeccc2YArk4qjY9/view?usp=drive_link)
-* [Walk – Walked](https://drive.google.com/file/d/1yncury3WpKtGEzkjqNrI4SUx60fwVsJg/view?usp=drive_link)
-* [Want – Wanted](https://drive.google.com/file/d/16oneK3JOx0BZhVz4yP1_NQGcjJsgtBLj/view?usp=drive_link)
-* [Wash – Washed](https://drive.google.com/file/d/1lxNgPXmQHiYVFFauuM8_RtqIrJ1dawKf/view?usp=drive_link)
-* [Win – Won](https://drive.google.com/file/d/19djYwzOkfFpuUjAYACPhN_qJiGxd_-YV/view?usp=drive_link)
-* [Work – Worked](https://drive.google.com/file/d/18VOvbr0BGe9xposIycaaGKYv7r7DlY4E/view?usp=drive_link)
-* [Write – Wrote](https://drive.google.com/file/d/1ECrao-GnXLKHHv9FWhVLiCjgaGR3h5xw/view?usp=drive_link)
+* Ask – Asked {{< gdrive-audio "/audio/elementary/semana-3/ask-asked.mp3" >}}
+* Begin – Began {{< gdrive-audio "/audio/elementary/semana-3/begin-began.mp3" >}}
+* Believe – Believed {{< gdrive-audio "/audio/elementary/semana-3/believe-believed.mp3" >}}
+* Bring – Brought {{< gdrive-audio "/audio/elementary/semana-3/bring-brought.mp3" >}}
+* Buy – Bought {{< gdrive-audio "/audio/elementary/semana-3/buy-bought.mp3" >}}
+* Sell – Sold {{< gdrive-audio "/audio/elementary/semana-3/sell-sold.mp3" >}}
+* Call – Called {{< gdrive-audio "/audio/elementary/semana-3/call-called.mp3" >}}
+* Change – Changed {{< gdrive-audio "/audio/elementary/semana-3/change-changed.mp3" >}}
+* Come – Came {{< gdrive-audio "/audio/elementary/semana-3/come-came.mp3" >}}
+* Go – Went {{< gdrive-audio "/audio/elementary/semana-3/go-went.mp3" >}}
+* Cut – Cut {{< gdrive-audio "/audio/elementary/semana-3/cut-cut.mp3" >}}
+* Do – Did {{< gdrive-audio "/audio/elementary/semana-3/do-did.mp3" >}}
+* Make – Made {{< gdrive-audio "/audio/elementary/semana-3/make-made.mp3" >}}
+* Download – Downloaded {{< gdrive-audio "/audio/elementary/semana-3/download-downloaded.mp3" >}}
+* Upload – Uploaded {{< gdrive-audio "/audio/elementary/semana-3/upload-uploaded.mp3" >}}
+* Draw – Drew {{< gdrive-audio "/audio/elementary/semana-3/draw-drew.mp3" >}}
+* Drink – Drank {{< gdrive-audio "/audio/elementary/semana-3/drink-drank.mp3" >}}
+* Drive – Drove {{< gdrive-audio "/audio/elementary/semana-3/drive-drove.mp3" >}}
+* Eat – Ate {{< gdrive-audio "/audio/elementary/semana-3/eat-ate.mp3" >}}
+* Explain – Explained {{< gdrive-audio "/audio/elementary/semana-3/explain-explained.mp3" >}}
+* Feel – Felt {{< gdrive-audio "/audio/elementary/semana-3/feel-felt.mp3" >}}
+* Find – Found {{< gdrive-audio "/audio/elementary/semana-3/find-found.mp3" >}}
+* Fix – Fixed {{< gdrive-audio "/audio/elementary/semana-3/fix-fixed.mp3" >}}
+* Get – Got {{< gdrive-audio "/audio/elementary/semana-3/get-got.mp3" >}}
+* Give – Gave {{< gdrive-audio "/audio/elementary/semana-3/give-gave.mp3" >}}
+* Grow – Grew {{< gdrive-audio "/audio/elementary/semana-3/grow-grew.mp3" >}}
+* Have – Had {{< gdrive-audio "/audio/elementary/semana-3/have-had.mp3" >}}
+* Hear – Heard {{< gdrive-audio "/audio/elementary/semana-3/hear-heard.mp3" >}}
+* Listen – Listened {{< gdrive-audio "/audio/elementary/semana-3/listen-listened.mp3" >}}
+* Help – Helped {{< gdrive-audio "/audio/elementary/semana-3/help-helped.mp3" >}}
+* Hold – Held {{< gdrive-audio "/audio/elementary/semana-3/hold-held.mp3" >}}
+* Know – Knew {{< gdrive-audio "/audio/elementary/semana-3/know-knew.mp3" >}}
+* Learn – Learned {{< gdrive-audio "/audio/elementary/semana-3/learn-learned.mp3" >}}
+* Leave – Left {{< gdrive-audio "/audio/elementary/semana-3/leave-left.mp3" >}}
+* Like – Liked {{< gdrive-audio "/audio/elementary/semana-3/like-liked.mp3" >}}
+* Live – Lived {{< gdrive-audio "/audio/elementary/semana-3/live-lived.mp3" >}}
+* Look – Looked {{< gdrive-audio "/audio/elementary/semana-3/look-looked.mp3" >}}
+* Watch – Watched {{< gdrive-audio "/audio/elementary/semana-3/watch-watched.mp3" >}}
+* See – Saw {{< gdrive-audio "/audio/elementary/semana-3/see-saw.mp3" >}}
+* Lose – Lost {{< gdrive-audio "/audio/elementary/semana-3/lose-lost.mp3" >}}
+* Meet – Met {{< gdrive-audio "/audio/elementary/semana-3/meet-met.mp3" >}}
+* Move – Moved {{< gdrive-audio "/audio/elementary/semana-3/move-moved.mp3" >}}
+* Need – Needed {{< gdrive-audio "/audio/elementary/semana-3/need-needed.mp3" >}}
+* Paint – Painted {{< gdrive-audio "/audio/elementary/semana-3/paint-painted.mp3" >}}
+* Pay – Paid {{< gdrive-audio "/audio/elementary/semana-3/pay-paid.mp3" >}}
+* Play – Played {{< gdrive-audio "/audio/elementary/semana-3/play-played.mp3" >}}
+* Put – Put {{< gdrive-audio "/audio/elementary/semana-3/put-put.mp3" >}}
+* Remember – Remembered {{< gdrive-audio "/audio/elementary/semana-3/remember-remembered.mp3" >}}
+* Run – Ran {{< gdrive-audio "/audio/elementary/semana-3/run-ran.mp3" >}}
+* Say – Said {{< gdrive-audio "/audio/elementary/semana-3/say-said.mp3" >}}
+* Tell – Told {{< gdrive-audio "/audio/elementary/semana-3/tell-told.mp3" >}}
+* Send – Sent {{< gdrive-audio "/audio/elementary/semana-3/send-sent.mp3" >}}
+* Show – Showed {{< gdrive-audio "/audio/elementary/semana-3/show-showed.mp3" >}}
+* Sleep – Slept {{< gdrive-audio "/audio/elementary/semana-3/sleep-slept.mp3" >}}
+* Speak – Spoke {{< gdrive-audio "/audio/elementary/semana-3/speak-spoke.mp3" >}}
+* Talk – Talked {{< gdrive-audio "/audio/elementary/semana-3/talk-talked.mp3" >}}
+* Start – Started {{< gdrive-audio "/audio/elementary/semana-3/start-started.mp3" >}}
+* Take – Took {{< gdrive-audio "/audio/elementary/semana-3/take-took.mp3" >}}
+* Teach – Taught {{< gdrive-audio "/audio/elementary/semana-3/teach-taught.mp3" >}}
+* Think – Thought {{< gdrive-audio "/audio/elementary/semana-3/think-thought.mp3" >}}
+* Try – Tried {{< gdrive-audio "/audio/elementary/semana-3/try-tried.mp3" >}}
+* Turn on – Turned on {{< gdrive-audio "/audio/elementary/semana-3/turn-on-turned-on.mp3" >}}
+* Turn off – Turned off {{< gdrive-audio "/audio/elementary/semana-3/turn-off-turned-off.mp3" >}}
+* Type – Typed {{< gdrive-audio "/audio/elementary/semana-3/type-typed.mp3" >}}
+* Wait – Waited {{< gdrive-audio "/audio/elementary/semana-3/wait-waited.mp3" >}}
+* Walk – Walked {{< gdrive-audio "/audio/elementary/semana-3/walk-walked.mp3" >}}
+* Want – Wanted {{< gdrive-audio "/audio/elementary/semana-3/want-wanted.mp3" >}}
+* Wash – Washed {{< gdrive-audio "/audio/elementary/semana-3/wash-washed.mp3" >}}
+* Win – Won {{< gdrive-audio "/audio/elementary/semana-3/win-won.mp3" >}}
+* Work – Worked {{< gdrive-audio "/audio/elementary/semana-3/work-worked.mp3" >}}
+* Write – Wrote {{< gdrive-audio "/audio/elementary/semana-3/write-wrote.mp3" >}}
 
 ## Key Concepts (Grammar Rules):
 *Simple Past Rules and Uses:*
