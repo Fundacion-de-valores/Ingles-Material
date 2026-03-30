@@ -5,23 +5,24 @@ weight: 1
 showTableOfContents: true
 ---
 
-## 📋 Topics of the Day:
+## 📖Topics of the Day:
 * Simple Future
 * Time Expressions
 * Prepositions of Time (Review)
 * 
-## 🎯 Learning Objectives:
+## 🎯Learning Objectives:
 By the end of this lesson, you will be able to:
 1. Use the simple future tense in affirmative, negative, and question forms to talk about plans, predictions, and decisions.
 2. Identify and use common time expressions for the future (e.g., tomorrow, next week, later) to give more detail about when actions will happen, in preparation for the call center experience.
 3. Apply prepositions of time (in, on, at) correctly when talking about future events and schedules.
 
-## 📖 Introduction:
+## 🗒️Introduction:
 
 Today you will learn how to talk about things that haven’t happened yet by forming sentences in different ways, including statements, negatives, and questions. You will also practice adding details about when something will happen using common future time phrases, and review how to choose the correct time prepositions to make your ideas clear and accurate.
 
-**Important terms (Vocabulary):**
-## ⏰ Time Expressions:
+## ‼️Important terms (Vocabulary):
+
+**Time Expressions:**
 * Tomorrow 
 * Next Week 
 * In an hour 
@@ -32,7 +33,7 @@ Today you will learn how to talk about things that haven’t happened yet by for
 
 
 
-## 🔑 Key Concepts (Grammar Rules):
+## 🔑Key Concepts (Grammar Rules):
 *The Simple Future:*
 There are two words that we use in English to express future, these are: Will and Be Going to. They can be used for the following:
 Use **will** for:
@@ -45,7 +46,7 @@ Use **will** for:
 
 For the “be” part of this last phrase, we will use the 3 forms of the verb “be” that we also learned in the present: Am, Is and Are.
 
-## 🏗️ Affirmative Structures:
+## ✅Affirmative Structures:
 
 **WILL**
 | Subject | Will | Verb (Base Form) | Complement |
@@ -74,7 +75,7 @@ For the “be” part of this last phrase, we will use the 3 forms of the verb �
 
 ---
 
-## 🏗️ Negative Structures:
+## ❎Negative Structures:
 
 **WILL**
 | Subject | Will + Not | Verb (Base Form) | Complement |
@@ -106,7 +107,7 @@ For the “be” part of this last phrase, we will use the 3 forms of the verb �
 
 ---
 
-## 🏗️ Question Structures:
+## ❓Question Structures:
 
 **WILL**
 | Will | Subject | Verb (Base Form) | Complement? |
@@ -138,7 +139,7 @@ _You can also add Question words to these question structures to make them open-
 * Why are you guys going to write a letter? – It’s asking for the reason
 * Where are you going to run the marathon? – It’s asking for the place
 
-## 🔑 Prepositions of time (Review):
+## 🕰️Prepositions of time (Review):
 We use at, on, and in to talk about time.
 
 *AT:*
@@ -180,7 +181,7 @@ _You can watch the following video for more examples and some exercises on prepo
 |**Negative**|I won't study|I'm not going to study|
 |**Question**|Will you study?|Are you going to study?|
 
-## 💡 Key Tips:
+## 🔑Key Tips:
 * “Will” → no auxiliary verb needed (just will)
 * “Going to” → always needs verb “be” (am/is/are)
 * Main verb is always in base form

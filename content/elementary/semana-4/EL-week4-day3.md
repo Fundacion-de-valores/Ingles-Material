@@ -5,23 +5,22 @@ weight: 3
 showTableOfContents: true
 ---
 
-# Day 3 – Week 4
-## 📋 Topics of the Day:
+## 📖Topics of the Day:
 * Parts of the body
 * Punctuation and Intonation
 
-## 🎯 Learning Objectives:
+## 🎯Learning Objectives:
 _By the end of this lesson, you will be able to:_
 1. Identify and correctly use basic parts of the body vocabulary in spoken and written English, which would be useful in interpretation settings such as medical call centers.
 2. Recognize and apply basic punctuation marks (periods, commas, question marks, etc.) to improve clarity and meaning when reading aloud.
 3. Use appropriate intonation patterns (rising and falling tone) when reading sentences aloud to convey meaning, emotions, and sentence type (questions, statements, etc.).
 
-## 📖 Introduction:
+## 🗒️Introduction:
 Today, you will learn how to name and describe different areas of the human body so you can communicate clearly in real-life situations, including professional environments like healthcare support or interpretation calls.
 You will also explore how punctuation marks help organize ideas in a text and guide you to read more clearly and naturally.
 Finally, you will practice using your voice effectively by applying the correct tone when reading, helping you express meaning, ask questions, and sound more natural in English.
 
-## 📚 Important terms (Vocabulary):
+## ‼️Important terms (Vocabulary):
 **Parts of the Body:**
 *External Parts:*
 * Head 🧑
@@ -53,7 +52,7 @@ Finally, you will practice using your voice effectively by applying the correct 
 * Stomach 🤰
 * Brain 🧠
 
-## 🔑 Key Concepts (Grammar Rules):
+## 🔑Key Concepts (Grammar Rules):
 _📖 Tips to Help You Read Better in English:_
 1. *🧠 Understand Before You Read*
     Before reading aloud, take a moment to:

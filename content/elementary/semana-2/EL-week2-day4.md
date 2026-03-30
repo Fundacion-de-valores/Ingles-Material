@@ -5,25 +5,27 @@ weight: 4
 showTableOfContents: true
 ---
 
-*Topics of the Day:*
+## 📖Topics of the Day:
 * Prepositions of Time
 * Adjectives (Including Colors)
 * Possessive Adjectives
 * Family Members
-## 🎯 Learning Objectives:
+* 
+## 🎯Learning Objectives:
 By the end of this lesson, you will be able to:
 1. Identify and correctly use prepositions of time (in, on, at) to talk about schedules, dates, and daily activities.
 2. Use adjectives, including colors, to describe people, objects, and places, in preparation for the certification test and job interviews.
 3. Use possessive adjectives (my, your, his, her, our, their) to show possession or relationship in different sentences.
 4. Identify and describe family members using basic vocabulary.
-## 📖 Introduction:
+
+## 🗒️Introduction:
 Today you will learn how to talk about time, describe people and things, show possession, and speak about family members in English. First, you will practice using prepositions of time such as in, on, and at to talk about dates, days, and parts of the day. Then, you will learn how to use adjectives, including colors, to describe people, objects, and places in simple sentences.
 
 In addition, you will study possessive adjectives such as my, your, his, her, our, and their to show who something belongs to. 
 
 Finally, you will learn common vocabulary for family members and practice using it to introduce and describe your family using basic sentences. Through different activities and examples, you will develop more confidence in expressing these ideas in English.
 
-## 📚 Important terms (Vocabulary):
+## ‼️Important terms (Vocabulary):
 *Adjectives:*
 Use the following link to learn some important adjectives to describe people: 
 

@@ -4,19 +4,19 @@ description: "Cardinal Numbers, The Time"
 weight: 4
 showTableOfContents: true
 ---
-## 📋 Temas del día
+## 📖Temas del día
 
 * Cardinal Numbers
 * The time
 * Money Vocabulary
 
-## 🎯 Objetivos del aprendizaje:
+## 🎯Objetivos del aprendizaje:
 *Al finalizar esta clase, serás capaz de:*
 1. Decir y entender los números cardinales de 1 a 100 en inglés, para compartir información como números de teléfono, cantidades o direcciones con un cliente.
 2. Preguntar y decir la hora en inglés para informar a un cliente sobre horarios de atención, tiempos de servicio, e historial de transacciones.
 3. Usar vocabulario básico de dinero en inglés para hablar de precios, pagos y costos.
 
-## 📖 Introducción:
+## 🗒️Introducción:
 
 El día de hoy desarrollarás las bases para comprender y comunicar información numérica en inglés, aprendiendo a decir y comprender los números del 1 al 100, algo fundamental al interactuar con clientes. 
 
@@ -24,7 +24,7 @@ Además, practicarás cómo expresar la hora para hablar con claridad sobre hora
 
 Finalmente, ampliarás tu vocabulario relacionado con el dinero para entender y mencionar precios o pagos con mayor seguridad.
 
-## 📚 Términos Importantes (Vocabulario del Día):
+## Términos Importantes (Vocabulario del Día):
 *Numbers*
 
 Utiliza el siguiente link para ver los números del 1 al 100 y la forma en que se escriben con dígitos y letras (Puedes ver como se escribe en letras al poner tu cursor sobre el número, si estás en computadora también podrás escuchar la pronunciación del número): https://www.languageguide.org/english/vocabulary/numbers/ 
@@ -33,7 +33,7 @@ También puedes ver este video para escuchar la pronunciación si utilizas celul
 
 {{< youtube YuXFxvTbviI >}} 
 
-## ⏰ *The time:*
+## *The time:*
 * _O’clock_ – En punto 
 * _Noon_ – Mediodía 
 * _Midnight_ – Media noche
@@ -41,7 +41,7 @@ También puedes ver este video para escuchar la pronunciación si utilizas celul
 * _P.M._ (post meridiem) – Después del mediodía
 * _What time is it?_ – ¿Qué hora es?
 
-## 📖 *Money Vocabulary*
+## *Money Vocabulary*
 * _Dollars_ – Dólares
 * _Cents_ – Centavos 
 * _Bucks_ – Dólares (Slang: Es una manera informal de decir la palabra, no se usa como agente en un call center, pero si podrías escucharla de algún cliente)
@@ -51,7 +51,7 @@ Para más detalles sobre cómo leer cantidades monetarias y el vocabulario comú
 
 {{< youtube VGgVNcUXa3A >}}
 
-## 🔑 Conceptos Clave (Reglas Gramaticales):
+## 🔑Conceptos Clave (Reglas Gramaticales):
 *Ten vs. Teen numbers:*
 
 En inglés, algunos números pueden confundirse porque suenan muy parecidos, utiliza la siguiente información para diferenciarlos y saber pronunciar adecuadamente.
@@ -79,7 +79,7 @@ Estos números terminan en -ty y normalmente se pronuncian con más énfasis en 
 
 Estos números terminan en -teen y normalmente se pronuncian con más énfasis en la segunda sílaba. No olvides pronunciar la N en los teen numbers, esta letra hace una gran diferencia entre el primer grupo y este.
 
-## 🏗️ *Telling the time(American Way)*
+## *Telling the time(American Way)*
 
 Para responder a la pregunta: What time is it? en inglés, normalmente decimos primero la hora y luego los minutos. La estructura básica es:
 
