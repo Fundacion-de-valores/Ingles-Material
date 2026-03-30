@@ -3,7 +3,11 @@ title: "Day 2"
 description: "How to pray in English, The Alphabet, Verbs"
 weight: 2
 showTableOfContents: true
+lang_toggle_es: "elementary/semana-1/el-week1-day2/"
+lang_toggle_pt: "elementary/semana-1/el-week1-day2-pt/"
+lang_toggle_active: "es"
 ---
+
 ## 📖Temas del día
 
 * How to pray in English: FOR vs. TO

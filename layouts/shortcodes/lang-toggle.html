@@ -1,0 +1,16 @@
+{{ $esURL := .Get "es" | relURL }}
+{{ $ptURL := .Get "pt" | relURL }}
+{{ $active := .Get "active" | default "es" }}
+
+<div style="display:flex; gap:0.6rem; margin:1.2rem 0 1.8rem 0; flex-wrap:wrap;">
+  <a href="{{ $esURL }}" style="display:inline-flex; align-items:center; gap:0.4rem; padding:0.45rem 1.2rem; border-radius:8px; text-decoration:none; font-weight:600; font-size:0.9rem; transition:all 0.2s;
+    {{ if eq $active "es" }}background:#1d4ed8; color:#ffffff; box-shadow:0 2px 6px rgba(29,78,216,0.35);
+    {{ else }}background:#f1f5f9; color:#475569; border:1.5px solid #cbd5e1;{{ end }}">
+    🇪🇸 Español
+  </a>
+  <a href="{{ $ptURL }}" style="display:inline-flex; align-items:center; gap:0.4rem; padding:0.45rem 1.2rem; border-radius:8px; text-decoration:none; font-weight:600; font-size:0.9rem; transition:all 0.2s;
+    {{ if eq $active "pt" }}background:#1d4ed8; color:#ffffff; box-shadow:0 2px 6px rgba(29,78,216,0.35);
+    {{ else }}background:#f1f5f9; color:#475569; border:1.5px solid #cbd5e1;{{ end }}">
+    🇧🇷 Português
+  </a>
+</div>

@@ -3,7 +3,11 @@ title: "Day 4"
 description: "Cardinal Numbers, The Time"
 weight: 4
 showTableOfContents: true
+lang_toggle_es: "elementary/semana-1/el-week1-day4/"
+lang_toggle_pt: "elementary/semana-1/el-week1-day4-pt/"
+lang_toggle_active: "es"
 ---
+
 ## 📖Temas del día
 
 * Cardinal Numbers

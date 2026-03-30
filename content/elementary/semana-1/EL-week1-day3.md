@@ -3,6 +3,9 @@ title: "Day 3"
 description: "Personal Pronouns"
 weight: 3
 showTableOfContents: true
+lang_toggle_es: "elementary/semana-1/el-week1-day3/"
+lang_toggle_pt: "elementary/semana-1/el-week1-day3-pt/"
+lang_toggle_active: "es"
 ---
 
 ## 📖Temas del día:

@@ -3,6 +3,9 @@ title: "Day 1"
 description: "Magic Questions and Phrases, Greetings, Articles"
 weight: 1
 showTableOfContents: true
+lang_toggle_es: "elementary/semana-1/el-week1-day1/"
+lang_toggle_pt: "elementary/semana-1/el-week1-day1-pt/"
+lang_toggle_active: "es"
 ---
 
 ## 📖Temas del Día

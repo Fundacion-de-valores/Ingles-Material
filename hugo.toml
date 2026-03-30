@@ -2,6 +2,7 @@ baseURL = "https://Fundacion-de-valores.github.io/Ingles-Material/"
 languageCode = "es"
 title = "English for Call Center"
 theme = "congo"
+copyright = "© 2026 **Fundación de Valores** — *Preparamos técnicos con integridad y valores para que brinden un servicio increíble.*"
 
 [params]
   colorScheme = "blowfish" # Un tema oscuro/claro elegante
@@ -10,6 +11,7 @@ theme = "congo"
 
 [params.footer]
   showAppearanceSwitcher = false
+  showThemeAttribution = false
 
 [[menus.main]]
   name = ""
