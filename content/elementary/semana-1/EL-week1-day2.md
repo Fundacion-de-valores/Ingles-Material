@@ -115,8 +115,8 @@ _Si la pronunciación de algunas palabras o letras es difícil para ti, puedes u
 [RUN - Correr] {{< audio src="audio/run.mp3" >}}
 [SAY - Decir (Enfatiza en las palabras que se dicen)] {{< audio src="audio/say.mp3" >}}
 [TELL - Decir/Contar (Enfatiza en la persona a quien se le dice algo)] {{< audio src="audio/tell.mp3" >}}
-[SHOW - Enviar] {{< audio src="audio/show.mp3" >}}
-[SEND - Mostrar] {{< audio src="audio/send.mp3" >}}
+[SHOW - Mostrar] {{< audio src="audio/show.mp3" >}}
+[SEND - Enviar] {{< audio src="audio/send.mp3" >}}
 [SLEEP - Dormir] {{< audio src="audio/sleep.mp3" >}}
 [SPEAK - Hablar (Formal, se utiliza mayormente al referirse al acto de hablar un idioma)] {{< audio src="audio/speak.mp3" >}}
 [TALK -  Hablar (Casual, se utiliza al referirse a una interacción o plática)] {{< audio src="audio/talk.mp3" >}}
