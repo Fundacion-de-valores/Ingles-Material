@@ -24,7 +24,7 @@ Además, practicarás cómo expresar la hora para hablar con claridad sobre hora
 
 Finalmente, ampliarás tu vocabulario relacionado con el dinero para entender y mencionar precios o pagos con mayor seguridad.
 
-## Términos Importantes (Vocabulario del Día):
+## ‼️Términos Importantes (Vocabulario del Día):
 *Numbers*
 
 Utiliza el siguiente link para ver los números del 1 al 100 y la forma en que se escriben con dígitos y letras (Puedes ver como se escribe en letras al poner tu cursor sobre el número, si estás en computadora también podrás escuchar la pronunciación del número): https://www.languageguide.org/english/vocabulary/numbers/ 
@@ -33,7 +33,7 @@ También puedes ver este video para escuchar la pronunciación si utilizas celul
 
 {{< youtube YuXFxvTbviI >}} 
 
-## *The time:*
+## The time:
 * _O’clock_ – En punto 
 * _Noon_ – Mediodía 
 * _Midnight_ – Media noche

@@ -124,7 +124,7 @@ In English, we cannot use two verbs together in a sentence. When a verb is follo
 
 This is why we use gerunds and infinitives when talking about hobbies and activities.
 
-## ❓Interrogative Sentences in Simple Present:*
+## ❓Interrogative Sentences in Simple Present:
 
 We use interrogative sentences to ask questions. As you learned yesterday, in English, we usually need an auxiliary verb to make questions.
 
@@ -132,7 +132,7 @@ Remember that in the Simple Present, the auxiliaries are:
 * Do (I, you, we, you guys, they)
 * Does (he / she / it)
 
-## 🧑‍🏫Basic Question Structures:*
+## 🧑‍🏫Basic Question Structures:
 
 |**Close Ended Questions**||||
 |:---:|:---:|:----:|:----:|
