@@ -67,7 +67,8 @@ This topic will allow you to explain step by step how to perform an action or co
 ---
 
 > 🎥 You can watch this video to check how to use sequencers:
-> [How to Use Sequence Words](https://www.youtube.com/watch?v=PQKuZNEsOTM)
+
+{{< youtube PQKuZNEsOTM >}}
 
 ---
 
@@ -105,7 +106,8 @@ We often use imperatives in **positive and negative** sentences:
 ---
 
 > 🎥 Watch this video to learn more about imperative sentences:
-> [Imperative Sentences](https://www.youtube.com/watch?v=rI4UUtBVz3U)
+
+{{< youtube rI4UUtBVz3U >}}
 
 ---
 

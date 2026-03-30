@@ -19,10 +19,16 @@ The certification week is an important week, don't see it as a vacation week. Th
 
 🎯 **Goal:** make a review of the topics you learned in Elementary or you already knew.
 
-- **The alphabet:** https://www.youtube.com/watch?v=MvNdsUJDphU&t=1s
-- **Numbers in English:** https://www.languageguide.org/english/numbers/
-- **Titles:** https://www.youtube.com/watch?v=iWgtckqEAZU&t=1s
-- **Connected Speech:** https://www.youtube.com/watch?v=gAHUTKm_1n0
+**The alphabet:**
+{{< youtube MvNdsUJDphU >}}
+
+**Numbers in English:** [languageguide.org/english/numbers](https://www.languageguide.org/english/numbers/)
+
+**Titles:**
+{{< youtube iWgtckqEAZU >}}
+
+**Connected Speech:**
+{{< youtube gAHUTKm_1n0 >}}
 
 ---
 

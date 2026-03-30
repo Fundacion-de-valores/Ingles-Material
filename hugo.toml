@@ -1,6 +1,6 @@
 baseURL = "https://Fundacion-de-valores.github.io/Ingles-Material/"
 languageCode = "es"
-title = "Curso de Inglés"
+title = "English for Call Center"
 theme = "congo"
 
 [params]
