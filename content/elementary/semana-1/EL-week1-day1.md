@@ -5,12 +5,12 @@ weight: 1
 showTableOfContents: true
 ---
 
-## Temas del Día
+## 📋 Temas del Día
 * Magic Questions and Phrases**
 * Greetings**
 * Definite and Infinite Articles**
 
-## Objetivos del aprendizaje
+## 🎯 Objetivos del aprendizaje
 #### _Al finalizar esta clase, serás capaz de:_
 
 **1.** Utilizar exclusivamente el idioma inglés en el salón de clases mediante el uso constante de frases y preguntas básicas/comunes.
@@ -19,7 +19,7 @@ showTableOfContents: true
 
 **3.** Describir objetos cotidianos utilizando artículos definidos e indefinidos (a, an, the) de manera adecuada.
 
-## Introducción:
+## 📖 Introducción:
 
 El día de hoy, desarrollarás las bases esenciales para comunicarte en inglés dentro y fuera de clase. 
 A través del aprendizaje de saludos básicos como “Good morning” y “Good afternoon”, 
@@ -34,7 +34,7 @@ que te enfoques mucho en utilizar estas frases A DIARIO.
 Finalmente, aprenderás a utilizar correctamente los artículos definidos e indefinidos (a, an, the), 
 fortaleciendo la precisión gramatical en la construcción de oraciones simples.
 
-## Términos Importantes (Vocabulario del día):
+## 📚 Términos Importantes (Vocabulario del día):
 _Magic Questions and Phrases_
 
 * *Teacher, how do you say ____?* – ¿Maestro/a, cómo se dice ____?
@@ -55,7 +55,7 @@ _Magic Questions and Phrases_
 * *I’m done, teacher!* - Ya terminé, profesor/a
 * *That’s it, thank you!* - Eso es todo, ¡Gracias! (Cuando concluyes una presentación)
 
-## Greetings
+## 👋 Greetings
 
 * *Good morning* - Buenos días
 * *Good afternoon* - Buenas tardes
@@ -97,7 +97,7 @@ Ve el siguiente ejemplo:
 * ❌ Con sustantivos incontables:
     * I need water (No: a water)
 
-## Definite Article (Artículo definitivo)
+## 🔑 Definite Article (Artículo definitivo)
 “The” es el artículo definido en inglés. 
 Se usa cuando hablamos de algo específico o cuando el hablante y el oyente saben exactamente de qué estamos hablando. <br>
 Ejemplo:<br>

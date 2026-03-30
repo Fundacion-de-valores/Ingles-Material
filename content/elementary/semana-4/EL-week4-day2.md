@@ -5,24 +5,24 @@ weight: 2
 showTableOfContents: true
 ---
 
-## Topics of the Day:
+## 📋 Topics of the Day:
 * Demonstrative adjectives
 * There is vs. There are
 * Singulars and Plurals
 
-## Learning Objectives:
+## 🎯 Learning Objectives:
 _By the end of this lesson, you will be able to:_
 1. Use demonstrative adjectives (this, that, these, those) to identify and describe objects based on distance.
 2. Use there is and there are correctly to talk about the existence of singular and plural nouns.
 3. Identify singular and plural nouns, and use them correctly in simple sentences. You will also be able to use irregular plurals correctly and avoid common beginner mistakes regarding plurals.
 
-## Introduction:
+## 📖 Introduction:
 Today you will build essential language skills to describe things clearly and accurately, especially in situations like assisting customers over the phone.
 First, you will learn how to point out and describe items depending on how near or far they are from you or the caller, which is very useful when giving or confirming information about objects.
 Next, you will practice how to mention whether something exists or is available, using the correct structure for one item or multiple items. This will help you communicate details about products, services, or locations more effectively.
 Finally, you will work on recognizing the difference between one item and more than one, forming plural nouns correctly, including some special cases, and avoiding common mistakes. This will support you when giving clear and accurate information to customers.
 
-## Important terms (Vocabulary):
+## 📚 Important terms (Vocabulary):
 *Demonstrative Adjectives:*
 * This: For a singular thing that is near you.
 * That: For a singular thing that is far from you.
@@ -31,7 +31,7 @@ Finally, you will work on recognizing the difference between one item and more t
 
 {{< img src="images/demostratives.png" alt="Demostratives" >}}
 
-## Singulas and Plurals
+## 📖 Singulas and Plurals
 
 *Regular Plurals*
 
@@ -73,7 +73,7 @@ Finally, you will work on recognizing the difference between one item and more t
 | Analysis | Analyses | 
 | Curriculum | Curricula |
 
-## Key Concepts (Grammar Rules):
+## 🔑 Key Concepts (Grammar Rules):
 *Demonstrative Adjectives:*
 Demonstrative adjectives (this, that, these, those) are used to point to specific nouns and show:
 * Distance (near or far)
@@ -103,7 +103,7 @@ _That / Those_
 * That office (across the street)
 * Those products (in another location)
 
-## Basic Sentence Structures
+## 🏗️ Basic Sentence Structures
 1. Demonstrative + Noun + Verb + Complement
 This product is available.
 That option works better.
@@ -123,19 +123,19 @@ That is the issue we discussed.
 These are your results.
 Those are the available plans.
 
-## Important Rules
+## ⚠️ Important Rules
 1. Match singular and plural correctly
 This / That → singular noun
 These / Those → plural noun
 #### ❌ This items
 #### ✔️ These items
 
-## There is vs. There are:
+## 🔑 There is vs. There are:
 “There is” and “there are” are used to talk about the existence of something, in other words, to say that something exists, is present, or is available.
 
 👉 They answer the idea of: “What is there?” or “What can we find?”
 
-## Basic Structure
+## 🏗️ Basic Structure
 #### ✔️ There is (Singular): Use there is with one thing.
 *Structure:*
 There is + singular noun. Examples:
@@ -149,7 +149,7 @@ Structure:
 * There are many restaurants in the area.
 * There are several issues with the account.
 
-## Negative Form
+## 🏗️ Negative Form
 _To say something does NOT exist, use:_
 #### ✔️ There is not (There isn’t)
 * There isn’t a manager available right now.
@@ -159,7 +159,7 @@ _To say something does NOT exist, use:_
 * There aren’t any appointments today.
 * There aren’t enough details in the system.
 
-## Questions
+## 📖 Questions
 To ask if something exists, invert the structure:
 #### ❓ Is there…? (singular)
 * Is there a solution to this issue?
@@ -169,7 +169,7 @@ To ask if something exists, invert the structure:
 * Are there any updates on my case?
 * Are there other options?
 
-## Important Tips (Very Useful for Students)
+## 💡 Important Tips (Very Useful for Students)
 1. Match the noun, not the word “there”
     * There is a problem ✔️
     * There are problems ✔️
@@ -181,7 +181,7 @@ To ask if something exists, invert the structure:
 * There’s = There is
 * There are → usually not contracted (avoid “there’re” for beginners)
 
-## Rules to Form Plural
+## 📖 Rules to Form Plural
 | Singular Form | Plural Form |
 | :---: | :---: |
 | House | Houses |

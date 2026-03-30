@@ -5,44 +5,37 @@ weight: 1
 showTableOfContents: true
 ---
 
-## Temas del Día
-**Simple Present Rules and Uses**
-**3rd Person Singular Rule**
-**Simple Present Time Expressions**
+## 📋 Topics of the Day:
+* Simple Present Rules and Uses
+* 3rd Person Singular Rule
+* Simple Present Time Expressions
 
-## Objetivos del aprendizaje:
-#### _Al finalizar esta clase, serás capaz de:_
+## 🎯 Learning Objectives:
+#### _By the end of this lesson, you will be able to:_
 
-**1.** Identificar y utilizar el presente simple para describir hábitos, tradiciones y verdades generales en oraciones afirmativas y negativas, en preparación para hablar de ti mismo en entrevistas de trabajo y proporcionar información importante a tus clientes.
+**1.** Identify and use the simple present tense to describe habits, traditions, and general truths in affirmative and negative sentences, in preparation to talk about yourself in job interviews and provide important facts to your customers.
 
-**2.** Aplicar las reglas de escritura correctas para los verbos en tercera persona singular (he, she, it) al formar oraciones en presente simple, y pronunciar los verbos con precisión para hablar de los hábitos, tradiciones y verdades generales de otras personas.
+**2.** Apply the correct spelling rules for verbs in the third person singular (he, she, it) when forming sentences in the simple present tense, and pronounce the verbs accurately to talk about other people's habits, traditions, and general truths.
 
-**3.** Reconocer y utilizar expresiones de tiempo comunes (como every day, every week, on Sunday, etc.) para describir rutinas en el presente simple.
+**3.** Recognize and use common time expressions (such as every day, every week, on Sunday, etc.) to describe routines in the simple present tense.
 
-## Introducción:
+## 📖 Introduction:
 
-El día de hoy, reconocerás y comprenderás las reglas y los principales usos del presente simple,
-lo que te permitirá describir rutinas diarias, hábitos y hechos generales en inglés.
-Además, identificarás y aplicarás las reglas de escritura utilizadas para los verbos en tercera
-persona singular (he, she, it), ayudándote a formar oraciones correctas cuando hablas de otras
-personas y a expresar estas ideas correctamente.
-Finalmente, analizarás y utilizarás expresiones de tiempo comunes para dar más detalle al describir
-rutinas y actividades regulares. Estos son algunos de los temas más importantes en el nivel
-Elementary y una gran parte de la evaluación de certificación, por lo que te pedimos que les prestes
-mucha atención y te asegures de aprenderlos con cuidado y precisión para poder utilizarlos
-correctamente de ahora en adelante.
+Today, you will recognize and understand the rules and main uses of the simple present tense, which will allow you to describe daily routines, habits, and general facts in English.
+Besides that, you will identify and apply the spelling rules used for verbs in the third person singular (he, she, it), helping you form correct sentences when talking about other people and express these ideas correctly.
+Finally, you will analyze and use common time expressions to give more detail when describing routines and regular activities. These are some of the most important topics in the Elementary level and a great part of the certification evaluation, please pay close attention to them and make sure that you learn them carefully and accurately to be able to use them correctly moving forward.
 
-## Términos Importantes (Vocabulario del día):
+## 📚 Important Terms (Vocabulary):
 _Simple Present Time Expressions_
 
-* *Every day* – Todos los días
-* *Every week* – Todas las semanas
-* *Every month* – Todos los meses
-* *Every year* – Todos los años
-* *Every weekend* – Todos los fines de semana
-* *On Friday (Monday, Tuesday, Wednesday, etc.)* – Los viernes (lunes, martes, miércoles, etc.)
+* *Every day*
+* *Every week*
+* *Every month*
+* *Every year*
+* *Every weekend*
+* *On Friday (Monday, Tuesday, Wednesday, etc.)*
 
-## Simple Present Verbs in 3rd Person Singular (He, She, It):
+## 📖 Simple Present Verbs in 3rd Person Singular (He, She, It):
 
 * [Ask – Asks] {{< audio src="audio/asks.mp3" >}}
 * [Begin – Begins] {{< audio src="audio/begins.mp3" >}}
@@ -116,33 +109,33 @@ _Simple Present Time Expressions_
 * [Work – Works] {{< audio src="audio/works.mp3" >}}
 * [Write – Writes] {{< audio src="audio/writes.mp3" >}}
 
-## 🔑 Conceptos Clave (Reglas Gramaticales):
-_Simple Present – Reglas y Usos_
+## 🔑 Key Concepts (Grammar Rules):
+_Simple Present – Rules and Uses_
 
-El presente simple se utiliza para hablar de lo siguiente:
+The simple present is used to talk about the following:
 
-**Hábitos (Rutinas):**
+**Habits (Routines):**
 * I wake up at 6am every day.
 
-**Tradiciones:**
+**Traditions:**
 * My family and I open presents on Christmas day.
 
-**Verdades generales:**
+**General truths:**
 * Pigs don't fly.
 
-Usamos el presente simple para hablar de cosas que son generalmente verdad o que ocurren de manera regular. Estas acciones son usualmente recurrentes, lo que significa que se repiten en el tiempo (every day, every week, often, sometimes, etc.).
+We use the simple present to talk about things that are generally true or that happen regularly. These actions are usually recurring, meaning they repeat over time (every day, every week, often, sometimes, etc.).
 
-⚠️ **IMPORTANTE:** No usamos el presente simple para hablar de cosas que están ocurriendo ahora mismo. Para acciones que están ocurriendo en el momento, utilizamos el presente continuo.
+⚠️ **IMPORTANT:** We do not use the simple present to talk about things that are happening right now. For actions happening at this moment, we use the present continuous.
 
 ❌ I eat dinner now.
 
 ✔️ I am eating dinner now.
 
-## Estructura del Presente Simple:
+## 🏗️ Simple Present Structure:
 
-**Oraciones Afirmativas**
+**Affirmative Sentences**
 
-| Sujeto | Verbo | Complemento |
+| Subject | Verb | Complement |
 |--------|-------|-------------|
 | I | study | at Funval. |
 | You | work | on Fridays. |
@@ -151,9 +144,9 @@ Usamos el presente simple para hablar de cosas que son generalmente verdad o que
 | We | drink | coke in the summer. |
 | My friends | go | to the beach on vacations. |
 
-**Oraciones Negativas**
+**Negative Sentences**
 
-| Sujeto | Auxiliar | Verbo | Complemento |
+| Subject | Auxiliary | Verb | Complement |
 |--------|----------|-------|-------------|
 | I | don't | like | bananas. |
 | You | don't | speak | French. |
@@ -162,7 +155,7 @@ Usamos el presente simple para hablar de cosas que son generalmente verdad o que
 | My husband and I | don't | work out | at night. |
 | They | don't | come | home during the week. |
 
-Observa que en las oraciones afirmativas usamos la forma base del verbo para I, you, we, you guys y they; y usamos la forma con -S del verbo para he, she e it. Ejemplo:
+Notice that in affirmative sentences we use the base form of the verb for I, you, we, you guys, and they; and we use the verb with -S for he, she, and it. Example:
 
 ✔️ I sing in the shower.
 
@@ -170,17 +163,17 @@ Observa que en las oraciones afirmativas usamos la forma base del verbo para I, 
 
 ❌ She sing in the shower.
 
-En las oraciones negativas, usamos un auxiliar. El auxiliar es un verbo de ayuda que no tiene significado en español o portugués. En el presente simple usaremos **Do Not (Contracción: Don't)** para I, you, we, you guys y they; y usamos **Does Not (Contracción: Doesn't)** para he, she e it. El auxiliar siempre se usa entre el sujeto y el verbo. Ejemplo:
+In negative sentences, we use an auxiliary. The auxiliary is a helping verb. In the simple present we use **Do Not (Contraction: Don't)** for I, you, we, you guys, and they; and we use **Does Not (Contraction: Doesn't)** for he, she, and it. The auxiliary is always placed between the subject and the verb. Example:
 
 ✔️ We don't drink coffee.
 
 ✔️ He doesn't drink coffee.
 
-💡 **NOTA:** Usa la forma base del verbo después de un auxiliar. El auxiliar ya marca la tercera persona, por lo que el verbo principal no lleva -s.
+💡 **NOTE:** Use the base form of the verb after an auxiliary. The auxiliary already marks the third person, so the main verb does not take -s.
 
-## Expresiones de Tiempo en el Presente Simple:
+## ⏰ Simple Present Time Expressions:
 
-Las expresiones de tiempo en el presente simple indican la frecuencia con la que ocurre una acción o actividad. Hoy nos enfocaremos en las siguientes expresiones:
+Time expressions in the simple present indicate how often an action or activity occurs. Today we will focus on the following expressions:
 
 * Every day
 * Every week
@@ -189,26 +182,26 @@ Las expresiones de tiempo en el presente simple indican la frecuencia con la que
 * Every weekend
 * On Friday (Monday, Tuesday, Wednesday, etc.)
 
-Las expresiones de tiempo se usan más comúnmente al final de la oración. Ejemplo:
+Time expressions are most commonly used at the end of the sentence. Example:
 
 ✔️ I go to church every week.
 
 ✔️ We don't work on weekends.
 
-## 📝 Resumen:
+## 📝 Summary:
 
-**Usos**
-* Hábitos y rutinas
-* Tradiciones
-* Verdades generales
-* Acciones recurrentes o que se repiten en el tiempo
-* ⚠️ No se usa para acciones que ocurren ahora (usa el presente continuo).
+**Uses**
+* Habits and routines
+* Traditions
+* General truths
+* Recurring actions that repeat over time
+* ⚠️ Not used for actions happening right now (use the present continuous instead).
 
-**Estructura**
+**Structure**
 
-* _Afirmativo:_ Subject + Verb + Complement (I, you, we, they)<br>
-  Usa el verbo + -s con he, she, it.
+* _Affirmative:_ Subject + Verb + Complement (I, you, we, they)<br>
+  Use the verb + -s with he, she, it.
 
-* _Negativo:_ Subject + do/does not + base verb + complement<br>
+* _Negative:_ Subject + do/does not + base verb + complement<br>
   (Don't → I, you, we, they… Doesn't → he, she, it)<br>
-  Después de un auxiliar, el verbo se mantiene en su forma base.
+  After an auxiliary, the verb stays in its base form.

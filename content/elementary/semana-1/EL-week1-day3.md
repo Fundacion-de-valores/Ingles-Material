@@ -5,7 +5,7 @@ weight: 3
 showTableOfContents: true
 ---
 
-## Temas del día:
+## 📋 Temas del día:
 
 * Personal Pronouns
 * Verb to "be"
@@ -14,14 +14,14 @@ showTableOfContents: true
 * Contries and Nationalities
 * Introduce Yourself
 
-## Objetivos del aprendizaje:
+## 🎯 Objetivos del aprendizaje:
 
 **Al finalizar esta clase, serás capaz de:**
 1. _Identificar y utilizar correctamente los pronombres personales para referirte a ti mismo y a otras personas en oraciones simples._
 2. _Utilizar correctamente el Verbo "Be" (Ser o Estar) para formar oraciones básicas que describan identidad, origen y otras características personales._
 3. _Saber y recordar vocabulario básico sobre profesiones, sentimientos, países y nacionalidades para poder presentarte a ti mismo y a otras personas con información personal básica en conversaciones simples. (Preparación para entrevistas laborales)_
 
-## Introducción:
+## 📖 Introducción:
 
 El día de hoy aprenderás a utilizar los pronombres personales y las diferentes formas del verbo “be”, dos elementos fundamentales para formar oraciones básicas en inglés y hablar sobre ti mismo y otras personas.
 
@@ -29,7 +29,7 @@ Además, conocerás vocabulario relacionado con profesiones, sentimientos, país
 
 Finalmente, utilizarás todo este conocimiento para poder presentarte a ti mismo y a otras personas en inglés, así como compartir información personal de manera clara y sencilla.
 
-## Términos Importantes (Vocabulario del Día):
+## 📚 Términos Importantes (Vocabulario del Día):
 *Personal Pronouns*
 
 * _I_ – Yo 
@@ -41,12 +41,12 @@ Finalmente, utilizarás todo este conocimiento para poder presentarte a ti mismo
 * _You_ guys – Ustedes 
 * _They_ – Ellos/Ellas
 
-## *Verb “Be” (Presente):*
+## 📖 *Verb “Be” (Presente):*
 * _Am_ (Primera persona del singular)
 * _Are_ (2ª persona y plurales)
 * _Is_ (3ª persona del singular)
 
-## *Professions:*
+## 📖 *Professions:*
 * _Doctor_ – Doctor(a)
 * _Teacher_ – Maestro(a)
 * _Student_ – Estudiante/Alumno(a) 
@@ -66,7 +66,7 @@ Finalmente, utilizarás todo este conocimiento para poder presentarte a ti mismo
 * _Accountant_ – Contador 
 * _Human Resources Specialist (HR)_ – Especialista de Recursos Humanos
 
-## *Expressing Feelings:*
+## 📖 *Expressing Feelings:*
 * _Doing good_ – Bien 🙂
 * _Doing great_ – Muy bien 🤩
 * _Happy – Feliz_ 😁
@@ -79,7 +79,7 @@ Finalmente, utilizarás todo este conocimiento para poder presentarte a ti mismo
 * _Stressed out_ – Estresado(a) 😵
 * _Scared_ – Asustado(a) 😨
 
-## *Countries and Nationalities:*
+## 📖 *Countries and Nationalities:*
 * _Guatemala_ – Guatemalan 🇬🇹 
 * _El Salvador_ – Salvadorian 🇸🇻
 * _Honduras_ – Honduran 🇭🇳
@@ -106,14 +106,14 @@ Puedes utilizar el siguiente link para escuchar la pronunciación de los diferen
 
 https://quizlet.com/830046652/flashcards?funnelUUID=f9864622-10be-474a-8c09-e4da8b0208db
 
-## *Introduce Yourself:*
+## 📖 *Introduce Yourself:*
 * My name is… – Mi nombre es…
 * I am from… – Yo soy de… (país)
 * I am… – Yo soy… (Nacionalidad)
 * I live in… – Yo vivo en… (Estado/Provincia)
 * I am a/an… – Yo soy un/una… (profesión)
 
-## *Questions*
+## 📖 *Questions*
 * _What’s your name?_ – ¿Cuál es tu nombre?
 * _Where are you from?_ – ¿De dónde eres? 
 * Where do you live? – ¿Dónde vives?
@@ -126,7 +126,7 @@ https://quizlet.com/830046652/flashcards?funnelUUID=f9864622-10be-474a-8c09-e4da
 * * Last name – Apellido 
 * * Maiden name – Apellido de Soltera
 
-## Conceptos Clave (Reglas Gramaticales):
+## 🔑 Conceptos Clave (Reglas Gramaticales):
 *Personal Pronouns and The Verb “Be”:*
 
 Los pronombres personales se utilizan para reemplazar el nombre de una persona, animal o cosa y así evitar repetirlo. Recuerda esta regla clave: no debes usar un pronombre personal (I, you, he, she, etc.) y un nombre (Jenny, Alex, etc.) juntos para referirte a la misma persona o cosa. Debes usar el nombre o el pronombre, pero no ambos al mismo tiempo. Cuando usamos estos pronombres con el verbo “to be” en presente, debemos elegir la forma correcta del verbo. El verbo to be tiene tres formas en presente:

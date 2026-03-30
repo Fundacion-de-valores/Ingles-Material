@@ -20,7 +20,7 @@ By the end of this lesson, you will be able to:
 2. Describe and understand weather conditions and temperatures in order to respond to customer inquiries related to deliveries, or service interruptions caused by weather.
 3. Accurately read and state dates and years when verifying customer information, explaining billing periods, or scheduling future services.
 
-## Introduction:
+## 📖 Introduction:
 
 Today you will learn how to talk about time, dates, and weather in English, which are important skills for call center agents. You will practice using days of the week, months, ordinal numbers, and years to correctly say and confirm dates with customers. 
 
@@ -28,7 +28,7 @@ You will also learn how to describe weather and temperatures, which can be usefu
 
 By the end of the lesson, you will be able to communicate dates, schedules, and weather information clearly and professionally with customers.
 
-## Important terms(Vocabulary)
+## 📚 Important terms(Vocabulary)
 * Sunny ☀️
 * Cloudy ⛅
 * Cold 🧥🧣
@@ -74,7 +74,7 @@ You can also watch this video to listen to the pronunciation of the numbers if y
 11. November
 12. December
 
-## Key Concepts(Grammar Rules)
+## 🔑 Key Concepts(Grammar Rules)
 *The Temperature:*
 
 To talk about temperature in English, we usually say the number + degrees + the temperature scale (Celsius or Fahrenheit).

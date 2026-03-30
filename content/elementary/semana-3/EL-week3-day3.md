@@ -5,27 +5,27 @@ weight: 3
 showTableOfContents: true
 ---
 
-## Topics of the Day:
+## 📋 Topics of the Day:
 * Parts of an Address
 * US States and Abbreviations
 * How to ask for an address
 * 
-## Learning Objectives:
+## 🎯 Learning Objectives:
 By the end of this lesson, you will be able to:
 1. Identify and correctly organize the parts of a U.S. address (street number, street name, city, state, ZIP code) when listening to or reading customer information.
 2. Recognize and match common U.S. states with their abbreviations (e.g., CA = California, NY = New York) to prepare for customer interactions.
 3. Confirm and repeat an address clearly using appropriate call center language (e.g., “Let me verify that for you…”).
 4. Ask follow-up questions to clarify missing or unclear information (e.g., “Could you repeat the ZIP code?” or “Is that Avenue or Street?”).
 
-## Introduction:
+## 📖 Introduction:
 Today, you will learn about the different parts of an address in the United States and how they are organized, which is a topic of great importance for your certification and also for your goal to get a job in the call center industry. You will also learn the names of U.S. states and their abbreviations, which are commonly used in customer information, please memorize these abbreviations, they will be extremely helpful in the future. In addition, you will practice how to ask for an address in a polite and professional way during a call. These skills will help you handle customer information more clearly and confidently.
 
-## Important terms (Vocabulary):
+## 📚 Important terms (Vocabulary):
 *Parts of an Address:*
 
 {{< img src="images/parts_of_addr.png" alt="Part of an Address" >}}
 
-## US States and Abbreviations
+## 📖 US States and Abbreviations
 |**NO.**|**COUNTRY**|**ABBREVIATION**|
 |:--:|:--:|:--:|
 |1|ALABAMA|AL|
@@ -84,7 +84,7 @@ Use the following link to listen to the right pronunciation of each state:
 
 {{< youtube 0bgbJGyNeuI >}} 
 
-## Streets Abbreviations:
+## 📖 Streets Abbreviations:
 * Street – St.
 * Avenue – Ave.
 * Boulevard – Blvd.
@@ -104,7 +104,7 @@ Use the following link to listen to the right pronunciation of each state:
 * South East – SE.
 * South West – SW.
 
-## Key Concepts (Grammar Rules):
+## 🔑 Key Concepts (Grammar Rules):
 *How to ask for an Address:*
 
 When asking for an address, especially over the phone, it’s usually better to ask for one part at a time rather than the entire address again. This helps you focus on the information more easily and write it down accurately. You can use the following questions:

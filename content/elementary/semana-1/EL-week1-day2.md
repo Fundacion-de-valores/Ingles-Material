@@ -4,13 +4,13 @@ description: "How to pray in English, The Alphabet, Verbs"
 weight: 2
 showTableOfContents: true
 ---
-## Temas del día
+## 📋 Temas del día
 
 * How to pray in English: FOR vs. TO
 * The Alphabet
 * Verb
 
-## Objetivos del aprendizaje:
+## 🎯 Objetivos del aprendizaje:
 
  *Al finalizar esta clase, serás capaz de:*
    1. **Orar al iniciar cada clase, utilizando FOR + Sustantivos para agradecer, y TO + Verbos para pedir.**
@@ -18,7 +18,7 @@ showTableOfContents: true
    3. **Utilizar el alfabeto militar para que tus futuros clientes puedan reconocer una letra con facilidad a través de una llamada telefónica.**
    4. **Nombrar acciones que realizas tú u otras personas, reconociendo los verbos más comunes en el idioma inglés y pronunciándolos correctamente.**
 
-## Introducción:
+## 📖 Introducción:
 
 El día de hoy, fortalecerás tres bases fundamentales para tu desarrollo en el idioma inglés. A través del vocabulario para orar, aprenderás a utilizar de forma básica “for” y “to”, evitando uno de los errores más comunes en niveles básicos ya que, aunque parecen similares, son usadas en contextos completamente diferentes. Dominar estas preposiciones te permitirá comunicar ideas con mayor precisión y claridad en contextos cotidianos.
 
@@ -26,7 +26,7 @@ Además, reforzarás el conocimiento y la pronunciación correcta del alfabeto e
 
 Finalmente, trabajarás con los verbos en su forma base, comprendiendo su pronunciación y significado. Identificar y utilizar correctamente la forma base te permitirá construir frases afirmativas, negativas e interrogativas en presente simple con mayor seguridad, estableciendo una base sólida para futuros tiempos verbales.
 
-## Términos importantes (Vocabulario del día):
+## 📚 Términos importantes (Vocabulario del día):
 
 *How to pray in Englsh*
 
@@ -43,7 +43,7 @@ Finalmente, trabajarás con los verbos en su forma base, comprendiendo su pronun
 * *To provide us with the gift of tongues* – Que nos proveas el don de lenguas
 * *In the name of Jesus Christ, amen* – En el nombre de Jesucristo, amén
 
-## The Alphabet:
+## 📖 The Alphabet:
 
 Utiliza el siguiente link para escuchar la pronunciación de cada una de las letras. Solo debes hacer click sobre la letra para escuchar el audio (El audio funciona solamente en computadora y algunos teléfonos Android): 
 
@@ -53,7 +53,7 @@ También puedes ver este video para escuchar la pronunciación si utilizas celul
 
 {{< youtube um3YrKRfsr0 >}}
 
-## The Military Alphabet:
+## 📖 The Military Alphabet:
 
 {{< img src="images/military_alphabet.png" alt="Military Alphabet" >}}
 
@@ -62,7 +62,7 @@ _Si la pronunciación de algunas palabras o letras es difícil para ti, puedes u
 {{< youtube Kc2sU1oe5kg >}}
 
 
-## Verbs:
+## 📖 Verbs:
 
 [ASK - Preguntar/Pedir] {{< audio src="audio/ask.mp3" >}}
 [BEGIN - Comenzar]  {{< audio src="audio/begin.mp3" >}}
@@ -136,7 +136,7 @@ _Si la pronunciación de algunas palabras o letras es difícil para ti, puedes u
 [WORK - Trabajar] {{< audio src="audio/work.mp3" >}}
 [WRITE - Escribir] {{< audio src="audio/write.mp3" >}}
 
-## Conceptos clave (Explicación detallada):
+## 🔑 Conceptos clave (Explicación detallada):
 _How to pray in English:_
 
 FOR normalmente va seguido de un noun (una cosa, persona, animal o idea), porque expresa el motivo o aquello por lo que damos gracias. Por ejemplo: “We thank Thee for our family”, “Thank Thee for this day”. En cambio, TO suele ir seguido de un verb (acción) en su forma base (infinitive), porque introduce la acción que estamos pidiendo o deseando que ocurra. Por ejemplo: “We ask Thee to protect us”, “Help us to follow Thee”. Ejemplos:
@@ -149,7 +149,7 @@ FOR normalmente va seguido de un noun (una cosa, persona, animal o idea), porque
 
 **❌ TO blessing us (Porque “blessing” o bendición es un noun)**
 
-## The Military Alphabet:
+## 📖 The Military Alphabet:
 
 El military alphabet (también llamado NATO phonetic alphabet) se utiliza para deletrear palabras de forma clara cuando puede haber confusión al escuchar letras. Cada letra del alfabeto se identifica con una palabra específica que empieza con la misma letra, para que el mensaje se entienda correctamente, especialmente en situaciones donde:
 

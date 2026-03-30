@@ -5,13 +5,13 @@ weight: 1
 showTableOfContents: true
 ---
 
-## Topics of the day
+## 📋 Topics of the day
 
 * Simple Past Rules and Uses
 * Verbs in Simple Past
 * Regular verbs pronunciation
 
-## Learning Objectives:
+## 🎯 Learning Objectives:
 
 _By the end of this lesson, you will be able to:_
 
@@ -19,14 +19,14 @@ _By the end of this lesson, you will be able to:_
 2. Use common simple past verbs to explain completed actions during customer service calls (Example: processed requests, handled complaints, updated accounts).
 3. Accurately pronounce regular past tense verb endings (-ed) to ensure clear and professional communication over the phone.
 
-## Introduction:
+## 📖 Introduction:
 
 Today, you will learn how to talk about past situations in a call center. You will practice how to form sentences to describe what happened during a call, including things you did and things you didn’t do.
 You will also learn common action words in their past form to explain tasks like helping customers, solving problems, and updating information.
 Finally, you will practice how to pronounce regular verb endings correctly, so your speech is clear and professional when speaking with customers.
 Important terms (Vocabulary):
 
-## Simple Past Verbs:
+## 📖 Simple Past Verbs:
 
 [ Ask – Asked] {{< audio src="audio/asked.mp3" >}}
 [Begin – Began] {{< audio src="audio/began.mp3" >}}
@@ -100,7 +100,7 @@ Important terms (Vocabulary):
 [Work – Worked] {{< audio src="audio/worked.mp3" >}}
 [Write – Wrote] {{< audio src="audio/wrote.mp3" >}}
 
-## Key Concepts (Grammar Rules):
+## 🔑 Key Concepts (Grammar Rules):
 *Simple Past Rules and Uses:*
 
 We use the simple past to talk about actions that started and finished in the past.
@@ -129,11 +129,11 @@ _Example: The customer was upset, but now they are satisfied._
 **IMPORTANT:**
  When we use an auxiliary, the verb will always be written in its base form, for the simple past, we use the auxiliary “did” and it is used with all of the pronouns (I, you, he, she, it, we, you guys and they).
 
-## Common Mistake:
+## ⚠️ Common Mistake:
 #### ❌ I didn’t helped the customer.
 #### ✔️ I didn’t help the customer.
 
-## Regular Verbs Pronunciation:
+## 🗣️ Regular Verbs Pronunciation:
 
 * If the regular past verb ends in: -ped, -ked, -sed, -ched, -shed, -fed, -xed, or -hed, we pronounce the -ED as a "T". Examples:
     * Asked (Pronunciation: Askt)

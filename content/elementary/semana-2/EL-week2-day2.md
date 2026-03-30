@@ -5,19 +5,19 @@ weight: 1
 showTableOfContents: true
 ---
 
-## Topics of the Day:
+## 📋 Topics of the Day:
 * Frequency adverbs
 * Daily Routine
 * Hobbies
 * Simple Present Interrogative Structure
 
-## Learning Objectives:
+## 🎯 Learning Objectives:
 By the end of this lesson, you will be able to:
 1. Describe your daily routine and habits using frequency adverbs and expressions (e.g., always, usually, sometimes), to get ready to explain during a job interview how you manage responsibilities.
 2. Talk about your hobbies and interests to build rapport with interviewers and participate in small talk in a professional setting.
 3. Ask and answer questions about your routine and hobbies, as well as how often activities occur.
 
-## Introduction:
+## 📖 Introduction:
 
 Today, you will learn how to talk about your daily routine, hobbies, and traditions, and how to use frequency adverbs and expressions such as always, usually, sometimes, and never to describe how often you do things. This will help you talk about your habits and personal activities clearly.
 
@@ -25,7 +25,7 @@ After that, you will practice describing your daily activities and free-time int
 
 Finally, you will use what you learned to structure questions in the simple present correctly.
 
-## Important Terms(Vocabulary):
+## 📚 Important Terms(Vocabulary):
 *Question Words*
 1. _What_ → asks about a thing 🥗📱🚗
     * What is your name?
@@ -42,14 +42,14 @@ Finally, you will use what you learned to structure questions in the simple pres
 7. How often → asks about frequency 📆
     * How often do you exercise?
 
-## *Frequency Adverbs:*
+## 📖 *Frequency Adverbs:*
 
 {{< img src="images/frequency_adv.png" alt="Frequency Adverbs" >}}
 
 **NOTE:**
 These are the most common frequency adverbs, but there are others like “hardly ever” (similar to “rarely”) and “often” (similar to “usually”). We also use them to talk about how often we do something.
 
-## *Daily Routine Vocabulary*
+## 📖 *Daily Routine Vocabulary*
 * Wake up ⏰👁️👁️
 * Get up 🧍🏻🧍🏻‍♀️
 * Turn the lights on 💡
@@ -94,7 +94,7 @@ These are the most common frequency adverbs, but there are others like “hardly
 **Key Concepts(Grammar Rules)**
 *Frequency Adverbs:*
 
-## Ley Concepts(Grammar Rules):
+## 🔑 Ley Concepts(Grammar Rules):
 *Frequency Adverbs:*
 
 Frequency adverbs are words we use to talk about how often an action happens. They describe the frequency of an activity or habit. Common frequency adverbs include: always, usually, often, sometimes, rarely, and never.
@@ -107,7 +107,7 @@ _Position in the sentence:_
     * I am **always** on time.
     * They are **usually** very busy.
 
-## *Hobbies:*
+## 📖 *Hobbies:*
 
 When we talk about the things we or other people like to do in their free time (hobbies), we often use gerunds and infinitives. These are verb forms that can function like nouns in a sentence. We usually use them after a main verb when we want to talk about another action. 
 
@@ -127,7 +127,7 @@ In English, we cannot use two verbs together in a sentence. When a verb is follo
 
 This is why we use gerunds and infinitives when talking about hobbies and activities.
 
-## Interrogative Sentences in Simple Present:*
+## 🏗️ Interrogative Sentences in Simple Present:*
 
 We use interrogative sentences to ask questions. As you learned yesterday, in English, we usually need an auxiliary verb to make questions.
 
@@ -135,7 +135,7 @@ Remember that in the Simple Present, the auxiliaries are:
 * Do (I, you, we, you guys, they)
 * Does (he / she / it)
 
-## Basic Question Structures:*
+## 🏗️ Basic Question Structures:*
 
 |**Close Ended Questions**||||
 |:---:|:---:|:----:|:----:|
