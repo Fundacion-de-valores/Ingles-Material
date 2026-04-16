@@ -118,10 +118,7 @@ The natural sequence of a daily routine:
 > *"He **cries**."* (y → ies)
 > *"Does she work? — No, she doesn't."*
 
-### Pronouns
-> **Subject:** *"**She** eats lunch at noon."*
-> **Object:** *"I like **her**."*
-> **Reflexive:** *"She dresses **herself**."*
+
 
 ### Routine + Frequency
 > *"He **always** wakes up at 6."*

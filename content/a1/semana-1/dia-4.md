@@ -170,6 +170,11 @@ American mailing address format:
 ### Daily Routine
 > *"She **always** wakes up at six o'clock, **eats** breakfast, and **goes** to work."*
 
+### Pronouns
+> **Subject:** *"**She** eats lunch at noon."*
+> **Object:** *"I like **her**."*
+> **Reflexive:** *"She dresses **herself**."*
+
 ### Mailing Address
 > *John Doe*
 > *123 Main St. Apt 4B*
