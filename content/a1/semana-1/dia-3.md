@@ -57,46 +57,10 @@ Today you will learn the **3rd person Simple Present** rules with pronouns and n
 
 > 💡 *If the verb ends in **vowel + y**, just add -s:* play → play**s**
 
----
-
-### 🟢 2. Pronouns
-
-#### Subject Pronouns — Do the action
-
-| Pronoun | Example |
-|---------|---------|
-| **I** | *I run every day.* |
-| **He** | *He runs.* (= The boy runs.) |
-| **She** | *She eats.* (= Maria eats.) |
-| **It** | *It works.* |
-| **We / They / You** | *We run. / They eat.* |
-
-#### Object Pronouns — Receive the action
-
-| Subject | Object | Example |
-|---------|--------|---------|
-| I | **me** | *She sees **me**.* |
-| He | **him** | *I like **him**.* |
-| She | **her** | *I see **her**.* |
-| It | **it** | *He wants **it**.* |
-| We | **us** | *They help **us**.* |
-| They | **them** | *We know **them**.* |
-
-#### Reflexive Pronouns — Subject = object / emphasis
-
-| Subject | Reflexive | Example |
-|---------|-----------|---------|
-| I | **myself** | *I cut **myself**.* |
-| He | **himself** | *He dresses **himself**.* |
-| She | **herself** | *She wakes **herself** up.* |
-| It | **itself** | *The cat cleaned **itself**.* |
-| We | **ourselves** | *We did it **ourselves**.* |
-| You (plural) | **yourselves** | *You can do it **yourselves**.* |
-| They | **themselves** | *They hurt **themselves**.* |
 
 ---
 
-### 🟡 3. Frequency Adverbs
+### 🟡 2. Frequency Adverbs
 
 #### Indefinite Frequency
 
@@ -128,7 +92,7 @@ Today you will learn the **3rd person Simple Present** rules with pronouns and n
 
 ---
 
-### 🟠 4. Daily Routine
+### 🟠 3. Daily Routine
 
 The natural sequence of a daily routine:
 

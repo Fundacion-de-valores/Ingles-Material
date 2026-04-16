@@ -36,7 +36,46 @@ Today you will review all the topics from the week — routines, frequency adver
 
 ## 🔑 Key Concepts — Detailed Explanation
 
-### 🔵 1. Telling Time
+---
+
+### 🟢 1. Pronouns
+
+#### Subject Pronouns — Do the action
+
+| Pronoun | Example |
+|---------|---------|
+| **I** | *I run every day.* |
+| **He** | *He runs.* (= The boy runs.) |
+| **She** | *She eats.* (= Maria eats.) |
+| **It** | *It works.* |
+| **We / They / You** | *We run. / They eat.* |
+
+#### Object Pronouns — Receive the action
+
+| Subject | Object | Example |
+|---------|--------|---------|
+| I | **me** | *She sees **me**.* |
+| He | **him** | *I like **him**.* |
+| She | **her** | *I see **her**.* |
+| It | **it** | *He wants **it**.* |
+| We | **us** | *They help **us**.* |
+| They | **them** | *We know **them**.* |
+
+#### Reflexive Pronouns — Subject = object / emphasis
+
+| Subject | Reflexive | Example |
+|---------|-----------|---------|
+| I | **myself** | *I cut **myself**.* |
+| He | **himself** | *He dresses **himself**.* |
+| She | **herself** | *She wakes **herself** up.* |
+| It | **itself** | *The cat cleaned **itself**.* |
+| We | **ourselves** | *We did it **ourselves**.* |
+| You (plural) | **yourselves** | *You can do it **yourselves**.* |
+| They | **themselves** | *They hurt **themselves**.* |
+
+---
+
+### 🔵 2. Telling Time
 
 | Time | How to say it |
 |------|--------------|
@@ -51,7 +90,7 @@ Today you will review all the topics from the week — routines, frequency adver
 
 ---
 
-### 🟢 2. Daily Routine + Frequency (Review)
+### 🟢 3. Daily Routine + Frequency (Review)
 
 The natural sequence of a daily routine:
 
@@ -74,7 +113,7 @@ The natural sequence of a daily routine:
 
 ---
 
-### 🟡 3. Mailing Addresses
+### 🟡 4. Mailing Addresses
 
 American mailing address format:
 
@@ -106,7 +145,7 @@ American mailing address format:
 
 ---
 
-### 🟠 4. Giving Opinions
+### 🟠 5. Giving Opinions
 
 | Type | Phrases |
 |------|---------|
