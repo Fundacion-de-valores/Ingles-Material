@@ -9,6 +9,7 @@ showTableOfContents: true
 
 > **At the end of the class, you will be able to:**
 
+- ✅ Use **subject, object, and reflexive pronouns** correctly.
 - ✅ **Read and say time** in American English (*"Ten o-three"*, *"Twelve o'clock"*).
 - ✅ **Reinforce daily routine vocabulary** and frequency adverbs from Day 3.
 - ✅ **Learn American mailing address format** and state abbreviations.
@@ -26,6 +27,9 @@ Today you will review all the topics from the week — routines, frequency adver
 
 | Term | Definition |
 |------|------------|
+| **Subject Pronouns** | Do the action: *I, you, he, she, it, we, they* |
+| **Object Pronouns** | Receive the action: *me, you, him, her, it, us, them* |
+| **Reflexive Pronouns** | Refer back to the subject: *myself, yourself, himself, herself, itself, ourselves, yourselves, themselves* |
 | **Telling Time (American style)** | *"Ten o-three"* (10:03); *"quarter past"* and *"half past"* are rare in American English |
 | **Street Types** | St. (Street), Ave. (Avenue), Rd. (Road), Blvd. (Boulevard) |
 | **State Abbreviations** | 50 abbreviations — CA (California), NY (New York), TX (Texas) |
@@ -268,10 +272,11 @@ Fill in the blanks:
 
 > **Before you go, make sure you know:**
 
-1. **Time** — Use *"o-"* for minutes 1–9 (*"five o-seven"*); say numbers directly for 10+ (*"ten thirteen"*). Avoid *"quarter/half past"* in American English.
-2. **Routine** — Wake up → eat breakfast *(not take)* → work → rest. Place frequency adverbs **before** the main verb.
-3. **Address** — Name → Street # + name → City, ST ZIP → USA. Learn the 50 state abbreviations and street types (St., Ave., Rd., Blvd.).
-4. **Opinions** — Use *"I agree / I disagree," "In my opinion," "I believe," "Some people say that"* with **rising intonation** for natural-sounding English.
+1. **Pronouns** — **Subject** *(he runs)* does the action / **Object** *(see him)* receives the action / **Reflexive** *(hurt himself)* refers back to the subject.
+2. **Time** — Use *"o-"* for minutes 1–9 (*"five o-seven"*); say numbers directly for 10+ (*"ten thirteen"*). Avoid *"quarter/half past"* in American English.
+3. **Routine** — Wake up → eat breakfast *(not take)* → work → rest. Place frequency adverbs **before** the main verb.
+4. **Address** — Name → Street # + name → City, ST ZIP → USA. Learn the 50 state abbreviations and street types (St., Ave., Rd., Blvd.).
+5. **Opinions** — Use *"I agree / I disagree," "In my opinion," "I believe," "Some people say that"* with **rising intonation** for natural-sounding English.
 
 ---
 

@@ -10,7 +10,6 @@ showTableOfContents: true
 > **At the end of the class, you will be able to:**
 
 - ✅ Form **Simple Present 3rd person singular** sentences and apply spelling rules correctly (+s / +es / +ies).
-- ✅ Use **subject, object, and reflexive pronouns** correctly.
 - ✅ Use **frequency adverbs** (always, sometimes, rarely…) and **daily routine vocabulary** to describe habits and answer *"How often...?"* questions fluently.
 
 ---
@@ -27,9 +26,6 @@ Today you will learn the **3rd person Simple Present** rules with pronouns and n
 |------|------------|
 | **3rd Person Singular (pronouns)** | He / She / It → verbs add **-s** *(walks)*, **-es** *(goes)*, **-ies** *(cries)* |
 | **3rd Person Singular (nouns)** | My family, His mom, The doctor, Her sister → *(plays, does, tries)* |
-| **Subject Pronouns** | Do the action: *I, you, he, she, it, we, they* |
-| **Object Pronouns** | Receive the action: *me, you, him, her, it, us, them* |
-| **Reflexive Pronouns** | Refer back to the subject: *myself, yourself, himself, herself, itself, ourselves, yourselves, themselves* |
 | **Frequency Adverbs** | Always (100%) / Usually (90%) / Often (80%) / Sometimes (50%) / Rarely–Hardly ever (10%) / Never (0%) |
 | **Definite Frequency** | Every day / daily, every month / monthly, twice a week |
 | **Every day vs. Everyday** | *Every day* = each day (adverb) / *Everyday* = common, ordinary (adjective: *everyday clothes*) |
@@ -192,9 +188,8 @@ Ask and answer these questions with a partner:
 > **Before you go, make sure you know:**
 
 1. **3rd Person** — Add *-s / -es / -ies* in affirmative; use *does / doesn't + base verb* for negatives and questions.
-2. **Pronouns** — **Subject** *(he runs)* does the action / **Object** *(see him)* receives the action / **Reflexive** *(hurt himself)* refers back to the subject.
-3. **Frequency Adverbs** — *Always / usually / often / sometimes / never* go **before** the main verb or **after** "be".
-4. **Daily Routine** — Wake up → breakfast *(eat/have)* → work. Answer *"How often does she...?"* with definite expressions like *"every day"* or *"twice a week"*.
+2. **Frequency Adverbs** — *Always / usually / often / sometimes / never* go **before** the main verb or **after** "be".
+3. **Daily Routine** — Wake up → breakfast *(eat/have)* → work. Answer *"How often does she...?"* with definite expressions like *"every day"* or *"twice a week"*.
 
 ---
 
