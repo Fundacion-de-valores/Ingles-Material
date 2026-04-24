@@ -47,7 +47,7 @@ Today you will learn and practice **can** and **could** to talk about ability, p
 | **Ability** | *I **can** swim.* / *She **can** speak three languages.* |
 | **Permission** | *You **can** borrow my notebook.* / *He **can** leave early.* |
 | **Request (informal)** | ***Can** you help me?* / ***Can** I ask a question?* |
-
+| **Adverbs of Manner** | Add **-ly** to adjective / memorize irregulars: *well, hard, fast, late* |
 ---
 
 ### 🟢 2. Could — Past Ability / Polite Requests / Permission / Possibility

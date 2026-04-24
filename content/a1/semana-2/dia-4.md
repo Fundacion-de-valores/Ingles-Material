@@ -118,9 +118,7 @@ They normally follow **2 sentence patterns**:
 |-------|---------|
 | **Prepositions of Time** | **at** (specific time/holidays) / **on** (days & dates) / **in** (months, years, seasons) |
 | **Prepositions of Place** | Indicate location: *in, on, under, behind, next to, between...* |
-| **Demonstrative Adjectives** | **this/these** (near) / **that/those** (far) — singular/plural |
 | **Online Vocabulary** | Scroll, click, log in, sign up, shut down, delete... |
-| **Adverbs of Manner** | Add **-ly** to adjective / memorize irregulars: *well, hard, fast, late* |
 
 ---
 

@@ -46,6 +46,7 @@ Today you will learn and practice **singular and plural nouns**, **count and non
 | **-es plurals** | Verbs ending in **-ch, -sh, -s, -x, -o** | *watch → watch**es*** / *potato → potato**es*** |
 | **-y → -ies** | Consonant + **y** | *city → cit**ies*** / *baby → bab**ies*** |
 | **Irregular plurals** | Must be memorized | *child → **children*** / *man → **men*** / *person → **people*** |
+| **Demonstrative Adjectives** | **this/these** (near) / **that/those** (far) — singular/plural |
 
 ---
 
