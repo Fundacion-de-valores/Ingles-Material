@@ -100,8 +100,8 @@ Here are some additional family members:
 * Wife: The woman you’re married to
 * Fiancé: The man you are going to marry 💍
 * Fiancée: The woman you are going to marry 💍
-* Father in Law: Your husband’s/wife’s father
-* Mother in Law: Your husband’s/wife’s mother
+* Father-in-Law: Your husband’s/wife’s father
+* Mother-in-Law: Your husband’s/wife’s mother
 
 **Key Concepts (Grammar Rules):**
 *Presposition of time*
