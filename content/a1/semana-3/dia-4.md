@@ -13,6 +13,8 @@ showTableOfContents: true
 - ✅ Use **could** to talk about past ability, permission, possibility, and making polite requests.
 - ✅ Differentiate between **can** and **could** in questions, statements, and negative forms.
 - ✅ Apply *can* and *could* in real-life situations such as making requests, giving permission, describing abilities, or politely asking for help.
+- ✅ Learn new vocabulary about **navigating online**.
+- ✅ Describe the way of doing something using **adverbs of manner**.
 
 ---
 
@@ -85,6 +87,88 @@ Today you will learn and practice **can** and **could** to talk about ability, p
 
 ---
 
+
+### 🟠 4. Navigating Online — Vocabulary
+
+| Phrasal Verb / Term | Meaning |
+|--------------------|---------|
+| **Scroll up** | Move the page upward |
+| **Scroll down** | Move the page downward |
+| **Click on** | Select something with the mouse |
+| **Sign in / Log in** | Enter your account |
+| **Sign up** | Create a new account |
+| **Set up** | Configure or install |
+| **Run out of** | Have no more of something |
+| **Back up** | Save a copy of data |
+| **Print out** | Print a document |
+| **Pop up (window)** | A window that appears suddenly |
+| **Shut down** | Turn off the computer |
+| **Delete** | Remove permanently |
+| **My Account** | Your personal profile section |
+| **Shipping Conditions** | Rules for delivery |
+| **Payment** | The process of paying |
+| **Returns and Refunds** | Sending back a product / getting money back |
+
+---
+
+### 🔴 5. Adverbs of Manner
+
+We use adverbs of manner to describe a **verb (an action)** — how somebody does something.
+
+> *"He drives **carefully**."*
+> *"My mother speaks **slowly**."*
+> *"The nurses left the room **quietly**."*
+
+---
+
+#### 5.1 How to form an adverb of manner
+
+Normally, add **-ly** to an adjective:
+
+| Adjective | Adverb |
+|-----------|--------|
+| happy | **happily** |
+| careful | **carefully** |
+| quick | **quickly** |
+| slow | **slowly** |
+| beautiful | **beautifully** |
+| sad | **sadly** |
+
+---
+
+Here you will find a list of the most common adverbs of manner:
+
+![Adverbs of Manner](/images/adverbs-of-manner.png)
+
+---
+
+#### 5.2 Irregular Adverbs — must be memorized!
+
+| Adjective | Adverb |
+|-----------|--------|
+| good | **well** |
+| hard | **hard** |
+| fast | **fast** |
+| late | **late** |
+| straight | **straight** |
+| high | **high** |
+
+> ⚠️ *These adverbs do **not** add -ly — they keep the same form or change completely.*
+
+---
+
+#### 5.3 Adjectives vs. Adverbs
+
+| Type | Describes | Example |
+|------|-----------|---------|
+| **Adjective** | A **noun** (usually with verb "to be") | *She is **beautiful**.* |
+| **Adverb** | An **action / verb** | *She sings **beautifully**.* |
+
+> 💡 *Adjectives describe **what** something is. Adverbs describe **how** something is done.*
+
+---
+
+
 ## 💡 Examples
 
 ### Ability — Can / Could
@@ -112,6 +196,11 @@ Today you will learn and practice **can** and **could** to talk about ability, p
 > *"I **can** help you with your homework. **Could** you bring me your notebook?"*
 > *"She **can** speak English, and he **can't**. **Could** you explain that again, please?"*
 > *"I **can't** come to the party tonight. **Could** I join next time?"*
+
+> ### Adverbs of Manner
+> *"She works **hard** every day."* (irregular)
+> *"He explained the lesson **clearly**."*
+> *"They spoke **quietly** in the library."*
 
 ---
 
@@ -178,6 +267,15 @@ Use:
 
 > **Example:** *"I can help you with your homework. Could you bring me your notebook?"*
 
+### Exercise 6 — Adverb or Adjective?
+Fill in the blank with the correct form:
+
+> *"She is a ___ (careful) driver."* → **careful** (adjective)
+> *"She drives ___."* → **carefully** (adverb)
+> *"He is ___."* *(good)* → **good** (adjective)
+> *"He plays soccer ___."* *(good)* → **well** (adverb)
+
+
 ---
 
 ## 🎬 Helpful Resources
@@ -196,6 +294,7 @@ Use:
 2. **Permission** — *Can* = give/deny permission (*You can use my pen*) / *Could* = polite permission (*Could I borrow your notebook?*).
 3. **Requests** — *Can you…? / Could you…?* → asking for help; *Can I…? / Could I…?* → asking for permission. Use **rising intonation** for polite requests.
 4. **Structure** — Affirmative: *subject + can/could + base verb*. Negative: *subject + can't/couldn't + base verb*. Question: *Can/Could + subject + base verb?*
+5. **Adverbs of Manner** — Add **-ly** to adjectives. Memorize irregulars: *well, hard, fast, late, straight, high*.
 
 > ⚠️ **Common mistakes to avoid:**
 > ❌ *I can **to** help you.* → ✅ *I can help you.*

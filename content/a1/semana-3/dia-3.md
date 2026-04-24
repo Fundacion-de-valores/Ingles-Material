@@ -13,6 +13,7 @@ showTableOfContents: true
 - ✅ Differentiate between **count and non-count nouns**.
 - ✅ Use common **quantifiers** (*some, any, much, many, a lot of*) appropriately.
 - ✅ Apply these structures in everyday contexts such as shopping, describing quantities, and basic workplace communication.
+- ✅ Use **demonstrative adjectives** to point and refer to objects.
 
 ---
 
@@ -99,6 +100,41 @@ Used to measure non-count nouns:
 
 ---
 
+### 🟡 6. Demonstrative Adjectives
+
+Demonstrative adjectives are used to **identify nouns** based on their **distance** from the speaker. There are 4: **this, these, that, those**.
+
+| | **Near** (can see, touch & point) | **Far** (can see & point, but NOT touch) |
+|-|----------------------------------|------------------------------------------|
+| **Singular** | **THIS** | **THAT** |
+| **Plural** | **THESE** | **THOSE** |
+
+---
+
+#### 👆 THIS — Singular, near
+
+> *"**This** is my cat."* *(I can see it, touch it, and point to it.)*
+> *"**This** dog is big."*
+
+#### 👆👆 THESE — Plural, near
+
+> *"**These** apples are red."* *(I can see them, touch them, and point to them.)*
+> *"**These** are my brothers."*
+
+#### 👉 THAT — Singular, far
+
+> *"**That** car over there is mine."* *(I can see it and point to it, but I can't touch it.)*
+> *"**That** is my mom."*
+
+#### 👉👉 THOSE — Plural, far
+
+> *"**Those** notebooks on the table are ours."* *(I can see them and point to them, but I can't touch them.)*
+> *"**Those** are big trees."*
+
+> 💡 *In English, demonstrative adjectives can refer to **people** too — it is not considered impolite.*
+
+---
+
 ## 💡 Examples
 
 ### Singular and Plural Nouns
@@ -121,6 +157,10 @@ Used to measure non-count nouns:
 > *"I drink **a bottle of water** every day."*
 > *"She eats **a bowl of rice**."*
 > *"He needs **a piece of information**."*
+
+> ### Demonstrative Adjectives
+> *"**This** is my phone."* (near)
+> *"**Those** people over there are my friends."* (far)
 
 ---
 
@@ -164,6 +204,14 @@ Fill in the blanks with the correct quantifier:
 
 > 🎯 Talk with a partner about quantities of food, drinks, or items at home.
 
+> ### Exercise 4 — This, These, That, or Those?
+Choose the correct demonstrative adjective:
+
+> *"___ book here is mine."* → **This**
+> *"___ mountains over there are beautiful."* → **Those**
+> *"___ are my keys."* *(holding them)* → **These**
+> *"___ building far away is the school."* → **That**
+
 ---
 
 ## 🎬 Helpful Resources
@@ -195,6 +243,7 @@ Fill in the blanks with the correct quantifier:
 3. **Non-Count Nouns** — Cannot be counted, no plural (*water, money, information*).
 4. **Quantifiers** — Count → *many, a few*; Non-count → *much, a little*; Both → *some, a lot of, any*.
 5. **Containers** — Use expressions to measure non-count nouns: *a bottle of water, a cup of coffee, a piece of information*.
+6. **Demonstrative Adjectives** — **This / These** (near) / **That / Those** (far). Singular vs. plural.
 
 > ⚠️ **Common mistakes to avoid:**
 > ❌ *informations, moneys* → ✅ *information, money*
