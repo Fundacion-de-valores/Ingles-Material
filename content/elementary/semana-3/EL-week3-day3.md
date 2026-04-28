@@ -26,7 +26,7 @@ Today, you will learn about the different parts of an address in the United Stat
 {{< img src="images/parts_of_addr.png" alt="Part of an Address" >}}
 
 ## 🧑‍🏫US States and Abbreviations
-|**NO.**|**COUNTRY**|**ABBREVIATION**|
+|**NO.**|**STATE**|**ABBREVIATION**|
 |:--:|:--:|:--:|
 |1|ALABAMA|AL|
 |2|ALASKA|AK|
