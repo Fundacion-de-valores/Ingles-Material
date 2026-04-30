@@ -50,8 +50,7 @@ Today you will learn how to talk about things that haven’t happened yet by for
 [UPLOAD - Subir/Cargar (En referencia a internet o una plataforma tecnológica)] {{< audio src="audio/upload.mp3" >}}
 [DRAW - Dibujar] {{< audio src="audio/draw.mp3" >}}
 [DRINK - Beber] {{< audio src="audio/drink.mp3" >}}
-[DRIVE - Conducir] {{< audio src="audio/drive
-.mp3" >}}
+[DRIVE - Conducir] {{< audio src="audio/drive.mp3" >}}
 [EAT - Comer] {{< audio src="audio/eat.mp3" >}}
 [EXPLAIN - Explicar] {{< audio src="audio/explain.mp3" >}}
 [FEEL - Sentir] {{< audio src="audio/feel.mp3" >}}
