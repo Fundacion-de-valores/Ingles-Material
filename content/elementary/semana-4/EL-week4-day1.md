@@ -32,9 +32,9 @@ Today you will learn how to talk about things that haven’t happened yet by for
 
 ## Verbs (Base form review):
 
-[ - ] {{< audio src="audio/.mp3" >}}
+[ASK - Preguntar] {{< audio src="audio/ask.mp3" >}}
 [BEGIN - Comenzar] {{< audio src="audio/ask.mp3" >}}
-[BELIEVE - Creer] {{< audio src="audio/belive.mp3" >}}
+[BELIEVE - Creer] {{< audio src="audio/believe.mp3" >}}
 [BRING - Traer] {{< audio src="audio/bring.mp3" >}}
 [BUY - Comprar] {{< audio src="audio/buy.mp3" >}}
 [SELL - Vender ] {{< audio src="audio/sell.mp3" >}}
@@ -42,7 +42,6 @@ Today you will learn how to talk about things that haven’t happened yet by for
 [CHANGE - Cambiar] {{< audio src="audio/change.mp3" >}}
 [COME - Venir] {{< audio src="audio/come.mp3" >}}
 [GO - Ir] {{< audio src="audio/go.mp3" >}}
-[Go - Ir] {{< audio src="audio/Go.mp3" >}}
 [CUT - Cortar] {{< audio src="audio/cut.mp3" >}}
 [DO - Hacer] {{< audio src="audio/do.mp3" >}}
 [MAKE - Hacer] {{< audio src="audio/make.mp3" >}}
