@@ -29,8 +29,82 @@ Today you will learn how to talk about things that haven’t happened yet by for
 * Soon/Shortly 
 * In the near future 
 * Eventually
-**Verbs (Base form review):**
 
+## Verbs (Base form review):
+
+[ - ] {{< audio src="audio/.mp3" >}}
+[BEGIN - Comenzar] {{< audio src="audio/ask.mp3" >}}
+[BELIEVE - Creer] {{< audio src="audio/belive.mp3" >}}
+[BRING - Traer] {{< audio src="audio/bring.mp3" >}}
+[BUY - Comprar] {{< audio src="audio/buy.mp3" >}}
+[SELL - Vender ] {{< audio src="audio/sell.mp3" >}}
+[CALL - Llamar] {{< audio src="audio/call.mp3" >}}
+[CHANGE - Cambiar] {{< audio src="audio/change.mp3" >}}
+[COME - Venir] {{< audio src="audio/come.mp3" >}}
+[GO - Ir] {{< audio src="audio/go.mp3" >}}
+[Go - Ir] {{< audio src="audio/Go.mp3" >}}
+[CUT - Cortar] {{< audio src="audio/cut.mp3" >}}
+[DO - Hacer] {{< audio src="audio/do.mp3" >}}
+[MAKE - Hacer] {{< audio src="audio/make.mp3" >}}
+[DOWNLOAD - Descargar(En referencia a internet o una plataforma tecnológica)] {{< audio src="audio/download.mp3" >}}
+[UPLOAD - Subir/Cargar (En referencia a internet o una plataforma tecnológica)] {{< audio src="audio/upload
+upload.mp3" >}}
+[DRAW - Dibujar] {{< audio src="audio/draw.mp3" >}}
+[DRINK - Beber] {{< audio src="audio/drink.mp3" >}}
+[DRIVE - Conducir] {{< audio src="audio/drive
+.mp3" >}}
+[EAT - Comer] {{< audio src="audio/eat.mp3" >}}
+[EXPLAIN - Explicar] {{< audio src="audio/explain.mp3" >}}
+[FEEL - Sentir] {{< audio src="audio/feel.mp3" >}}
+[FIND - Encontrar] {{< audio src="audio/find.mp3" >}}
+[FIX - Arreglar] {{< audio src="audio/Fix.mp3" >}}
+[GET - Obtener/Recibir/Comprar/Llegar/Entender] {{< audio src="audio/get.mp3" >}}
+[GIVE - Dar] {{< audio src="audio/give.mp3" >}}
+[GROW - Crecer] {{< audio src="audio/grow.mp3" >}}
+[HAVE - Tener] {{< audio src="audio/have.mp3" >}}
+[HEAR - Oir] {{< audio src="audio/hear.mp3" >}}
+[HELP - Ayudar] {{< audio src="audio/help.mp3" >}}
+[HOLD - Esperar/Sostener/Conservar (un puesto)/Contener/Realizar (evento)/Detener] {{< audio src="audio/hold.mp3" >}}
+[KNOW - Saber] {{< audio src="audio/know.mp3" >}}
+[LEARN - Aprender] {{< audio src="audio/learn.mp3" >}}
+[LEAVE - Salir/Irse] {{< audio src="audio/leave.mp3" >}}
+[LIKE - Gustar/Agradar] {{< audio src="audio/like.mp3" >}}
+[LIVE - Vivir] {{< audio src="audio/like.mp3" >}}
+[LOOK - Mirar (Intencionalmente)] {{< audio src="audio/like.mp3" >}}
+[WATCH - Observar (Intencional y prestando atención por tiempo prolongado)] {{< audio src="audio/watch.mp3" >}}
+[SEE - Ver] {{< audio src="audio/see.mp3" >}}
+[LOSE - Perder] {{< audio src="audio/lose.mp3" >}}
+[MEET - Conocer/Reunirse] {{< audio src="audio/meet.mp3" >}}
+[MOVE - Mover/Mudarse] {{< audio src="audio/move.mp3" >}}
+[NEED - Necesitar] {{< audio src="audio/need.mp3" >}}
+[PAINT - Pintar] {{< audio src="audio/paint.mp3" >}}
+[PAY - Pagar] {{< audio src="audio/pay.mp3" >}}
+[PLAY - Jugar] {{< audio src="audio/play.mp3" >}}
+[PUT - Poner] {{< audio src="audio/put.mp3" >}}
+[REMEMBER - Recordar] {{< audio src="audio/remember.mp3" >}}
+[RUN - Correr] {{< audio src="audio/run.mp3" >}}
+[SAY - Decir (Enfatiza en las palabras que se dicen)] {{< audio src="audio/say.mp3" >}}
+[TELL - Decir] {{< audio src="audio/tell.mp3" >}}
+[SEND - Enviar] {{< audio src="audio/send.mp3" >}}
+[SHOW - Mostrar] {{< audio src="audio/show.mp3" >}}
+[SLEEP - Dormir] {{< audio src="audio/sleep.mp3" >}}
+[SPEAK - Hablar (Formal, se utiliza mayormente al referirse al acto de hablar un idioma)] {{< audio src="audio/speak.mp3" >}}
+[TALK - Talk] {{< audio src="audio/talk.mp3" >}}
+[START - Iniciar] {{< audio src="audio/start.mp3" >}}
+[TAKE - Tomar] {{< audio src="audio/start.mp3" >}}
+[TEACH - Enseñar] {{< audio src="audio/teach.mp3" >}}
+[THINK - Think] {{< audio src="audio/think.mp3" >}}
+[TRY - Intentar] {{< audio src="audio/try.mp3" >}}
+[TURN ON - Encender] {{< audio src="audio/turn-on.mp3" >}}
+[TURN OFF - Apagar] {{< audio src="audio/turn-off.mp3" >}}
+[TYPE - Escribir] {{< audio src="audio/type.mp3" >}}
+[WAIT - Esperar] {{< audio src="audio/wait.mp3" >}}
+[WALK - Caminar] {{< audio src="audio/walk.mp3" >}}
+[WANT - Querer/Desear] {{< audio src="audio/want.mp3" >}}
+[WASH - Lavar] {{< audio src="audio/wash.mp3" >}}
+[WIN - Ganar] {{< audio src="audio/win.mp3" >}}
+[WORK - Trabajar] {{< audio src="audio/work.mp3" >}}
+[WRITE - Escribir] {{< audio src="audio/write.mp3" >}}
 
 
 ## 🔑Key Concepts (Grammar Rules):
