@@ -183,7 +183,7 @@ To ask if something exists, invert the structure:
 
 ## 🧑‍🏫Rules to Form Plural
 | Rule | Explanation | 
-| :---: | :---: | :---: |
+| :---: | :---: |
 | + -s | Add -s to most nouns | 
 | + -es | Add -es to nouns ending in -s, -ss, -sh, -ch, -x, -z | 
 | -y becomes -ies | Apples |
