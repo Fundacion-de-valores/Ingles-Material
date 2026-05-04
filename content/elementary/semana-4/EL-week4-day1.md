@@ -66,8 +66,8 @@ Today you will learn how to talk about things that haven’t happened yet by for
 [LEARN - Aprender] {{< audio src="audio/learn.mp3" >}}
 [LEAVE - Salir/Irse] {{< audio src="audio/leave.mp3" >}}
 [LIKE - Gustar/Agradar] {{< audio src="audio/like.mp3" >}}
-[LIVE - Vivir] {{< audio src="audio/like.mp3" >}}
-[LOOK - Mirar (Intencionalmente)] {{< audio src="audio/like.mp3" >}}
+[LIVE - Vivir] {{< audio src="audio/live.mp3" >}}
+[LOOK - Mirar (Intencionalmente)] {{< audio src="audio/look.mp3" >}}
 [WATCH - Observar (Intencional y prestando atención por tiempo prolongado)] {{< audio src="audio/watch.mp3" >}}
 [SEE - Ver] {{< audio src="audio/see.mp3" >}}
 [LOSE - Perder] {{< audio src="audio/lose.mp3" >}}

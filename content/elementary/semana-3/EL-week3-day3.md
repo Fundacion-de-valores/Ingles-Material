@@ -73,7 +73,7 @@ Today, you will learn about the different parts of an address in the United Stat
 |43|TEXAS|TX|
 |44|UTAH|UT|
 |45|VERMONT|VT|
-|46|VIRIGINA|VA|
+|46|VIRGINIA|VA|
 |47|WASHINGTON|WA|
 |48|WEST VIRGINIA|WV|
 |49|WISCONSIN|WI|
