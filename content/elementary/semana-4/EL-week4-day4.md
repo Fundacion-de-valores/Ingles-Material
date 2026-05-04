@@ -6,7 +6,7 @@ showTableOfContents: true
 ---
 
 ## 📖Topics of the Day:
-* A1 Self-Study Practice Guide (Certification Prep)
+* EL Self-Study Practice Guide (Certification Prep)
 
 ## 🎯Learning Objectives:
 _By the end of this lesson, you will be able to:_
