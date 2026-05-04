@@ -182,18 +182,28 @@ To ask if something exists, invert the structure:
 * There are → usually not contracted (avoid “there’re” for beginners)
 
 ## 🧑‍🏫Rules to Form Plural
-| Singular Form | Plural Form |
-| :---: | :---: |
-| House | Houses |
-| Book | Books |
-| Apple | Apples |
-| Dog | Dogs |
-| Cat | Cats |
-| Computer | Computers |
-| Finger | Fingers |
+| Rule | Explanation | 
+| :---: | :---: | :---: |
+| + -s | Add -s to most nouns | 
+| + -es | Add -es to nouns ending in -s, -ss, -sh, -ch, -x, -z | 
+| -y becomes -ies | Apples |
+| + -s(vowel + y) | Dogs |
+| -f / -fe -> -ves | Cats |
+| Irregular Plurals | Computers |
+| Same form | Fingers |
 | Bottle | Bottles |
 | Candy | Candies |
 | Cellphone | Cellphones |
+---
+| Example (Singular-Plural) |
+|:---:|
+| Book -Books / Car - Cars |
+| Bus - Buses / Box - Boxes|
+|City - Cities / Baby - Babies |
+|Boy - Boys / Key - Keys|
+|Leaf - Leaves / Life - Lives|
+|Child - Children / Man - Men|
+|Sheep - Sheep / Fish - Fish|
 
 ## 📝 Summary:
 There is vs. There are:
