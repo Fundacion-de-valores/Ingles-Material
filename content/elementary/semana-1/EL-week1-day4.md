@@ -16,6 +16,7 @@ lang_toggle_active: "es"
 * Money Vocabulary
 
 ## 🎯Objetivos del aprendizaje:
+
 *Al finalizar esta clase, serás capaz de:*
 
 1. Utilizar el verbo “Be” en el presente simple para hacer negaciones y preguntas cerradas, con el fin de prepararte para pedir datos sobre otras personas (nacionalidad, profesión, etc) y negar datos equivocados sobre ti mismo.
