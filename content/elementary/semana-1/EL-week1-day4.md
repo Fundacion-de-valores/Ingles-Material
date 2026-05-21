@@ -17,9 +17,11 @@ lang_toggle_active: "es"
 
 ## 🎯Objetivos del aprendizaje:
 *Al finalizar esta clase, serás capaz de:*
-1. Decir y entender los números cardinales de 1 a 100 en inglés, para compartir información como números de teléfono, cantidades o direcciones con un cliente.
-2. Preguntar y decir la hora en inglés para informar a un cliente sobre horarios de atención, tiempos de servicio, e historial de transacciones.
-3. Usar vocabulario básico de dinero en inglés para hablar de precios, pagos y costos.
+
+1. Utilizar el verbo “Be” en el presente simple para hacer negaciones y preguntas cerradas, con el fin de prepararte para pedir datos sobre otras personas (nacionalidad, profesión, etc) y negar datos equivocados sobre ti mismo.
+2. Decir y entender los números cardinales de 1 a 100 en inglés, para compartir información como números de teléfono, cantidades o direcciones con un cliente.
+3. Preguntar y decir la hora en inglés para informar a un cliente sobre horarios de atención, tiempos de servicio, e historial de transacciones.
+4. Usar vocabulario básico de dinero en inglés para hablar de precios, pagos y costos.
 
 ## 🗒️Introducción:
 
@@ -27,7 +29,8 @@ El día de hoy desarrollarás las bases para comprender y comunicar información
 
 Además, practicarás cómo expresar la hora para hablar con claridad sobre horarios y momentos específicos durante una llamada. 
 
-Finalmente, ampliarás tu vocabulario relacionado con el dinero para entender y mencionar precios o pagos con mayor seguridad.
+Finalmente, ampliarás tu vocabulario relacionado con el dinero para entender y mencionar precios o pagos con mayor seguridad, también practicarás las formas negativas e interrogativas del verbo “be” en el Simple Present en preparación para aprender otras estructuras la siguiente semana.
+
 
 ## ‼️Términos Importantes (Vocabulario del Día):
 *Numbers*
