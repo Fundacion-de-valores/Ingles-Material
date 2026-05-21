@@ -10,6 +10,7 @@ lang_toggle_active: "es"
 
 ## 📖Temas del día
 
+* Verb “Be” (Negative and Questions)
 * Cardinal Numbers
 * The time
 * Money Vocabulary
@@ -56,7 +57,78 @@ Para más detalles sobre cómo leer cantidades monetarias y el vocabulario comú
 {{< youtube VGgVNcUXa3A >}}
 
 ## 🔑Conceptos Clave (Reglas Gramaticales):
-*Ten vs. Teen numbers:*
+
+*Verb "Be" (Negative and Questions)*
+
+## Negative Sentences:
+
+1.	Profesiones: Para decir que alguien no tiene una profesión. Ejemplos:
+She’s not a doctor. – Ella no es una doctora.
+I am not an agent yet. – No soy un agente aún.
+They’re not teachers. – Ellos no son maestros.
+
+    👉 Muy útil en contextos de call center:
+I’m not a supervisor. – No soy un supervisor.
+He isn’t a customer. – Él no es un cliente.
+
+2.	Nacionalidad: Para decir de dónde alguien no es. Ejemplos:
+I am not Guatemalan. – No soy guatemalteco.
+She isn’t Mexican. – Ella no es Mexicana.
+They aren’t from the USA. – Ellos no son de Estados Unidos.
+
+3.	Descripción: Para decir cómo alguien no es (personalidad, estado, apariencia). Ejemplos:
+He isn’t happy. – Él no es feliz. / Él no está feliz.
+I am not tired. – No estoy cansada.
+The customer isn’t angry. – El cliente no está enojado.
+
+4.	Ubicación: Para decir dónde alguien o algo no está. Ejemplos:
+She isn’t at home. – Ella no está en casa.
+They aren’t in the office. – Ellos no están en la oficina.
+I am not at work. – No estoy en el trabajo.
+
+Existen uniones del personal pronoun y el verbo “be”, o del verbo “be” y la palabra “Not”, las cuales llamamos contracciones, estas tienen el mismo significado que las 3 palabras separadas, solo son una forma adicional de utilizarlas en inglés:
+---
+|Presonal Pronoun + Verb "Be" + Not|Contracción Pronoun + Be|Contracción Be + Not|
+|:---:|:---:|:---:|
+|I am not| I'm not | No existe|
+|You are not| You're not| You aren't|
+|He is not| He's not| He isn't|
+|She is not| She's not| She isn't|
+|It is not| It's not| It isn't|
+|We are not| We're not| We aren't|
+|They are not| They're not | They aren't|
+
+**Importante**
+Utiliza la estructura Subject + Be + Not + Complement para completer una oración con el verbo “Be”. Ejemplo:
+
+*Jack and Rose are not my friends.*
+
+## Interrogative Sentences
+Para hacer preguntas con el verbo “Be” cambiamos el orden de la oración. El verbo irá antes del sujeto. 
+
+Estructura: Be + Subject + Complement? Ejemplos:
+
+* Am I late?
+* Is he your techer?
+* Are they sick? 
+* Are you ready?
+
+## Short Answers
+Las respuestas cortas son muy comunes en inglés.
+
+Estructura: Yes/No + sujeto + verbo to be. Ejemplos:
+
+* Are you tired?
+Yes I am.
+No, I am not.
+* Is she your manager?
+Yes, she is.
+No, she isn't.
+* Are they busy?
+Yes, they are.
+No, they aren't.
+
+## Ten vs. Teen numbers:
 
 En inglés, algunos números pueden confundirse porque suenan muy parecidos, utiliza la siguiente información para diferenciarlos y saber pronunciar adecuadamente.
 
@@ -83,7 +155,7 @@ Estos números terminan en -ty y normalmente se pronuncian con más énfasis en 
 
 Estos números terminan en -teen y normalmente se pronuncian con más énfasis en la segunda sílaba. No olvides pronunciar la N en los teen numbers, esta letra hace una gran diferencia entre el primer grupo y este.
 
-## *Telling the time(American Way)*
+## Telling the time(American Way)
 
 Para responder a la pregunta: What time is it? en inglés, normalmente decimos primero la hora y luego los minutos. La estructura básica es:
 
