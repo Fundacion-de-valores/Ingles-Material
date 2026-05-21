@@ -12,14 +12,13 @@ showTableOfContents: true
 - ✅ Use **subject, object, and reflexive pronouns** correctly.
 - ✅ **Read and say time** in American English (*"Ten o-three"*, *"Twelve o'clock"*).
 - ✅ **Reinforce daily routine vocabulary** and frequency adverbs from Day 3.
-- ✅ **Learn American mailing address format** and state abbreviations.
 - ✅ **Practice giving professional opinions**, agreements, and disagreements for call center skills.
 
 ---
 
 ## 📖 Introduction
 
-Today you will review all the topics from the week — routines, frequency adverbs, 3rd person rule, and pronouns — while adding practical skills: **time-telling**, **addresses**, and **opinion phrases**. As an A1 student, you must master these for work schedules, directions, customer service, or daily planning conversations.
+Today you will review all the topics from the week — routines, frequency adverbs, 3rd person rule, and pronouns — while adding practical skills: **time-telling** and **opinion phrases**. As an A1 student, you must master these for work schedules, directions, customer service, or daily planning conversations.
 
 ---
 
@@ -31,9 +30,6 @@ Today you will review all the topics from the week — routines, frequency adver
 | **Object Pronouns** | Receive the action: *me, you, him, her, it, us, them* |
 | **Reflexive Pronouns** | Refer back to the subject: *myself, yourself, himself, herself, itself, ourselves, yourselves, themselves* |
 | **Telling Time (American style)** | *"Ten o-three"* (10:03); *"quarter past"* and *"half past"* are rare in American English |
-| **Street Types** | St. (Street), Ave. (Avenue), Rd. (Road), Blvd. (Boulevard) |
-| **State Abbreviations** | 50 abbreviations — CA (California), NY (New York), TX (Texas) |
-| **Mailing Address Order** | Name → Street # + Name + Apt # → City, State ZIP → USA |
 | **Giving Opinions** | Phrases like *"In my opinion,"* *"I agree,"* *"I disagree,"* *"As far as I'm concerned"* |
 
 ---
@@ -117,39 +113,7 @@ The natural sequence of a daily routine:
 
 ---
 
-### 🟡 4. Mailing Addresses
-
-American mailing address format:
-
-| Line | Content | Example |
-|------|---------|---------|
-| **1** | Full name | *John Doe* |
-| **2** | Street number + name + Apt # | *123 Main St. Apt 4B* |
-| **3** | City, State abbreviation ZIP code | *Miami, FL 33101* |
-| **4** | Country | *USA* |
-
-**Common street abbreviations:**
-
-| Full word | Abbreviation |
-|-----------|-------------|
-| Street | **St.** |
-| Avenue | **Ave.** |
-| Road | **Rd.** |
-| Boulevard | **Blvd.** |
-
-**Common state abbreviations:**
-
-| State | Abbreviation |
-|-------|-------------|
-| California | **CA** |
-| New York | **NY** |
-| Texas | **TX** |
-| Florida | **FL** |
-| Illinois | **IL** |
-
----
-
-### 🟠 5. Giving Opinions
+### 🟠 4. Giving Opinions
 
 | Type | Phrases |
 |------|---------|

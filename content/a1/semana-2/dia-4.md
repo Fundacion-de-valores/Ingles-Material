@@ -11,16 +11,24 @@ showTableOfContents: true
 
 - ✅ Learn the different **prepositions of time** and know when to use them.
 - ✅ Use the different **prepositions of place**.
+- ✅ **Learn American mailing address format** and state abbreviations.
 
 ---
 
 ## 📖 Introduction
 
-Today you will learn new vocabulary about **technology**. At the end of the class, you will know how to use **prepositions of time and place**. You will also know how to refer to objects that are **near or far** from you. Finally, you will be able to describe **how something is done**.
+Today you will learn new vocabulary about **technology**. At the end of the class, you will know how to use **prepositions of time and place**. You will also know how to refer to objects that are **near or far** from you and telling **addresses**. Finally, you will be able to describe **how something is done**.
 
 ---
 
 ## 📚 Important Terms — Daily Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **State Abbreviations** | 50 abbreviations — CA (California), NY (New York), TX (Texas) |
+| **Mailing Address Order** | Name → Street # + Name + Apt # → City, State ZIP → USA |
+| **Street Types** | St. (Street), Ave. (Avenue), Rd. (Road), Blvd. (Boulevard) |
+---
 
 ### 🔵 1. Prepositions of Time
 
@@ -106,11 +114,51 @@ They normally follow **2 sentence patterns**:
 
 ---
 
-### 🎬 Video — Prepositions of Place
+### 🟡 3. Mailing Addresses
+
+American mailing address format:
+
+| Line | Content | Example |
+|------|---------|---------|
+| **1** | Full name | *John Doe* |
+| **2** | Street number + name + Apt # | *123 Main St. Apt 4B* |
+| **3** | City, State abbreviation ZIP code | *Miami, FL 33101* |
+| **4** | Country | *USA* |
+
+**Common street abbreviations:**
+
+| Full word | Abbreviation |
+|-----------|-------------|
+| Street | **St.** |
+| Avenue | **Ave.** |
+| Road | **Rd.** |
+| Boulevard | **Blvd.** |
+
+**Common state abbreviations:**
+
+| State | Abbreviation |
+|-------|-------------|
+| California | **CA** |
+| New York | **NY** |
+| Texas | **TX** |
+| Florida | **FL** |
+| Illinois | **IL** |
+
+---
+
+### 📹 Video  — American Addresses & States
+
+{{< youtube ecF1y2bI2T4 >}}
+
+---
+
+
+### 🎬 Video  — Prepositions of Place
 
 {{< youtube kq65VGkVwC8 >}}
 
 ---
+
 
 ## 🔑 Key Concepts — Quick Reference
 
@@ -172,6 +220,7 @@ Describe your **daily routine** using:
 
 1. **Prepositions of Time** — **AT** (specific times & holidays) / **ON** (days & dates) / **IN** (months, years, seasons, centuries).
 2. **Prepositions of Place** — *in, on, under, behind, next to, between, in front of, above, below.*
+3. **Address** — Name → Street # + name → City, ST ZIP → USA. Learn the 50 state abbreviations and street types (St., Ave., Rd., Blvd.).
 
 ---
 
