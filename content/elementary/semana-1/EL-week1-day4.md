@@ -90,6 +90,7 @@ They aren’t in the office. – Ellos no están en la oficina.
 I am not at work. – No estoy en el trabajo.
 
 Existen uniones del personal pronoun y el verbo “be”, o del verbo “be” y la palabra “Not”, las cuales llamamos contracciones, estas tienen el mismo significado que las 3 palabras separadas, solo son una forma adicional de utilizarlas en inglés:
+
 ---
 |Presonal Pronoun + Verb "Be" + Not|Contracción Pronoun + Be|Contracción Be + Not|
 |:---:|:---:|:---:|
