@@ -33,7 +33,7 @@ Today you will learn how to talk about things that haven’t happened yet by for
 ## Verbs (Base form review):
 
 [ASK - Preguntar] {{< audio src="audio/ask.mp3" >}}
-[BEGIN - Comenzar] {{< audio src="audio/ask.mp3" >}}
+[BEGIN - Comenzar] {{< audio src="audio/begin.mp3" >}}
 [BELIEVE - Creer] {{< audio src="audio/believe.mp3" >}}
 [BRING - Traer] {{< audio src="audio/bring.mp3" >}}
 [BUY - Comprar] {{< audio src="audio/buy.mp3" >}}
@@ -54,7 +54,7 @@ Today you will learn how to talk about things that haven’t happened yet by for
 [EXPLAIN - Explicar] {{< audio src="audio/explain.mp3" >}}
 [FEEL - Sentir] {{< audio src="audio/feel.mp3" >}}
 [FIND - Encontrar] {{< audio src="audio/find.mp3" >}}
-[FIX - Arreglar] {{< audio src="audio/Fix.mp3" >}}
+[FIX - Arreglar] {{< audio src="audio/fix.mp3" >}}
 [GET - Obtener/Recibir/Comprar/Llegar/Entender] {{< audio src="audio/get.mp3" >}}
 [GIVE - Dar] {{< audio src="audio/give.mp3" >}}
 [GROW - Crecer] {{< audio src="audio/grow.mp3" >}}
@@ -88,7 +88,7 @@ Today you will learn how to talk about things that haven’t happened yet by for
 [SPEAK - Hablar (Formal, se utiliza mayormente al referirse al acto de hablar un idioma)] {{< audio src="audio/speak.mp3" >}}
 [TALK - Talk] {{< audio src="audio/talk.mp3" >}}
 [START - Iniciar] {{< audio src="audio/start.mp3" >}}
-[TAKE - Tomar] {{< audio src="audio/start.mp3" >}}
+[TAKE - Tomar] {{< audio src="audio/take.mp3" >}}
 [TEACH - Enseñar] {{< audio src="audio/teach.mp3" >}}
 [THINK - Think] {{< audio src="audio/think.mp3" >}}
 [TRY - Intentar] {{< audio src="audio/try.mp3" >}}
