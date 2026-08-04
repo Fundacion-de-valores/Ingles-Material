@@ -115,6 +115,7 @@ Son habilidades relacionadas con la personalidad, la comunicación y la forma de
 - *Positive Attitude (Actitud positiva)*
 - *Emotional Intelligence (Inteligencia emocional)*
 ## Simple Tenses Review (Simple Present, Simple Past, Present Continuous)
+
 **Frases útiles en el día a día**
 1. *I usually wake up at 6:00 a.m.*
 2. *I went to the supermarket yesterday.*
@@ -130,6 +131,7 @@ Son habilidades relacionadas con la personalidad, la comunicación y la forma de
 5. *We’re doing the test right now.*
 
 ## WH Words in Questions
+
 **Frases útiles en el día a día**
 1. *What time does the bus arrive?*
 2. *Where do you live?*
@@ -144,12 +146,14 @@ Son habilidades relacionadas con la personalidad, la comunicación y la forma de
 5. *Why is this sentence incorrect?*
 
 ## Parts of Speech (Noun, Verb, Object, Time Expressions)
+
 **Frases útiles en el día a día**
 1. *I drink water every morning.*
 2. *She bought a new laptop yesterday.*
 3. *We visit our grandparents every Sunday.*
 4. *They are watching a movie tonight.*
 5. *He studies English after work.*
+
 **Frases útiles en el salón de clases**
 1. *The teacher explains the lesson clearly.*
 1. *I completed the activity this morning.*
@@ -158,12 +162,14 @@ Son habilidades relacionadas con la personalidad, la comunicación y la forma de
 1. *They practice pronunciation in every class.*
 
 ## Soft and Hard Skills for a Call Center
+
 **Frases útiles en el día a día**
 1. *I always try to stay positive.*
 2. *I'm good at solving problems.*
 3. *I enjoy working with other people.*
 4. *I like learning new skills.*
 5. *I can work under pressure.*
+
 **Frases útiles en el salón de clases**
 1. *Active listening is important.*
 2. *Teamwork helps us learn faster.*
