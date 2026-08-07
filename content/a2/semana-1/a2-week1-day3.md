@@ -5,34 +5,34 @@ weight: 4
 showTableOfContents: true
 ---
 
-## Temas del día: 
+## 📝Temas del día: 
 1. *Modal Verbs*
 2. *Simple Future*
 3. *To vs For*
 4. *Regular and Irregular Verbs (Review)*
 ---
 
-## Objetivos
+## 🎯Objetivos
 **Al final del día tú podrás:**
 
-## MODAL VERBS
+## 📗MODAL VERBS
 - *Identificar el significado y uso de los principales modal verbs.*
 - *Utilizar los modal verbs para expresar habilidad, consejo, obligación, permiso y posibilidad.*
 - *Formular oraciones afirmativas, negativas e interrogativas utilizando modal verbs.*
 - *Emplear los modal verbs en conversaciones cotidianas con mayor precisión.*
-## SIMPLE FUTURE
+## 📘SIMPLE FUTURE
 - *Diferenciar los usos de will y be going to.*
 - *Construir oraciones afirmativas, negativas e interrogativas en el futuro.*
 - *Hablar sobre planes, predicciones y decisiones futuras.*
 - *Participar en conversaciones utilizando correctamente el tiempo futuro.*
 
-## TO vs FOR
+## 📙TO vs FOR
 - *Seleccionar la preposición correcta según el contexto.*
 - *Utilizar to y for en expresiones de uso frecuente.*
 - *Evitar errores comunes al emplear ambas preposiciones en conversaciones y textos.*
 ---
 
-## Introducción
+## 📖Introducción
 ### MODAL VERBS
 
 **Los modal verbs son verbos auxiliares que expresan:**
@@ -58,7 +58,7 @@ _Las palabras to y for son preposiciones muy comunes en inglés, pero tienen dif
     - *…for + noun…*
 ---
 
-## Vocabulario
+## 🧾Vocabulario
 ### MODAL VERBS
 - *Can I ask a question?*
 - *Could you zoom in, please? - ¿Podrías hacerle zoom, por favor?*
@@ -72,7 +72,7 @@ _Las palabras to y for son preposiciones muy comunes en inglés, pero tienen dif
 - *You should practice your English.*
 ---
 
-## SIMPLE FUTURE
+## 📕SIMPLE FUTURE
 - *I’ll go to the bathroom.*
 - *I won’t forget it.*
 - *I will study harder next time.*
@@ -83,7 +83,7 @@ _Las palabras to y for son preposiciones muy comunes en inglés, pero tienen dif
 - *We’re going to have a test on Wednesday.*
 ---
 
-## TO vs FOR
+## 📢TO vs FOR
 - *We have to practice for to improve our skills.* ❌
 - *We have to practice for improve our skills.* ❌
 - *We have to practice to improve our skills. (para + verbo = to + verb)*
@@ -95,7 +95,7 @@ _Las palabras to y for son preposiciones muy comunes en inglés, pero tienen dif
 - *Thanks for your help.*
 ---
 
-## REGULAR and IRREGULAR VERBS
+## 📔REGULAR and IRREGULAR VERBS
 ### Verbos Regulares
 - *I watched TV yesterday.*
 - *She cleaned her room.*
@@ -109,7 +109,7 @@ _Las palabras to y for son preposiciones muy comunes en inglés, pero tienen dif
 - *He studied English.*
 ---
 
-## Verbos Irregulares
+## 📚Verbos Irregulares
 - *I went to work.*
 - *She ate breakfast.*
 - *We saw a movie.*
@@ -122,7 +122,7 @@ _Las palabras to y for son preposiciones muy comunes en inglés, pero tienen dif
 - *He spoke with his manager.*
 ---
 
-## Expresiones comunes en pasado
+## 📚Expresiones comunes en pasado
 - *Last night...*
 - *Yesterday...*
 - *Last weekend...*
@@ -135,7 +135,7 @@ _Las palabras to y for son preposiciones muy comunes en inglés, pero tienen dif
 - *In 2025...*
 ---
 
-## Material
+## 🔗Material
 ## MODAL VERBS
 **Modals of ability:** {{<  youtube facQiZDrU4&t=19s >}} 
 ---

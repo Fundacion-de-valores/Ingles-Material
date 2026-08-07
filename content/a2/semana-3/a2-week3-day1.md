@@ -5,12 +5,12 @@ weight: 4
 showTableOfContents: true
 ---
 
-## Topics of the Day
+## 📝Topics of the Day
 - 1. *Military or Phonetic Alphabet (what it is)*
 - 2. *Contract vocabulary and understanding contracts (customer service)*
 - 3. *Simple Present and Simple Present Time Expressions*
 
-## Learning Objectives
+## 🎯Learning Objectives
 
 ### Military (Phonetic) Alphabet
 - *Identify what the Military (NATO) Phonetic Alphabet is.*
@@ -30,11 +30,11 @@ showTableOfContents: true
 - *Describe routines, facts, and permanent situations.* 
 - *Use common time expressions naturally in conversations.*
 
-## Introduction
+## 📖Introduction
 Today, you will learn how to apply the **Military Alphabet**. Also understand the **contract** vocabulary and understand basics on a contract. You will also learn to use properly the **simple present with the simple present time expressions**.
 ---
 
-## TOPIC 1 - MILITARY (PHONETIC) ALPHABET
+## 📚TOPIC 1 - MILITARY (PHONETIC) ALPHABET
 
 The Military Alphabet, also known as the NATO Phonetic Alphabet, is an international spelling system used to communicate letters clearly over the phone or radio.
 Each letter has a unique word to avoid confusion.
@@ -57,7 +57,7 @@ It is commonly used in Customer Service, Aviation, Emergency Services, and the M
 - *Your confirmation number is A-5-B-7*
 ---
 
-## TOPIC 2 - CONTRACT VOCABULARY
+## 📚TOPIC 2 - CONTRACT VOCABULARY
 
 ### Common Terms
 |*Agreement*|*Contract*|*Service*|*Customer*|
@@ -87,7 +87,7 @@ It is commonly used in Customer Service, Aviation, Emergency Services, and the M
 
 ---
 
-## TOPIC 3 - SIMPLE PRESENT
+## 📚TOPIC 3 - SIMPLE PRESENT
 ### The Simple Present is used to talk about:
 - *Daily routines*
 - *Habits*
@@ -96,7 +96,7 @@ It is commonly used in Customer Service, Aviation, Emergency Services, and the M
 - *Scheduled events* 
 ---
 
-## Structure
+## ✏️Structure
 
 **Affirmative**
 - *Subject + Verb + Complement*
@@ -119,7 +119,7 @@ Question
 - *Does she speak English?*
 ---
 
-## TOPIC 4 – TIME EXPRESIONS for Simple Present
+## 📚TOPIC 4 – TIME EXPRESIONS for Simple Present
 Time expressions used with the simple present indicate how often, when, or how regularly an action occurs. They help us describe routines, habits, or truths that recur in daily life.
 
 |**Frequency**|**Daily Routine**|**Other common expressions**|
@@ -136,7 +136,7 @@ Time expressions used with the simple present indicate how often, when, or how r
 |Never|||
 ---
 
-## Resources
+## 🔗Resources
 
 ## Military (Phonetic) Alphabet
 {{<  youtube JaqgU6dMON0 >}}  
@@ -150,6 +150,3 @@ https://www.ef.com/wwen/english-resources/english-grammar/simple-present-tense/
 ## Time Expression for Present Simple
 
 {{<  youtube Eg-qYPOta_Y >}}
-
-
-
