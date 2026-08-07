@@ -1,6 +1,6 @@
 ---
 title: "Day 1 - Week 3"
-description: "Present Perfect & Time Expressions"
+description: "Present Perfect and Time Expressions"
 weight: 4
 showTableOfContents: true
 ---
