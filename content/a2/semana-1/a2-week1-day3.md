@@ -1,6 +1,6 @@
 ---
 title: "Day 3 - Week 1"
-description: "Modals verbs, Regular and Irregular verbs, Simple Future & To vs For"
+description: "Modals verbs, Regular and Irregular verbs, Simple Future and To vs For"
 weight: 4
 showTableOfContents: true
 ---
@@ -137,7 +137,7 @@ _Las palabras to y for son preposiciones muy comunes en inglés, pero tienen dif
 
 ## 🔗Material
 ## MODAL VERBS
-**Modals of ability:** {{<  youtube facQiZDrU4&t=19s >}} 
+**Modals of ability:** {{<  youtube facQiZDrU4 >}} 
 ---
 
 **Modals of advice:** {{<  youtube rld1iPubpNk >}} 
