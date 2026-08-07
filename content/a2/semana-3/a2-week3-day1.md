@@ -145,7 +145,7 @@ Time expressions used with the simple present indicate how often, when, or how r
 
 https://www.ef.com/wwen/english-resources/english-grammar/simple-present-tense/
 
-{{<  youtube sH2rk3q4omM&t=104s >}} 
+{{<  youtube sH2rk3q4omM >}} 
 
 ## Time Expression for Present Simple
 
