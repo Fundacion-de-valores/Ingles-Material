@@ -5,7 +5,7 @@ weight: 4
 showTableOfContents: true
 ---
 
-## Theme of the Day
+## 🎯 Theme of the Day
 ### Certification Readiness
 ### Learning Objectives
 ### Students will:
@@ -15,9 +15,9 @@ showTableOfContents: true
 4. *Review the most common grammar mistakes.*
 5. *Communicate ideas naturally and confidently.*
 
-## Introduction
+## 📖 Introduction
 Today you will combine everything you have practiced throughout the week. The goal is to answer questions confidently, recognize grammar patterns quickly, and communicate your ideas naturally throughout the certification.
-### Important Vocabulary
+### 📚 Important Vocabulary
 - *Daily life*
 - *Work*
 - *Travel*
@@ -29,7 +29,7 @@ Today you will combine everything you have practiced throughout the week. The go
 - *Personal experiences*
 - *Future plans*
 
-## Key Concepts
+## 🔑 Key Concepts
 ### Before Answering
 - *Read or listen carefully.*
 - *Identify the tense.*
@@ -60,7 +60,7 @@ Today you will combine everything you have practiced throughout the week. The go
 - *Keep eye contact if the interview is online.*
 - *Always answer with complete sentences.*
 
-## To practice:
+## ✏️ To practice:
 
 ### Wednesday sample questions
 **Personal Information**

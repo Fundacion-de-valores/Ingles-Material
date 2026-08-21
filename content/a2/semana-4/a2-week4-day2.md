@@ -1,11 +1,11 @@
 ---
-title: "Day 1 - Week 4"
+title: "Day 2"
 description: "Simple Present, Simple past, WH Questions"
 weight: 4
 showTableOfContents: true
 ---
 
-## Theme of the Day
+## 🎯Theme of the Day
 **Talking About Experiences and Hypothetical Situations**
 ### Learning Objectives
 _Students will:_
@@ -15,9 +15,9 @@ _Students will:_
 - *Explain ideas with more detail.*
 - *Improve fluency while answering unexpected questions.*
 
-## Introduction
+## 📖 Introduction
 Today you will learn how to answer questions about your life experiences and imaginary situations. These questions require more than remembering grammar rules. You will practice organizing your ideas and explaining your answers clearly.
-## Important Vocabulary
+## 📚 Important Vocabulary
 - *Travel*
 - *Experiences*
 - *Technology*
@@ -28,7 +28,7 @@ Today you will learn how to answer questions about your life experiences and ima
 - *Problems*
 - *Solutions*
 
-## Key Concepts
+## 🔑 Key Concepts
 ### How to recognize Present Perfect
 _Look for:_
 - *Have you ever...*
@@ -80,7 +80,7 @@ _Useful expressions_
 
 _"I would travel to Japan because I love learning about different cultures and I have always wanted to visit that country."_
 
-## To practice: 
+## ✏️ To practice: 
 ### Tuesday sample questions
 ### Test (present perfect)
 https://test-english.com/grammar-points/a2/present-perfect/

@@ -1,11 +1,11 @@
 ---
-title: "Day 1 - Week 4"
+title: "Day 1"
 description: "Simple Present, Simple past, WH Questions"
 weight: 4
 showTableOfContents: true
 ---
 
-## Theme of the Day
+## 🎯 Theme of the Day
 ### Building Strong Answers: Present, Past and Future
 
 ## Learning Objectives
@@ -16,10 +16,10 @@ showTableOfContents: true
 - *Expand short answers by providing additional information.*
 - *Improve confidence when speaking about familiar topics.*
 
-## Introduction
+## 📖 Introduction
 Today you will begin preparing for your English certification by focusing on one of the most important skills in the exam: answering questions clearly and naturally. Rather than memorizing responses, you will learn how to identify the tense of the question, organize your ideas, and communicate complete answers with confidence.
 
-## Important Vocabulary
+## 📚 Important Vocabulary
 - *Daily routines*
 - *Jobs*
 - *Family*
@@ -32,7 +32,7 @@ Today you will begin preparing for your English certification by focusing on one
 - *Frequency expressions*
 - *Common verbs*
 
-## Key Concepts
+## 🔑 Key Concepts
 _How to identify the tense of a question_
 
 ### Present Simple
@@ -104,11 +104,13 @@ _Instead of:_
 - Add one or two extra details.
 - Avoid translating directly from Spanish.
 - Speak slowly and clearly.
- 
-## To practice:
+
+## ✏️ To practice:
 https://speak.speechace.co/placement/
-## Job interview (listening)
+
+### Job interview (listening)
 https://test-english.com/listening/a2/summer-job-interview-a2-english-listening-test/
+
 ## Monday sample questions
 ### Present Simple (Daily Life)
 1. What do you usually do after work?
