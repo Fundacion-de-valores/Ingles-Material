@@ -110,39 +110,39 @@ https://speak.speechace.co/placement/
 ## Job interview (listening)
 https://test-english.com/listening/a2/summer-job-interview-a2-english-listening-test/
 ## Monday sample questions
-- ### Present Simple (Daily Life)
-- 1. What do you usually do after work?
-- 2. What time do you wake up every day?
-- 3. Where do you live?
-- 4. What is your favorite food?
-- 5. Do you like studying English? Why?
-- 6. What do you do on weekends?
-- 7. Who do you live with?
-- 8. What kind of music do you like?
-- 9. How often do you exercise?
-- 10. What do you usually eat for breakfast?
-- ### Past Simple
-- 11. What did you do yesterday?
-- 12. Where did you go last weekend?
-- 13. What did you eat for dinner yesterday?
-- 14. Did you study English last night?
-- 15. What was your favorite subject in school?
-- 16. When did you start learning English?
-- 17. What was the last movie you watched?
-- 18. Who did you spend time with last weekend?
-- 19. What did you do during your last vacation?
-- 20. Did you enjoy your weekend? Why?
-- ### Future Simple
-- 21. What are you going to do tomorrow?
-- 22. What will you do after this class?
-- 23. Where are you going to travel next?
-- 24. What are your plans for this weekend?
-- 25. What job would you like to have in the future?
-- 26. Will you continue studying English?
-- 27. What are you going to eat tonight?
-- 28. Where will you be in five years?
-- 29. What do you hope to learn this year?
-- 30. How will English help your future?
+### Present Simple (Daily Life)
+1. What do you usually do after work?
+2. What time do you wake up every day?
+3. Where do you live?
+4. What is your favorite food?
+5. Do you like studying English? Why?
+6. What do you do on weekends?
+7. Who do you live with?
+8. What kind of music do you like?
+9. How often do you exercise?
+10. What do you usually eat for breakfast?
+### Past Simple
+11. What did you do yesterday?
+12. Where did you go last weekend?
+13. What did you eat for dinner yesterday?
+14. Did you study English last night?
+15. What was your favorite subject in school?
+16. When did you start learning English?
+17. What was the last movie you watched?
+18. Who did you spend time with last weekend?
+19. What did you do during your last vacation?
+20. Did you enjoy your weekend? Why?
+### Future Simple
+21. What are you going to do tomorrow?
+22. What will you do after this class?
+23. Where are you going to travel next?
+24. What are your plans for this weekend?
+25. What job would you like to have in the future?
+26. Will you continue studying English?
+27. What are you going to eat tonight?
+28. Where will you be in five years?
+29. What do you hope to learn this year?
+30. How will English help your future?
 
 ## test (simple tense)
 https://test-english.com/grammar-points/a1/present-simple/
@@ -163,4 +163,5 @@ https://www.superprof.es/apuntes/idiomas/ingles/verb-tense/future-tense/simple-f
 ### (with time expressions)
 Past Present and Future Tense English Speaking Practice| English Verb Tenses Conversations
 {{<  youtube c8SlHeRf2Q91eEaD >}} 
+
 {{<  youtube uPACgfqVVy4 >}} 
