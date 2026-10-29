@@ -173,7 +173,7 @@ _Time expressions used with the simple present indicate how often, when, or how 
 
 https://www.ef.com/wwen/english-resources/english-grammar/simple-present-tense/
 
- {{<  youtube sH2rk3q4omM&t >}} 
+ {{<  youtube sH2rk3q4omMt >}} 
 
 ## Time Expression for Present Simple
 
