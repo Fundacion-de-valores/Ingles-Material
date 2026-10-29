@@ -51,7 +51,6 @@ _Each letter has a unique word to avoid confusion._
 
 _It is commonly used in Customer Service, Aviation, Emergency Services, and the Military._
 
-[Phonetic Alphabet](/images/phonetic-alphabet.png)
 
 ## Common Customer Service Expressions
 - *Could you spell your last name, please?* 
