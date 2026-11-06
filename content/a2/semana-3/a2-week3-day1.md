@@ -1,152 +1,252 @@
 ---
 title: "Day 1 - Week 3"
-description: "Present Perfect and Time Expressions"
-weight: 4
+description: "Present Perfect & Time Expressions"
+weight: 1
 showTableOfContents: true
 ---
 
-## 📝Topics of the Day
-- 1. *Military or Phonetic Alphabet (what it is)*
-- 2. *Contract vocabulary and understanding contracts (customer service)*
-- 3. *Simple Present and Simple Present Time Expressions*
+## 📖Topics of the Day
 
-## 🎯Learning Objectives
+* Present Perfect
+* Since vs. For
+* Time Expressions: **before, during, since, till/until**
+* Yet, Still, and Already
 
-### Military (Phonetic) Alphabet
-- *Identify what the Military (NATO) Phonetic Alphabet is.*
-- *Spell names, addresses, and account information correctly.* 
-- *Improve communication with customers over the phone.*
-- *Reduce misunderstandings during customer interactions*
+## 🎯Lesson Objective
 
-### Contract Vocabulary
-- *Recognize common words used in customer service contracts.* 
-- *Understand the basic parts of a service agreement.*
-- *Explain common contract terms to customers.*
-- *Identify important information related to billing, services, and cancellation policies.* 
+By the end of this lesson, students will understand how to use the **Present Perfect** tense and common **time expressions** to talk about experiences, actions that started in the past and continue in the present, and recently completed actions.
 
-### SIMPLE PRESENT
-- *Understand when to use the Simple Present tense.* 
-- *Form affirmative, negative, and interrogative sentences.* 
-- *Describe routines, facts, and permanent situations.* 
-- *Use common time expressions naturally in conversations.*
+## 🎯Learning Objectives:
 
-## 📖Introduction
-Today, you will learn how to apply the **Military Alphabet**. Also understand the **contract** vocabulary and understand basics on a contract. You will also learn to use properly the **simple present with the simple present time expressions**.
----
+ *By the end of this lesson, you will be able to:*
 
-## 📚TOPIC 1 - MILITARY (PHONETIC) ALPHABET
+* Form affirmative, negative, and question sentences using the **Present Perfect**.
+* Use **since** and **for** correctly to describe duration.
+* Recognize and correctly use the time expressions **before, during, since, till/until**.
+* Differentiate between **yet, still, and already** in everyday conversations.
+* Speak and write about personal experiences using the Present Perfect with confidence.
 
-The Military Alphabet, also known as the NATO Phonetic Alphabet, is an international spelling system used to communicate letters clearly over the phone or radio.
-Each letter has a unique word to avoid confusion.
-Example:
-- *A = Alpha*
-- *B = Bravo*
-- *C = Charlie* 
-- *D = Delta*
+## 🗒️Introduction:
 
-It is commonly used in Customer Service, Aviation, Emergency Services, and the Military.
+Today, you will learn one of the most useful English tenses: the **Present Perfect**. This tense helps us talk about experiences, unfinished actions, and situations that connect the past with the present.
 
-'imagen'
+You will also learn how to express time using words like **since**, **for**, **before**, **during**, and **until**, as well as how to use **already**, **yet**, and **still** correctly in everyday English.
 
-### Common Customer Service Expressions
-- *Could you spell your last name, please?*
-- *Can you confirm your email address?*
-- *Could you repeat that using the phonetic alphabet?* 
-- *B as in Bravo.*
-- *M as in Mike.*
-- *Your confirmation number is A-5-B-7*
----
+These structures are commonly used in conversations, customer service, business communication, and daily life.
 
-## 📚TOPIC 2 - CONTRACT VOCABULARY
+## 🔑Topic 1: Present Perfect
 
-### Common Terms
-|*Agreement*|*Contract*|*Service*|*Customer*|
-|:---:|:---:|:---:|:---:|
-|Agreement|Contract|Service|Customer|
-|Provider|Terms and Conditions|Billing|Payment|
-|Monthly fee|Subscription|Account|Renewal|
-|Refund|Charge|Balance|Due date|
-|Coverage|Warranty|Policy|Signature|
-|Authorization|Liability|Breach of contract|Upgrade|
-|Downgrade|Activation|Deactivation|Period of time|
+### What is the Present Perfect?
 
----
+The Present Perfect is used to talk about:
 
-|**Useful Customer Service Sentences**|
-|:---:|
-|The contract starts today.|
-|The monthly fee is $35.00.|
-|Your service renews automatically.|
-|There is no cancellation fee.|
-|Your payment is due on the first of every month.|
-|Please review the terms and conditions.|
-|Your subscription expires next month.|
-|This service includes technical support.|
-|The agreement is valid for one year.|
-|You are eligible for a refund.|
+* Experiences
+* Actions that happened at an unspecified time
+* Actions that started in the past and continue now
+* Recently completed actions
 
----
-
-## 📚TOPIC 3 - SIMPLE PRESENT
-### The Simple Present is used to talk about:
-- *Daily routines*
-- *Habits*
-- *Facts*
-- *General truths* 
-- *Scheduled events* 
----
-
-## ✏️Structure
+### Structure
 
 **Affirmative**
-- *Subject + Verb + Complement*
-- *Example:*
-- *I work from home.*
-- *She works in Customer Service.*
----
+
+Subject + **have/has + past participle**
+
+Examples:
+
+* I have finished my homework.
+* She has visited New York.
+* They have worked here for five years.
 
 **Negative**
-- *Subject + do/does + not + Verb*
-- *Example:*
-- *I do not work weekends.*
-- *He doesn't answer billing questions.*
----
 
-Question
-- *Do/Does + Subject + Verb?*
-- *Example:*
-- *Do you work on Saturdays?*
-- *Does she speak English?*
----
+Subject + **have/has + not + past participle**
 
-## 📚TOPIC 4 – TIME EXPRESIONS for Simple Present
-Time expressions used with the simple present indicate how often, when, or how regularly an action occurs. They help us describe routines, habits, or truths that recur in daily life.
+Examples:
 
-|**Frequency**|**Daily Routine**|**Other common expressions**|
-|:--:|:--:|:--:|
-|Always|Every day|On Mondays|
-|Usually|Every morning|During the day|
-|Normally|Every afternoon|At work|
-|Often|Every evening|In the morning|
-|Frequently|Every nigth|At nigth|
-|Sometimes|Every week|After work|
-|Occasionally|Every month|Before lunch
-|Rarely|Every year||
-|Seldon|||
-|Never|||
----
+* I have not finished.
+* He hasn't called me.
+* We haven't seen that movie.
 
-## 🔗Resources
+**Questions**
 
-## Military (Phonetic) Alphabet
-{{<  youtube JaqgU6dMON0 >}}  
+Have/Has + subject + past participle?
 
-## Simple Present
+Examples:
 
-https://www.ef.com/wwen/english-resources/english-grammar/simple-present-tense/
+* Have you eaten?
+* Has she arrived?
+* Have they finished?
 
-{{<  youtube sH2rk3q4omM >}} 
+## 🔑Topic 2: Since vs. For
 
-## Time Expression for Present Simple
+Both are used with the Present Perfect, but they have different meanings.
 
-{{<  youtube Eg-qYPOta_Y >}}
+### Since
+
+Use **since** to indicate the **starting point** of an action.
+
+Examples:
+
+* I have lived here since 2018.
+* She has worked here since Monday.
+* We have known each other since childhood.
+
+Starting points can be:
+
+* Monday
+* 2015
+* January
+* Last week
+* Yesterday
+* 8:00 AM
+
+### For
+
+Use **for** to indicate the **duration** of time.
+
+Examples:
+
+* I have lived here for five years.
+* She has studied English for six months.
+* They have waited for two hours.
+
+Durations include:
+
+* Two hours
+* Three weeks
+* Five years
+* A long time
+
+## 🔑Topic 3: Time Expressions
+
+### Before
+
+Used to indicate an earlier time.
+
+Examples:
+
+* I have seen this movie before.
+* Wash your hands before eating.
+
+### During
+
+Means "throughout the time of."
+
+Examples:
+
+* I slept during the flight.
+* Don't talk during the exam.
+
+### Since
+
+Shows when something started.
+
+Examples:
+
+* She has lived here since 2020.
+* We have been friends since school.
+
+### Till / Until
+
+Means up to a certain time.
+
+Examples:
+
+* Wait until I arrive.
+* The store is open till 9 PM.
+* Stay here until tomorrow.
+
+## 🔑Topic 4: Yet, Still, and Already
+
+These words are commonly used with the Present Perfect.
+
+### Already
+
+Means something happened earlier than expected.
+
+Examples:
+
+* I have already eaten.
+* She has already finished.
+
+Usually goes:
+
+**have/has + already + past participle**
+
+### Yet
+
+Used in questions and negative sentences.
+
+Examples:
+
+* Have you finished yet?
+* I haven't finished yet.
+* Has he arrived yet?
+
+Usually appears at the end of the sentence.
+
+### Still
+
+Means the situation continues.
+
+Examples:
+
+* I still live with my parents.
+* She is still working.
+* They still haven't called.
+
+## 📝 Summary:
+
+Today you learned:
+
+* Present Perfect
+* Since vs. For
+* Before
+* During
+* Since
+* Till/Until
+* Already
+* Yet
+* Still
+
+These expressions help you communicate naturally about experiences, time, and ongoing situations.
+
+{{< img src="images/present_perfect_tense.png" alt="Present Perfect Tense" >}}
+
+## 📚Resources:
+
+**Past participle:**
+
+* [Past participle / flashcards](https://quizlet.com/181004542/past-participle-flash-cards/)
+* [REGULAR AND IRREGULAR VERBS LIST](https://www.uv.mx/pozarica/caa-conta/files/2016/02/REGULAR-AND-IRREGULAR-VERBS.pdf)
+
+_IRREGULAR VERBS SONG:_
+
+{{< youtube m-8dCNx52BM >}}
+
+**Present perfect:**
+
+* [Present perfect - mixed exercise](https://www.perfect-english-grammar.com/present-perfect-exercise-4.html)
+* [Present perfect - mixed exercise 2](https://www.perfect-english-grammar.com/present-perfect-exercise-5.html)
+* [simple past OR present perfect ?](https://www.perfect-english-grammar.com/past-simple-present-perfect-1.html)
+* [Present perfect test](https://elt.oup.com/student/grammarfriends/level05/tests/test01?cc=gt&selLanguage=es)
+
+**Since and for:**
+
+* [since or for?](https://www.english-4u.de/en/tenses-exercises/for-since.htm)
+* [since and for / games](https://wordwall.net/es-ar/community/for-and-since)
+* [complete the sentences](https://www.baamboozle.com/game/738335)
+* [genially / short test](https://view.genially.com/5fa8139e84006a0d007095a3)
+* [flashcards](https://quizlet.com/gb/791222251/present-perfect-tense-since-and-for-flash-cards/)
+
+**before, during, since, till/until:**
+
+* [Exercise](https://englishexercises.co.uk/prepositions-6.php)
+* [for / since / until](https://wordwall.net/resource/70391813/prepositions-for-since-until)
+* [for, since, ago, until](https://agendaweb.org/exercises/grammar/for-since/for-since-ago-until-during-1.html)
+
+**Yet, still, already:**
+
+* [yet, still, already / agenda web](https://agendaweb.org/grammar/still-already-yet-exercises.html)
+* [yet, still, already, just / present perfect](https://quizlet.com/pl/573629601/present-perfect-with-still-yet-already-and-just-flash-cards/)
+* [worksheet](https://www.liveworksheets.com/worksheet/en/english-second-language-esl/675699)

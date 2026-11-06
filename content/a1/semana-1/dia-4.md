@@ -220,13 +220,7 @@ Fill in the blanks:
 
 ---
 
-### 📹 Video 2 — American Addresses & States
-
-{{< youtube ecF1y2bI2T4 >}}
-
----
-
-### 📹 Video 3 — Giving Opinions in English
+### 📹 Video 2 — Giving Opinions in English
 
 {{< youtube 939NoS-7b6M >}}
 
@@ -239,8 +233,7 @@ Fill in the blanks:
 1. **Pronouns** — **Subject** *(he runs)* does the action / **Object** *(see him)* receives the action / **Reflexive** *(hurt himself)* refers back to the subject.
 2. **Time** — Use *"o-"* for minutes 1–9 (*"five o-seven"*); say numbers directly for 10+ (*"ten thirteen"*). Avoid *"quarter/half past"* in American English.
 3. **Routine** — Wake up → eat breakfast *(not take)* → work → rest. Place frequency adverbs **before** the main verb.
-4. **Address** — Name → Street # + name → City, ST ZIP → USA. Learn the 50 state abbreviations and street types (St., Ave., Rd., Blvd.).
-5. **Opinions** — Use *"I agree / I disagree," "In my opinion," "I believe," "Some people say that"* with **rising intonation** for natural-sounding English.
+4. **Opinions** — Use *"I agree / I disagree," "In my opinion," "I believe," "Some people say that"* with **rising intonation** for natural-sounding English.
 
 ---
 

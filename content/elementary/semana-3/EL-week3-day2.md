@@ -64,11 +64,11 @@ _Examples:_
 
 |**Affirmative**|||
 |:--:|:--:|:--:|
-|I|was|sad.|
+|I|was|sad.| 
 |You|were|at home.|
 |He|was|a doctor.|
 |Ashley|was|a doctor.|
-|My doy|was|hungry.|
+|My dog|was|hungry.|
 |We|were|in New York.|
 |You guys|were|dancers.|
 |They|were|great friends.|
