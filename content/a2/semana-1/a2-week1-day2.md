@@ -207,7 +207,7 @@ https://www.ef.com/wwen/english-resources/english-grammar/simple-past-tense/
 
 ### WH Questions
 
-{{<  youtube gyK47DD0ogg&t=406s >}}
+{{<  youtube gyK47DD0ogg >}}
 
 ### Gerunds and Infinitives
 
@@ -219,4 +219,4 @@ https://www.ef.com/wwen/english-resources/english-grammar/gerund-equals-infiniti
 
 https://www.ef.com/wwen/english-resources/english-grammar/gerund-does-not-equal-infinitive/
 
-{{<  youtube DUeAkc4DgOU&t=20s >}}
+{{<  youtube DUeAkc4DgOU >}}
