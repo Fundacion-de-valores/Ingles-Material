@@ -5,41 +5,41 @@ weight: 4
 showTableOfContents: true
 ---
 
-## Lesson Title: Data Entry, Simple Present & Time Expressions
+## 🎓Lesson Title: Data Entry, Simple Present & Time Expressions
 ---
 
-## Topics of the Day
+## 📝Topics of the Day
 1. *Military or Phonetic Alphabet (what it is)*
 2. *Contract vocabulary and understanding contracts (customer service)*
 3. *Simple Present and Simple Present Time Expressions*
 
-## Learning Objectives
+## 🎯Learning Objectives
 
-### Military (Phonetic) Alphabet
+### 📗Military (Phonetic) Alphabet
 - *Identify what the Military (NATO) Phonetic Alphabet is.*
 - *Spell names, addresses, and account information correctly.* 
 - *Improve communication with customers over the phone.*
 - *Reduce misunderstandings during customer interactions* 
 
-## Contract Vocabulary
+## 📘Contract Vocabulary
 - *Recognize common words used in customer service contracts.* 
 - *Understand the basic parts of a service agreement.* 
 - *Explain common contract terms to customers.*
 - *Identify important information related to billing, services, and cancellation policies.* 
 
-## SIMPLE PRESENT
+## 📙SIMPLE PRESENT
 - *Understand when to use the Simple Present tense.* 
 - *Form affirmative, negative, and interrogative sentences.* 
 - *Describe routines, facts, and permanent situations.* 
 - *Use common time expressions naturally in conversations.*
 ---
 
-## Introduction
+## 📖Introduction
 _Today, you will learn how to apply the Military Alphabet. Also understand the contract vocabulary and understand basics on a contract. You will also learn to use properly the simple present with the simple present time expressions._
 
 
 
-## TOPIC 1 - MILITARY (PHONETIC) ALPHABET
+## 🔤TOPIC 1 - MILITARY (PHONETIC) ALPHABET
 
 _The Military Alphabet, also known as the NATO Phonetic Alphabet, is an international spelling system used to communicate letters clearly over the phone or radio._
 _Each letter has a unique word to avoid confusion._
@@ -53,7 +53,7 @@ _It is commonly used in Customer Service, Aviation, Emergency Services, and the 
 
 {{< img src="images/phonetic_alphabet.png" alt="Phonetic Alphabet" >}}
 
-## Common Customer Service Expressions
+## 💬Common Customer Service Expressions
 - *Could you spell your last name, please?* 
 - *Can you confirm your email address?*
 - *Could you repeat that using the phonetic alphabet?* 
@@ -62,7 +62,7 @@ _It is commonly used in Customer Service, Aviation, Emergency Services, and the 
 - *Your confirmation number is A-5-B-7*
 
 
-## TOPIC 2 - CONTRACT VOCABULARY
+## 📑TOPIC 2 - CONTRACT VOCABULARY
 
 
 | Término en Inglés |
@@ -114,7 +114,7 @@ _It is commonly used in Customer Service, Aviation, Emergency Services, and the 
 |**The agreement is valid for one year.**|
 |**You are eligible for a refund.**|
 
-## TOPIC 3 - SIMPLE PRESENT
+## 📗TOPIC 3 - SIMPLE PRESENT
 
 ### The Simple Present is used to talk about:
 
@@ -147,7 +147,7 @@ _It is commonly used in Customer Service, Aviation, Emergency Services, and the 
 - *Does she speak English?*
 ---
 
-## TOPIC 3 – TIME EXPRESIONS for Simple Present
+## ⏰TOPIC 3 – TIME EXPRESIONS for Simple Present
 
 _Time expressions used with the simple present indicate how often, when, or how regularly an action occurs. They help us describe routines, habits, or truths that recur in daily life._
 
@@ -165,17 +165,17 @@ _Time expressions used with the simple present indicate how often, when, or how 
 |*Seldon*|
 |*Never*|
 
-## Resources:
+## 🔗Resources:
 ### Military (Phonetic) Alphabet
 
 {{<  youtube JaqgU6dMON0 >}} 
 
-## Simple Present
+## 📗Simple Present
 
 https://www.ef.com/wwen/english-resources/english-grammar/simple-present-tense/
 
- {{<  youtube sH2rk3q4omMt >}} 
+ {{<  youtube sH2rk3q4omM >}} 
 
-## Time Expression for Present Simple
+## ⏰Time Expression for Present Simple
 
  {{<  youtube Eg-qYPOta_Y >}} 

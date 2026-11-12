@@ -5,42 +5,42 @@ weight: 5
 showTableOfContents: true
 ---
 
-## Lesson Title: Simple Past, WH Question Words, Gerunds & Infinitives
+## 🎓Lesson Title: Simple Past, WH Question Words, Gerunds & Infinitives
 ---
 
-## Topics of the Day
+## 📝Topics of the Day
 1. *Simple Past and ED Pronunciation (usage)*
 2. *WH Question Words (how to ask and answer a question)*
 3. *Review of Gerunds & Infinitives*
 
-## Learning Objectives
+## 🎯Learning Objectives
 
-### Simple Past & ED Pronunciation
+### 📗Simple Past & ED Pronunciation
 - *Understand when to use the Simple Past tense.*
 - *Form affirmative, negative, and interrogative sentences.*
 - *Identify regular and irregular verbs.*
 - *Recognize the three pronunciations of -ed (/t/, /d/, and /ɪd/).*
 - *Improve pronunciation during customer interactions.*
 
-### WH Question Words
+### 📘WH Question Words
 - *Identify the purpose of each WH question word.*
 - *Ask clear and effective questions.*
 - *Answer questions using complete sentences.*
 - *Improve communication with customers by asking for accurate information.*
 
-### Gerunds and Infinitives
+### 📙Gerunds and Infinitives
 - *Understand the difference between gerunds and infinitives.*
 - *Recognize common verbs followed by gerunds.*
 - *Recognize common verbs followed by infinitives.*
 - *Use both structures correctly in conversations and customer service situations.*
 ---
 
-## Introduction
+## 📖Introduction
 _Today, you will learn how to use the Simple Past to talk about completed actions in the past. You will also practice the correct pronunciation of regular verbs ending in -ed. Additionally, you will learn how to ask and answer questions using WH question words according to their purpose. Finally, you will study the difference between gerunds and infinitives and how to use them naturally in everyday conversations and customer service interactions._
 
 
 
-## TOPIC 1 - SIMPLE PAST
+## 📗TOPIC 1 - SIMPLE PAST
 
 ### The Simple Past is used to talk about:
 
@@ -95,7 +95,7 @@ _Today, you will learn how to use the Simple Past to talk about completed action
 | Practice | Practiced | Practicar |
 ---
 
-## TOPIC 2 - ED PRONUNCIATION
+## 🗣️TOPIC 2 - ED PRONUNCIATION
 
 _For the regular verbs, the Simple Past is formed by adding -ED, and this has three different pronunciations._
 
@@ -103,11 +103,11 @@ _For the regular verbs, the Simple Past is formed by adding -ED, and this has th
 - */t/ - Used after voiceless sounds.*
 - */d/ - Used after voiced sounds.*
 
-## TOPIC 3 - WH QUESTION WORDS
+## ❓TOPIC 3 - WH QUESTION WORDS
 
 _WH- question words are special words used to ask for specific information. They cannot be answered with a simple "yes" or "no". They are used for **open questions**._
 
-## TOPIC 4 - GERUNDS & INFINITIVES
+## 🔄TOPIC 4 - GERUNDS & INFINITIVES
 
 _Gerunds and infinitives are forms of verbs that function as nouns. The **gerund** uses the ending **+ing** (like eating) and the **infinitive** uses the particle **to + base verb** (like to eat). They are chosen according to the grammatical rule of the sentence, the main verb that accompanies them, or whether they follow a preposition._
 
@@ -194,7 +194,7 @@ _Both sentences are correct._
 |**The technician** ***visited*** **your location yesterday.**|
 |**We** ***appreciated*** **your patience.**|
 
-## Resources:
+## 🔗Resources:
 ### Simple Past
 
 https://www.ef.com/wwen/english-resources/english-grammar/simple-past-tense/

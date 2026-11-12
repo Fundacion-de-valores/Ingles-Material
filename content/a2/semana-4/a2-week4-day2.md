@@ -1,5 +1,5 @@
 ---
-title: "Day 2"
+title: "Day 2 - Week 4"
 description: "Simple Present, Simple past, WH Questions"
 weight: 4
 showTableOfContents: true
@@ -7,7 +7,7 @@ showTableOfContents: true
 
 ## 🎯Theme of the Day
 **Talking About Experiences and Hypothetical Situations**
-### Learning Objectives
+### 🎯 Learning Objectives
 _Students will:_
 - *Identify Present Perfect questions.*
 - *Recognize Second Conditional questions.*
@@ -39,7 +39,7 @@ _Look for:_
 - *since*
 - *for*
 
-## Example:
+## 💡 Example:
 _Have you ever traveled outside your country?_
 
 ### How to recognize Second Conditional
@@ -50,10 +50,10 @@ _Look for:_
 - *should*
 - *might*
 
-## Example:
+## 💡 Example:
 _What would you do if you had one million dollars?_
 
-## Talking about Experiences
+## 🗣️ Talking about Experiences
 _Useful expressions_
 - *I have never...*
 - *I have already...*
@@ -61,14 +61,14 @@ _Useful expressions_
 - *I have always wanted to...*
 - *One time I...*
 
-## Expressing Opinions
+## 💭 Expressing Opinions
 - *I think...*
 - *In my opinion...*
 - *I believe...*
 - *Personally...*
 - *For me…*
 
-## Making Answers Longer
+## ✍️ Making Answers Longer
 - *Answer*
 - *Reason*
 - *Example*
@@ -94,14 +94,14 @@ https://test-english.com/grammar-points/a2/second-conditional/
 
 https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/conditionals-zero-first-second
 
-## Present Perfect Questions You MUST Learn!
+## 🎬 Present Perfect Questions You MUST Learn!
 {{<  youtube yMr0fr3_VmE >}} 
 
-## Present Perfect Tense English Speaking Practice | Learn English Through Conversation (For Beginners)
-{{<  youtube W6Y3GI1qP >}}
+## 🎬 Present Perfect Tense English Speaking Practice | Learn English Through Conversation (For Beginners)
+{{<  youtube W6Y3GI1qP_o >}}
 
-## Second Conditional in English Conversation | Choosing a Dream Home!
+## 🎬 Second Conditional in English Conversation | Choosing a Dream Home!
 {{<  youtube dBKIpi9mHhk >}} 
 
-## If I Were You - Conditionals in English
+## 🎬 If I Were You - Conditionals in English
 {{<  youtube gxaTP6zF9Vc >}} 

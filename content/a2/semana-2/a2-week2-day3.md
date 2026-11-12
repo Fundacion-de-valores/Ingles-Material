@@ -5,16 +5,16 @@ weight: 11
 showTableOfContents: true
 ---
 
-## Lesson Title: Be Used To & Get Used To, De-escalation, First Call Resolution & Storytelling
+## 🎓Lesson Title: Be Used To & Get Used To, De-escalation, First Call Resolution & Storytelling
 ---
 
-## Temas del Día
+## 📝Temas del Día
 1. *Be used to & Get used to: talk about things that are familiar and things you are adapting to.*
 2. *How to De-escalate: use calm and positive language to reduce customer frustration.*
 3. *First Call Resolution (FCR): solve the customer's problem during the first call whenever possible.*
 4. *Storytelling Exercises: tell short stories using clear sequence and details.*
 
-## Objetivos de Aprendizaje
+## 🎯Objetivos de Aprendizaje
 
 _Al finalizar esta clase, serás capaz de:_
 
@@ -24,7 +24,7 @@ _Al finalizar esta clase, serás capaz de:_
 - *Contar historias cortas y participar en simulaciones de llamadas, utilizando **be used to**, **get used to**, técnicas de de-escalation y buenas prácticas de FCR para comunicarte con mayor confianza y fluidez.*
 ---
 
-## Introducción
+## 📖Introducción
 _El día de hoy aprenderás a expresar si una persona ya está acostumbrada a una situación o todavía se está adaptando a ella utilizando las expresiones be used to y get used to. Estas estructuras son muy útiles para hablar sobre nuevos trabajos, horarios, responsabilidades y cambios en la vida diaria._
 
 _Además, conocerás técnicas de de-escalation, una habilidad esencial en el servicio al cliente. Aprenderás cómo mantener la calma, demostrar empatía y utilizar un lenguaje positivo para ayudar a reducir la frustración de un cliente y mantener una conversación profesional._
@@ -35,7 +35,7 @@ _Finalmente, practicarás Storytelling, contando historias cortas sobre experien
 
 
 
-## Cómo formar oraciones con el Be used to y Get used to
+## 🧩Cómo formar oraciones con el Be used to y Get used to
 
 | | **BE USED TO** | **GET USED TO** |
 | :--- | :--- | :--- |
@@ -50,7 +50,7 @@ _Finalmente, practicarás Storytelling, contando historias cortas sobre experien
 | **Truco fácil** | BE USED TO = Ya es normal para mí. | GET USED TO = Todavía me estoy acostumbrando. |
 ---
 
-## Términos importantes (Vocabulario del día)
+## 🧾Términos importantes (Vocabulario del día)
 
 | **Be Used To & Get Used To** | |
 | :--- | :--- |
@@ -112,9 +112,9 @@ _Finalmente, practicarás Storytelling, contando historias cortas sobre experien
 | In the end | Al final |
 ---
 
-## Conceptos Claves de la Clase
+## 🔑Conceptos Claves de la Clase
 
-## TOPIC 1 - BE USED TO
+## 📗TOPIC 1 - BE USED TO
 
 **¿Cuándo lo usamos?**
 - *Cuando una persona ya está acostumbrada a algo.*
@@ -142,7 +142,7 @@ _Finalmente, practicarás Storytelling, contando historias cortas sobre experien
 
 > 💡 **Recuerda:** Habla de algo que ya es normal para ti.
 
-## TOPIC 2 - GET USED TO
+## 📘TOPIC 2 - GET USED TO
 
 **¿Cuándo lo usamos?**
 - *Cuando una persona todavía se está adaptando a una situación.*
@@ -169,7 +169,7 @@ _Finalmente, practicarás Storytelling, contando historias cortas sobre experien
 
 > 💡 **Recuerda:** Habla de un proceso de adaptación.
 
-## TOPIC 3 - DE-ESCALATION
+## 🤝TOPIC 3 - DE-ESCALATION
 
 **¿Qué significa?**
 - *Es la habilidad de calmar a un cliente molesto sin discutir.*
@@ -192,7 +192,7 @@ _Finalmente, practicarás Storytelling, contando historias cortas sobre experien
 
 > 💡 **Recuerda:** Primero calma al cliente; después resuelve el problema.
 
-## TOPIC 4 - FIRST CALL RESOLUTION (FCR)
+## ✅TOPIC 4 - FIRST CALL RESOLUTION (FCR)
 
 **¿Qué significa?**
 - *Resolver el problema del cliente durante la primera llamada, evitando que tenga que volver a llamar.*
@@ -214,7 +214,7 @@ _Finalmente, practicarás Storytelling, contando historias cortas sobre experien
 
 > 💡 **Recuerda:** Un cliente feliz es aquel que no necesita llamar nuevamente.
 
-## TOPIC 5 - STORYTELLING
+## 📕TOPIC 5 - STORYTELLING
 
 **¿Qué es?**
 - *Es la habilidad de contar una historia de manera clara y organizada.*
@@ -240,7 +240,7 @@ _Finalmente, practicarás Storytelling, contando historias cortas sobre experien
 
 > 💡 **Recuerda:** Una buena historia tiene un inicio, un desarrollo y un final, y utiliza conectores para que las ideas sean fáciles de seguir.
 
-## Resources:
-### Aprende a decir: "Yo puedo cuidar de mí mismo" en inglés
+## 🔗Resources:
+### 🎬Aprende a decir: "Yo puedo cuidar de mí mismo" en inglés
 
-{{<  youtube 6njnB0iu3VIe6Xxh >}}
+{{<  youtube 5M0NgGAsDFQ >}}

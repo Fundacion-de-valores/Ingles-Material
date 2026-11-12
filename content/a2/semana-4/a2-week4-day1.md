@@ -1,5 +1,5 @@
 ---
-title: "Day 1"
+title: "Day 1 - Week 4"
 description: "Simple Present, Simple past, WH Questions"
 weight: 4
 showTableOfContents: true
@@ -8,7 +8,7 @@ showTableOfContents: true
 ## 🎯 Theme of the Day
 ### Building Strong Answers: Present, Past and Future
 
-## Learning Objectives
+## 🎯 Learning Objectives
 ### By the end of this lesson, students will be able to:
 - *Recognize whether a question is asking about the present, past, or future.*
 - *Answer questions using complete and natural sentences.*
@@ -83,7 +83,7 @@ _Question Words_
 - *How many*
 - *How much*
 
-## Giving Better Answers
+## 💬 Giving Better Answers
 _Instead of answering with one word:_
 
 ❌ Yes.
@@ -99,7 +99,7 @@ _Instead of:_
 
 ✅ My favorite food is pizza because I love Italian food.
 
-## Speaking Strategies
+## 🗣️ Speaking Strategies
 - Answer using complete sentences.
 - Add one or two extra details.
 - Avoid translating directly from Spanish.
@@ -111,7 +111,7 @@ https://speak.speechace.co/placement/
 ### Job interview (listening)
 https://test-english.com/listening/a2/summer-job-interview-a2-english-listening-test/
 
-## Monday sample questions
+## 📝 Monday sample questions
 ### Present Simple (Daily Life)
 1. What do you usually do after work?
 2. What time do you wake up every day?
@@ -146,24 +146,24 @@ https://test-english.com/listening/a2/summer-job-interview-a2-english-listening-
 29. What do you hope to learn this year?
 30. How will English help your future?
 
-## test (simple tense)
+## ✅ test (simple tense)
 https://test-english.com/grammar-points/a1/present-simple/
 https://www.ego4u.com/en/cram-up/tests/simple-present-2
 
-## test (simple tense)
+## ✅ test (simple tense)
 https://test-english.com/grammar-points/a2/past-simple-form-use/
 https://www.curso-ingles.com/practicar/ejercicios/past-simple
 
-## Test (future)
+## ✅ Test (future)
 https://test-english.com/grammar-points/a2/will-vs-be-going-to/
 https://www.superprof.es/apuntes/idiomas/ingles/verb-tense/future-tense/simple-future-with-will.html
 
-## ENGLISH: 
+## 🎬 ENGLISH: 
 *Practice Asking Questions | Simple present | Simple past | Present continuous | Future*
-{{<  youtube DCOQu1HEtRONcocE >}}
+{{<  youtube OmIQSdaJ_kA >}}
 
 ### (with time expressions)
 Past Present and Future Tense English Speaking Practice| English Verb Tenses Conversations
-{{<  youtube c8SlHeRf2Q91eEaD >}} 
+{{<  youtube JrjYCnjxoMc >}} 
 
 {{<  youtube uPACgfqVVy4 >}} 

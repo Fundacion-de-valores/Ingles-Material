@@ -135,7 +135,7 @@ Son habilidades relacionadas con la personalidad, la comunicación y la forma de
 4. *We practice English every day.*
 5. *We’re doing the test right now.*
 
-## WH Words in Questions
+## ❓WH Words in Questions
 
 **Frases útiles en el día a día**
 1. *What time does the bus arrive?*
@@ -151,7 +151,7 @@ Son habilidades relacionadas con la personalidad, la comunicación y la forma de
 5. *Why is this sentence incorrect?*
 ---
 
-## Parts of Speech (Noun, Verb, Object, Time Expressions)
+## 📕Parts of Speech (Noun, Verb, Object, Time Expressions)
 
 **Frases útiles en el día a día**
 1. *I drink water every morning.*
@@ -167,7 +167,7 @@ Son habilidades relacionadas con la personalidad, la comunicación y la forma de
 1. *She answered the question correctly.*
 1. *They practice pronunciation in every class.*
 
-## Soft and Hard Skills for a Call Center
+## 💼Soft and Hard Skills for a Call Center
 
 **Frases útiles en el día a día**
 1. *I always try to stay positive.*

@@ -1,5 +1,5 @@
 ---
-title: "Day 3"
+title: "Day 3 - Week 4"
 description: " "
 weight: 4
 showTableOfContents: true
@@ -7,7 +7,7 @@ showTableOfContents: true
 
 ## 🎯 Theme of the Day
 ### Certification Readiness
-### Learning Objectives
+### 🎯 Learning Objectives
 ### Students will:
 1. *Demonstrate confidence while answering different types of questions.*
 2. *Recognize the grammar required in each question.*
@@ -38,21 +38,21 @@ Today you will combine everything you have practiced throughout the week. The go
 - *Answer using the same tense.*
 - *Add supporting information.*
 
-## Reading Strategies
+## 🔍 Reading Strategies
 - *Read the questions first.*
 - *Identify key words.*
 - *Look for synonyms.*
 - *Do not translate every word.*
 - *Focus on the main idea.*
 
-## Grammar Strategies
+## 🧩 Grammar Strategies
 - *Identify the subject.*
 - *Identify the auxiliary verb.*
 - *Recognize time expressions.*
 - *Pay attention to irregular verbs.*
 - *Check word order in questions.*
 
-## Speaking Tips
+## 🗣️ Speaking Tips
 - *Speak confidently.*
 - *Do not panic if you make a mistake.*
 - *Correct yourself naturally.*
@@ -149,7 +149,7 @@ https://oa.ugto.mx/oa/oa-rg-0001600/
 
 https://test-english.com/grammar-points/a2/asking-questions-in-english/3/.
 
-## Test (identify the auxiliar)
+## ✅ Test (identify the auxiliar)
 
 https://www.proprofs.com/quiz-school/story.php?title=auxiliary-verbs
 

@@ -5,15 +5,15 @@ weight: 10
 showTableOfContents: true
 ---
 
-## Lesson Title: Zero & First Conditional, Past Continuous & Call Flow
+## 🎓Lesson Title: Zero & First Conditional, Past Continuous & Call Flow
 ---
 
-## Temas del Día
+## 📝Temas del Día
 1. *Zero, First Conditional: say what is true and what will happen in simple everyday situations.*
 2. *Past Continuous: talk about what was happening at a moment in the past.*
 3. *Call Flow: how to start and what to say in a real call and useful customer service phrases.*
 
-## Objetivos de Aprendizaje
+## 🎯Objetivos de Aprendizaje
 
 _Al finalizar esta clase, serás capaz de:_
 
@@ -23,7 +23,7 @@ _Al finalizar esta clase, serás capaz de:_
 - ***Participar en conversaciones y juegos de roles**, utilizando el **Zero Conditional, First Conditional, Past Continuous** y expresiones útiles para comunicarte con más seguridad y confianza en inglés.*
 ---
 
-## Introducción
+## 📖Introducción
 _El día de hoy, desarrollarás tres habilidades importantes para comunicarte con mayor confianza en inglés. Primero, aprenderás a utilizar el Zero Conditional para hablar sobre hechos y situaciones que siempre son verdaderas, y el First Conditional para expresar lo que puede suceder en el futuro si ocurre una determinada condición. Estas estructuras te ayudarán a comunicar ideas, reglas y consecuencias de forma clara en conversaciones cotidianas._
 
 _Además, practicarás el Past Continuous para describir acciones que estaban ocurriendo en un momento específico del pasado. Este tiempo verbal te permitirá contar historias, explicar situaciones y comprender la importancia del verbo to be en pasado y entender mejor conversaciones donde se describen eventos pasados con mayor detalle._
@@ -32,7 +32,7 @@ _Finalmente, conocerás el Call Flow, aprendiendo cómo iniciar, mantener y fina
 
 
 
-## Términos importantes (Vocabulario del día)
+## 🧾Términos importantes (Vocabulario del día)
 
 | **Zero & First Conditional** | |
 | :--- | :--- |
@@ -79,23 +79,23 @@ _Finalmente, conocerás el Call Flow, aprendiendo cómo iniciar, mantener y fina
 | Have a great day! | ¡Que tenga un excelente día! |
 ---
 
-### Práctica de escucha y lectura con Past Continuous
+### 🎧Práctica de escucha y lectura con Past Continuous
 
 _Utiliza el siguiente link para escuchar el pasado continuo al contar una experiencia en pasado. Solo debes hacer click sobre el botón 'play' para escuchar el audio, también puedes leer la lección con ejemplos y datos sencillos pero importantes:_
 
 https://www.esl-lab.com/grammar/past-continuous/
 
-## Como formar oraciones con el Past Continuous:
+## 🧩Como formar oraciones con el Past Continuous:
 
 {{< img src="images/past_continuous_negative_table.png" alt="Past Continuous Negative" >}}
 
-### Aprende a evitar errores de vocabulario viendo el siguiente video
+### 🎬Aprende a evitar errores de vocabulario viendo el siguiente video
 
 {{<  youtube R0eqLl8VDS0 >}}
 
-## Conceptos Claves de la Clase
+## 🔑Conceptos Claves de la Clase
 
-## TOPIC 1 - ZERO CONDITIONAL
+## 📗TOPIC 1 - ZERO CONDITIONAL
 
 **¿Cuándo lo usamos?**
 - *Lo usamos para hablar de **hechos, reglas o cosas que siempre son verdad**.*
@@ -124,7 +124,7 @@ https://www.esl-lab.com/grammar/past-continuous/
 
 > 💡 **Recuerda:** Siempre habla de algo que normalmente pasa.
 
-## TOPIC 2 - FIRST CONDITIONAL
+## 📘TOPIC 2 - FIRST CONDITIONAL
 
 **¿Cuándo lo usamos?**
 - *Lo usamos para hablar de **una posibilidad real en el futuro**.*
@@ -153,7 +153,7 @@ https://www.esl-lab.com/grammar/past-continuous/
 
 > 💡 **Recuerda:** Habla de algo que puede pasar en el futuro.
 
-## TOPIC 3 - PAST CONTINUOUS
+## 📙TOPIC 3 - PAST CONTINUOUS
 
 **¿Cuándo lo usamos?**
 - *Lo usamos para hablar de **una acción que estaba ocurriendo en un momento del pasado**.*
